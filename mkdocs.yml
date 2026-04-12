@@ -1,0 +1,128 @@
+site_name: Study Vault — CACD 2026
+site_description: Resumos densos gerados por IA para preparação ao Concurso de Admissão à Carreira de Diplomata
+site_author: Ricardo Costa
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.keys
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - História Mundial:
+    - Visão Geral: historia-mundial/index.md
+    - 1. Estruturas e Ideias Econômicas:
+      - historia-mundial/01-01-revolucao-industrial-ao-capitalismo-organizado.md
+      - historia-mundial/01-02-fases-do-desenvolvimento-capitalista.md
+      - historia-mundial/01-03-fisiocracia-ao-liberalismo.md
+      - historia-mundial/01-04-marxismo.md
+      - historia-mundial/01-05-crise-de-1929-e-new-deal.md
+      - historia-mundial/01-06-prosperidade-no-segundo-pos-guerra.md
+      - historia-mundial/01-07-welfare-state-e-sua-crise.md
+      - historia-mundial/01-08-pos-fordismo-e-acumulacao-flexivel.md
+    - 2. Revoluções:
+      - historia-mundial/02-01-revolucao-francesa-e-revolucoes-burguesas.md
+      - historia-mundial/02-02-independencias-na-america.md
+      - historia-mundial/02-03-conceitos-revolucoes-contemporaneas.md
+      - historia-mundial/02-04-anarquismo.md
+      - historia-mundial/02-05-socialismo.md
+      - historia-mundial/02-06-revolucoes-russia-e-china.md
+      - historia-mundial/02-07-revolucoes-mexico-e-cuba.md
+    - 3. Relações Internacionais:
+      - historia-mundial/03-01-modelos-e-interpretacoes.md
+      - historia-mundial/03-02-concerto-europeu-e-sua-crise.md
+      - historia-mundial/03-03-rivalidades-coloniais.md
+      - historia-mundial/03-04-causas-primeira-guerra-mundial.md
+      - historia-mundial/03-05-14-pontos-de-wilson.md
+      - historia-mundial/03-06-paz-de-versalhes.md
+      - historia-mundial/03-07-liga-das-nacoes.md
+      - historia-mundial/03-08-causas-segunda-guerra-mundial.md
+      - historia-mundial/03-09-conferencias-e-ordem-mundial.md
+      - historia-mundial/03-10-bretton-woods.md
+      - historia-mundial/03-11-plano-marshall.md
+      - historia-mundial/03-12-organizacao-das-nacoes-unidas.md
+      - historia-mundial/03-13-guerra-fria-bipolaridade.md
+      - historia-mundial/03-14-conflitos-localizados.md
+      - historia-mundial/03-15-detente.md
+      - historia-mundial/03-16-segunda-guerra-fria.md
+      - historia-mundial/03-17-crise-e-desagregacao-bloco-sovietico.md
+    - 4. Colonialismo e Imperialismo:
+      - historia-mundial/04-01-fim-colonialismo-antigo-regime.md
+      - historia-mundial/04-02-nova-expansao-europeia.md
+      - historia-mundial/04-03-debates-natureza-imperialismo.md
+      - historia-mundial/04-04-partilha-africa-e-asia.md
+      - historia-mundial/04-05-dominacao-india-china-japao.md
+      - historia-mundial/04-06-descolonizacao.md
+      - historia-mundial/04-07-conferencia-de-bandung.md
+      - historia-mundial/04-08-nao-alinhamento.md
+      - historia-mundial/04-09-conceito-terceiro-mundo.md
+    - 5. Evolução Política e Econômica nas Américas:
+      - historia-mundial/05-01-expansao-territorial-eua.md
+      - historia-mundial/05-02-guerra-de-secessao.md
+      - historia-mundial/05-03-identidades-nacionais-america-latina.md
+      - historia-mundial/05-04-doutrina-monroe.md
+      - historia-mundial/05-05-pan-americanismo.md
+      - historia-mundial/05-06-oea-e-tiar.md
+      - historia-mundial/05-07-experiencias-integracao-americas.md
+    - 6. Ideias e Regimes Políticos:
+      - historia-mundial/06-01-liberalismo-e-nacionalismo-seculo-xix.md
+      - historia-mundial/06-02-construcao-estados-nacionais-alemanha-italia.md
+      - historia-mundial/06-03-democracia-fascismo-comunismo.md
+      - historia-mundial/06-04-ditaduras-e-regimes-fascistas.md
+      - historia-mundial/06-05-novo-nacionalismo-e-fundamentalismo.md
+      - historia-mundial/06-06-liberalismo-no-seculo-xx.md
+    - 7. Vida Cultural:
+      - historia-mundial/07-01-movimento-romantico.md
+      - historia-mundial/07-02-cultura-do-imperialismo.md
+      - historia-mundial/07-03-vanguardas-europeias.md
+      - historia-mundial/07-04-modernismo.md
+      - historia-mundial/07-05-pos-modernidade.md
+    - 8. Relações Internacionais no Século XXI:
+      - historia-mundial/08-01-novos-paradigmas-digitais.md

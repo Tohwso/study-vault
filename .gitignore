@@ -1,0 +1,10 @@
+# study-vault
+
+## .gitignore
+site/
+__pycache__/
+*.pyc
+.env
+.venv/
+data/books/
+*.pdf
