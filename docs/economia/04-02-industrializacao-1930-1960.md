@@ -1,8 +1,12 @@
 ---
-title: "A Industrialização Brasileira 1930-1945 e a Década de 1950"
-edital_ref: "4.3 e 4.4"
-capitulo: "4. História Econômica Brasileira"
+title: "2026 - CACD - Economia - A Industrialização Brasileira 1930-1945 e a Década de 1950"
+edital_ref: 4.3 e 4.4
+capitulo: 4. História Econômica Brasileira
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Industrialização 1930-1945 e a Década de 1950
@@ -172,3 +176,22 @@ O período **1950s** marcou a entrada massiva de **Investimento Direto Estrangei
 4. **Instrução 70 (câmbio múltiplo) e Instrução 113 (IDE)** — Instrumentos cambiais como ferramentas de política industrial; papel da SUMOC.
 
 5. **O Tripé do ISI pesado** — Estado + capital estrangeiro + capital nacional; estrutura que marcaria a economia brasileira até os anos 1990.
+
+
+## Conexões com Outros Temas do Edital
+
+- **3.1 (Teorias do Comércio)**: A **tese Prebisch-Singer** (deterioração dos termos de troca) é a justificativa teórica da **ISI**. O modelo de industrialização protegida é a alternativa ao livre comércio ricardiano para países periféricos — debate central no CACD.
+
+- **3.3 (Política Comercial)**: A ISI utilizou tarifas elevadas, câmbio múltiplo, Lei de Similares e controles quantitativos como instrumentos de proteção. A transição de ISI para abertura comercial (anos 1990) é o arco histórico completo da política comercial brasileira.
+
+- **2.1 (Contabilidade Nacional)**: A taxa de investimento (**FBCF/PIB**) durante a ISI pesada (Plano de Metas) atingiu patamares historicamente elevados — o **tripé ISI** (Estado + capital estrangeiro + capital nacional) financiou a formação bruta de capital.
+
+- **2.7 (Crescimento e Desenvolvimento)**: A ISI exemplifica a estratégia de **crescimento por acumulação de capital** (Big Push, Rosenstein-Rodan; crescimento desequilibrado, Hirschman). O debate sobre industrialização como caminho para o desenvolvimento é central na economia do desenvolvimento.
+
+- **4.1 (Economia Brasileira no Século XIX)**: A **crise do café** e a Revolução de 1930 são a ruptura que viabiliza a ISI. A transição do modelo agroexportador para a industrialização é uma das narrativas históricas mais cobradas no CACD.
+
+- **HM 1.5 (Crise de 1929)**: A Grande Depressão e o colapso dos preços de commodities foram o **gatilho exógeno** da transição para a ISI na América Latina. O mecanismo de **defesa da renda** (Furtado) — queima de estoques de café — como involuntária política anticíclica keynesiana é tese clássica.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

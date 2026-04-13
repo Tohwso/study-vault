@@ -1,15 +1,13 @@
 ---
 title: "2026 - CACD - História Mundial - A Revolução Francesa e as revoluções burguesas"
-tags:
-  - historia-mundial
-  - revolucoes
-  - revolucao-francesa
-  - revolucoes-burguesas
-  - CACD
-  - "2026"
-edital_ref: "2.1"
-capitulo: "2. Revoluções"
+tags: 
+edital_ref: 2.1
+capitulo: 2. Revoluções
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # 2026 - CACD - História Mundial - A Revolução Francesa e as revoluções burguesas
@@ -129,3 +127,7 @@ A Revolução Francesa conecta-se diretamente com múltiplos temas do edital CAC
 ---
 
 *Resumo elaborado para o CACD 2026 — História Mundial — Ponto 2.1 do edital.*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

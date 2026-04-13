@@ -1,8 +1,12 @@
 ---
-title: "Teorias do Comércio Internacional: Clássicas, Neoclássicas e Contemporâneas"
-edital_ref: "3.1"
-capitulo: "3. Economia Internacional"
+title: "2026 - CACD - Economia - Teorias do Comércio Internacional"
+edital_ref: 3.1
+capitulo: 3. Economia Internacional
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Teorias do Comércio Internacional
@@ -189,3 +193,22 @@ A HPS é **controversa empiricamente**: os dados de longo prazo (séculos XIX-XX
 4. **Cadeia Global de Valor (CGV)** — Fragmentação produtiva; comércio intrafirma; medição em valor agregado (TiVA); implicações para política comercial e industrial.
 
 5. **Heckscher-Ohlin e Stolper-Samuelson** — Teorema HO, Paradoxo de Leontief; quem ganha e quem perde com comércio livre (distribuição de renda interna).
+
+
+## Conexões com Outros Temas do Edital
+
+- **1.2 (Oferta do Produtor)**: O modelo de **Heckscher-Ohlin** utiliza a função de produção com dois fatores (K e L) para derivar padrões de comércio. As **economias de escala** são a base da nova teoria do comércio (Krugman) — retornos crescentes explicam o comércio intra-setorial.
+
+- **1.3 (Tipos de Mercados e Bens)**: A **nova teoria do comércio** de Krugman baseia-se em **concorrência monopolística** — firmas produzem bens diferenciados com economias de escala, gerando comércio intra-setorial entre países similares, não explicado por HO.
+
+- **3.2 (Macroeconomia Aberta)**: As teorias do comércio fundamentam a **conta corrente** do balanço de pagamentos. O **efeito dos termos de troca** (Prebisch-Singer) sobre a conta corrente de países em desenvolvimento é a ponte entre teoria do comércio e macroeconomia aberta.
+
+- **3.3 (Política Comercial)**: A **tarifa ótima** e o **argumento da indústria nascente** (List, CEPAL) são aplicações diretas das teorias do comércio à formulação de política. O debate livre comércio vs. protecionismo depende da teoria subjacente: Ricardo (livre comércio), List (proteção temporária), Prebisch (ISI).
+
+- **4.2 (Industrialização 1930-1960)**: A **tese Prebisch-Singer** da deterioração dos termos de troca fundamentou o modelo de **ISI** no Brasil e na América Latina — a justificativa teórica para a industrialização protegida era superar a vulnerabilidade do modelo agroexportador.
+
+- **HM 1.3 (Fisiocracia ao Liberalismo)**: **Adam Smith** (vantagens absolutas) e **David Ricardo** (vantagens comparativas) são as origens clássicas das teorias do comércio internacional. **Friedrich List** e o protecionismo da indústria nascente representam a contestação histórica ao livre-cambismo ricardiano.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

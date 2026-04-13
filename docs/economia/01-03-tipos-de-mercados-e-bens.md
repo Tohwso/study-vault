@@ -1,8 +1,12 @@
 ---
-title: "Tipos de Mercados e de Bens: Estruturas, Equilíbrio e Externalidades"
-edital_ref: "1.3"
-capitulo: "1. Microeconomia"
+title: "2026 - CACD - Economia - Tipos de Mercados e de Bens"
+edital_ref: 1.3
+capitulo: 1. Microeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Tipos de Mercados e de Bens
@@ -232,3 +236,22 @@ Além das externalidades clássicas, **assimetria de informação** é outra gra
 4. **Bens públicos e problema do carona** — Justificativa para intervenção estatal; aplicação a bens públicos globais (clima, segurança internacional, conhecimento científico).
 
 5. **Discriminação de preços** — Os três graus; aplicação a casos práticos (preços de medicamentos, tarifas aéreas).
+
+
+## Conexões com Outros Temas do Edital
+
+- **1.1 e 1.2 (Demanda e Oferta)**: As estruturas de mercado resultam da interação entre as características da demanda (elasticidades, diferenciação) e da oferta (economias de escala, barreiras). O **peso morto** do monopólio é medido pela perda de excedentes do consumidor e produtor.
+
+- **2.3 (Setor Público e Política Fiscal)**: As **falhas de mercado** (bens públicos, externalidades, poder de mercado, assimetria de informação) são a justificativa teórica para a intervenção estatal — as três funções de **Musgrave** (alocativa, distributiva, estabilizadora) derivam diretamente desta análise microeconômica.
+
+- **3.3 (Política Comercial)**: A análise de **excedentes e peso morto** é a ferramenta central para avaliar os custos e benefícios de tarifas, quotas e subsídios. O **argumento da indústria nascente** (List, CEPAL) é uma justificativa para protecionismo com base na superação de barreiras à entrada em mercados com economias de escala.
+
+- **2.7 (Crescimento e Desenvolvimento)**: O modelo de **Schumpeter** trata o monopólio temporário como incentivo à inovação — o lucro extraordinário é a recompensa do empreendedor que destrói criativamente as estruturas de mercado existentes. O debate entre concorrência perfeita e inovação é central.
+
+- **5.1 (Bancos Digitais)**: A regulação do sistema financeiro (Basileia, Banco Central) é essencialmente regulação de **mercados imperfeitos** — assimetria de informação (**Akerlof**, risco moral) justifica a regulação prudencial. Fintechs desafiam os monopólios naturais bancários tradicionais.
+
+- **HM 1.7 (Welfare State)**: A provisão estatal de bens públicos (saúde, educação, previdência) é a resposta prática ao **problema do carona** — o Welfare State é a institucionalização da função alocativa de Musgrave em larga escala.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

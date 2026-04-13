@@ -1,20 +1,18 @@
 ---
-título: "6.4 Ditaduras e Regimes Fascistas"
-aliases:
-  - Fascismo
-  - Totalitarismo
-  - Ditaduras do Século XX
-tags:
-  - história-mundial
-  - política
-  - fascismo
-  - totalitarismo
-  - CACD
-tema: "Ideias e Regimes Políticos"
-subtema: "Ditaduras e Regimes Fascistas"
+title: "2026 - CACD - História Mundial - Ditaduras e Regimes Fascistas"
+aliases: 
+tags: 
+tema: Ideias e Regimes Políticos
+subtema: Ditaduras e Regimes Fascistas
 status: completo
 criado: 2025-07-15
 atualizado: 2025-07-15
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+edital_ref: 6.4
+capitulo: 6. Ideias Políticas
 ---
 
 # 6.4 Ditaduras e Regimes Fascistas
@@ -24,6 +22,15 @@ atualizado: 2025-07-15
 > **Disciplina:** História Mundial — CACD 2026
 > **Status:** ✅ Completo
 > **Referências cruzadas:** [[06-01-iluminismo-e-liberalismo-classico|6.1]], [[06-02-socialismo-e-marxismo|6.2]], [[06-03-nacionalismo-e-autodeterminacao|6.3]], [[06-05-novo-nacionalismo-e-fundamentalismo|6.5]], [[06-06-liberalismo-no-seculo-xx|6.6]]
+
+!!! info "Temas do mesmo capítulo"
+    06.01 6.1 – Liberalismo e Nacionalismo no Século XIX
+    06.02 6.2 – Construção dos Estados Nacionais: Alemanha e Itália
+    06.03 6.3 – Democracia, Fascismo e Comunismo no Século XX
+    06.04 6.4 Ditaduras e Regimes Fascistas
+    06.05 6.5 Novo Nacionalismo e Fundamentalismo
+    06.06 6.6 Liberalismo no Século XX
+
 
 > [!info] Navegação do Capítulo
 > Este documento é parte do capítulo **6. Ideias e Regimes Políticos**, que abrange:
@@ -121,3 +128,7 @@ Os debates sobre a categorização de regimes autoritários contemporâneos — 
 ---
 
 > **Última atualização:** 2025-07-15 — Resumo denso para CACD 2026, cobrindo fundamentos ideológicos, estrutura dos regimes, análise arendtiana do totalitarismo, interpretações historiográficas e conexões com política externa brasileira.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

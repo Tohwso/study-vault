@@ -1,15 +1,13 @@
 ---
 title: "2026 - CACD - História Mundial - Revoluções na América Latina: os casos do México e de Cuba"
-tags:
-  - CACD-2026
-  - historia-mundial
-  - revolucao-mexicana
-  - revolucao-cubana
-  - america-latina
-  - revolucoes
-edital_ref: "2.7"
-capitulo: "2. Revoluções"
+tags: 
+edital_ref: 2.7
+capitulo: 2. Revoluções
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # 2026 - CACD - História Mundial - Revoluções na América Latina: os casos do México e de Cuba
@@ -196,3 +194,7 @@ A **perspectiva latino-americana** é essencial. **Tulio Halperin Donghi** (*His
 
 > **Resumo consolidado para o CACD 2026.** Este material cobre o tópico 2.7 do edital de História Mundial.
 > Última atualização: Junho 2025.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

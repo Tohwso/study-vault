@@ -1,8 +1,12 @@
 ---
 title: "2026 - CACD - História Mundial - As relações internacionais no século XXI frente aos novos paradigmas digitais, as redes sociais e as modernas ferramentas tecnológicas de comunicação"
-edital_ref: "8.1"
-capitulo: "8. Relações Internacionais no Século XXI"
+edital_ref: 8.1
+capitulo: 8. Relações Internacionais no Século XXI
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # As relações internacionais no século XXI frente aos novos paradigmas digitais, as redes sociais e as modernas ferramentas tecnológicas de comunicação

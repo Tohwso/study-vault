@@ -1,23 +1,31 @@
 ---
 title: "2026 - CACD - História Mundial - Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)"
-edital_ref: "1.2"
-capitulo: "1. Estruturas e Ideias Econômicas"
+edital_ref: 1.2
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
 date: 2025-06-30
-tags:
-  - historia-mundial
-  - capitalismo
-  - economia-politica
-  - CACD-2026
-  - fases-capitalismo
-  - ondas-longas
-  - ciclos-sistemicos
+tags: 
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)
 
 > **Edital:** 1.2 · **Capítulo:** 1 — Estruturas e Ideias Econômicas
 > **Status:** ✅ Completo · **Última revisão:** 2025-06-30
+
+!!! info "Temas do mesmo capítulo"
+    01.01 Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX
+    01.02 Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)
+    01.03 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
+    01.04 Marxismo
+    01.05 As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal
+    01.06 A Prosperidade no Segundo Pós-Guerra
+    01.07 1.7 Estado de bem-estar social (Welfare State) e sua crise
+    01.08 O Pós-Fordismo e a Acumulação Flexível
+
 
 > [!info] Tópicos irmãos no edital
 > - 01.01 — O mercantilismo e a formação dos Estados nacionais na Europa moderna
@@ -187,3 +195,7 @@ A abordagem VoC desafia narrativas de convergência neoliberal. Mesmo na Fase IV
 
 *Arquivo gerado para o projeto Study Vault — preparação CACD 2026.*
 *Última atualização: 2025-06-30*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

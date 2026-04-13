@@ -1,16 +1,15 @@
 ---
-title: "5.2 — A Guerra de Secessão dos Estados Unidos"
-tags:
-  - historia-mundial
-  - estados-unidos
-  - guerra-civil
-  - escravidao
-  - lincoln
-  - reconstrucao
-  - cacd
+title: "2026 - CACD - História Mundial - 5.2 — A Guerra de Secessão dos Estados Unidos"
+tags: 
 category: Historia Mundial
 status: completo
 created: 2025-07-13
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+edital_ref: 5.2
+capitulo: 5. As Américas
 ---
 
 # 5.2 — A Guerra de Secessão dos Estados Unidos
@@ -18,6 +17,16 @@ created: 2025-07-13
 > **Capítulo:** 5. A Evolução Política e Econômica nas Américas
 > **Seções irmãs:** 05.01 · 05.02 · 05.03 · 05.04 · 05.05 · 05.06 · 05.07
 > **Status:** ✅ Completo
+
+!!! info "Temas do mesmo capítulo"
+    05.01 5.1 — A Expansão Territorial dos Estados Unidos
+    05.02 5.2 — A Guerra de Secessão dos Estados Unidos
+    05.03 5.3 — Formação das Identidades Nacionais na América Latina
+    05.04 5.4 — A Doutrina Monroe e a Política dos EUA para a América Latina
+    05.05 5.5 – O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo
+    05.06 5.6 – A OEA e o Tratado do Rio de Janeiro (TIAR)
+    05.07 5.7 – As Experiências de Integração nas Américas
+
 
 > [!info] Contexto do Capítulo
 > Este resumo integra o Capítulo 5 — *A Evolução Política e Econômica nas Américas* — que abrange desde a expansão territorial estadunidense e a Guerra de Secessão até a formação das identidades nacionais latino-americanas e a projeção hegemônica dos EUA sobre o hemisfério. A seção 5.2 trata da Guerra Civil Americana (1861-1865), suas causas estruturais, o conflito militar, a abolição da escravidão e o período da Reconstrução.
@@ -115,3 +124,7 @@ A perspectiva da **história social** expandiu o campo para incluir a experiênc
 ---
 
 > **Navegação:** [← 5.1 Expansão Territorial EUA](05-01-expansao-territorial-eua.md) · **5.2 Guerra de Secessão** · [5.3 Identidades Nacionais na América Latina →](05-03-identidades-nacionais-america-latina.md)
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

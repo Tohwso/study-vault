@@ -1,8 +1,12 @@
 ---
-title: "Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX"
-edital_ref: "1.1"
-capitulo: "1. Estruturas e Ideias Econômicas"
+title: "2026 - CACD - História Mundial - Da Revolução Industrial ao Capitalismo Organizado"
+edital_ref: 1.1
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX

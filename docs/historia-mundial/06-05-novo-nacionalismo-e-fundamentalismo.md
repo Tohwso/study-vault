@@ -1,20 +1,18 @@
 ---
-título: "6.5 Novo Nacionalismo e Fundamentalismo"
-aliases:
-  - Novo Nacionalismo
-  - Fundamentalismo Religioso
-  - Populismo Contemporâneo
-tags:
-  - história-mundial
-  - política
-  - nacionalismo
-  - fundamentalismo
-  - CACD
-tema: "Ideias e Regimes Políticos"
-subtema: "Novo Nacionalismo e Fundamentalismo"
+title: "2026 - CACD - História Mundial - Novo Nacionalismo e Fundamentalismo"
+aliases: 
+tags: 
+tema: Ideias e Regimes Políticos
+subtema: Novo Nacionalismo e Fundamentalismo
 status: completo
 criado: 2025-07-15
 atualizado: 2025-07-15
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+edital_ref: 6.5
+capitulo: 6. Ideias Políticas
 ---
 
 # 6.5 Novo Nacionalismo e Fundamentalismo
@@ -24,6 +22,15 @@ atualizado: 2025-07-15
 > **Disciplina:** História Mundial — CACD 2026
 > **Status:** ✅ Completo
 > **Referências cruzadas:** [[06-01-iluminismo-e-liberalismo-classico|6.1]], [[06-02-socialismo-e-marxismo|6.2]], [[06-03-nacionalismo-e-autodeterminacao|6.3]], [[06-04-ditaduras-e-regimes-fascistas|6.4]], [[06-06-liberalismo-no-seculo-xx|6.6]]
+
+!!! info "Temas do mesmo capítulo"
+    06.01 6.1 – Liberalismo e Nacionalismo no Século XIX
+    06.02 6.2 – Construção dos Estados Nacionais: Alemanha e Itália
+    06.03 6.3 – Democracia, Fascismo e Comunismo no Século XX
+    06.04 6.4 Ditaduras e Regimes Fascistas
+    06.05 6.5 Novo Nacionalismo e Fundamentalismo
+    06.06 6.6 Liberalismo no Século XX
+
 
 > [!info] Navegação do Capítulo
 > Este documento é parte do capítulo **6. Ideias e Regimes Políticos**, que abrange:
@@ -121,3 +128,7 @@ A crescente influência do evangelicalismo na política doméstica brasileira e 
 ---
 
 > **Última atualização:** 2025-07-15 — Resumo denso para CACD 2026, cobrindo as raízes históricas, manifestações contemporâneas e interpretações teóricas do novo nacionalismo e do fundamentalismo religioso, com ênfase em suas implicações para as relações internacionais e a política externa brasileira.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

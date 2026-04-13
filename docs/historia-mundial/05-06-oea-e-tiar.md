@@ -1,22 +1,15 @@
 ---
-título: A OEA e o Tratado do Rio de Janeiro (TIAR)
-capítulo: 5 – A Evolução Política e Econômica nas Américas
-subcapítulo: 5.6
-disciplina: História Mundial
-tags:
-  - CACD
-  - história-mundial
-  - OEA
-  - TIAR
-  - sistema-interamericano
-  - Guerra-Fria
-  - segurança-coletiva
-  - não-intervenção
-  - direitos-humanos
-  - Carta-de-Bogotá
-  - Tratado-do-Rio
+title: "2026 - CACD - História Mundial - A OEA e o Tratado do Rio de Janeiro (TIAR)"
+capitulo: 5. As Américas
+edital_ref: 5.6
+tags: 
 status: completo
-última_revisão: 2025-07-14
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+edital_ref: 5.6
+capitulo: 5. As Américas
 ---
 
 # 5.6 – A OEA e o Tratado do Rio de Janeiro (TIAR)
@@ -24,6 +17,16 @@ status: completo
 > **Referência**: CACD 2026 — História Mundial, Capítulo 5, item 5.6
 > **Status**: ✅ Completo
 > **Última revisão**: 2025-07-14
+
+!!! info "Temas do mesmo capítulo"
+    05.01 5.1 — A Expansão Territorial dos Estados Unidos
+    05.02 5.2 — A Guerra de Secessão dos Estados Unidos
+    05.03 5.3 — Formação das Identidades Nacionais na América Latina
+    05.04 5.4 — A Doutrina Monroe e a Política dos EUA para a América Latina
+    05.05 5.5 – O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo
+    05.06 5.6 – A OEA e o Tratado do Rio de Janeiro (TIAR)
+    05.07 5.7 – As Experiências de Integração nas Américas
+
 
 > [!info] Navegação – Capítulo 5
 > Este resumo faz parte do **Capítulo 5 – A Evolução Política e Econômica nas Américas**:
@@ -172,3 +175,7 @@ A OEA enfrenta questionamentos crescentes sobre sua relevância e representativi
 ---
 
 > *Resumo elaborado para preparação CACD 2026 – História Mundial. Baseado em fontes acadêmicas e manuais especializados.*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

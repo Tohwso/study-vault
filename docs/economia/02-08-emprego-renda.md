@@ -1,8 +1,12 @@
 ---
-title: "Emprego e Renda: Desemprego, Mercado de Trabalho e Lei de Okun"
-edital_ref: "2.8"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - Emprego e Renda"
+edital_ref: 2.8
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Emprego e Renda
@@ -210,3 +214,22 @@ A relação tem sido estimada para o Brasil com coeficientes variados:
 4. **Indicadores da PNADc** — Distinguir desocupação, subocupação, desalento, informalidade; calcular taxa de participação; taxa de subutilização ampliada.
 
 5. **Determinação keynesiana vs. clássica do emprego** — Rigidez de salários; desemprego involuntário de equilíbrio; modelo de busca e matching (Diamond-Mortensen-Pissarides).
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.1 (Contabilidade Nacional)**: O **hiato do produto** (Y − Y*) é o conceito que conecta emprego ao PIB — a **Lei de Okun** quantifica: cada ponto percentual de hiato corresponde a aproximadamente 2 pontos de desemprego acima da taxa natural (NAIRU).
+
+- **2.5 (Teoria Monetária)**: A **Curva de Phillips** original conecta inflação e desemprego no curto prazo. A versão aceleracionista (Friedman-Phelps) introduz a **taxa natural de desemprego (NAIRU)** — no longo prazo, não há trade-off permanente entre inflação e desemprego.
+
+- **2.6 (Política Monetária)**: O **regime de metas de inflação** implica que o Banco Central aceita flutuações no desemprego de curto prazo para manter a inflação ancorada. A **Regra de Taylor** formaliza como o BC deve reagir ao hiato do produto e ao desvio da inflação da meta.
+
+- **2.3 (Setor Público e Política Fiscal)**: Os **estabilizadores automáticos** (seguro-desemprego, imposto progressivo) operam diretamente sobre o mercado de trabalho — amortecem flutuações no emprego sem ação discricionária. A política fiscal ativa (G↑) reduz desemprego via multiplicador keynesiano.
+
+- **2.7 (Crescimento e Desenvolvimento)**: No longo prazo, o nível de emprego é determinado pelo **crescimento do PIB potencial** (Solow). A **armadilha da renda média** frequentemente se manifesta como incapacidade de gerar empregos de alta produtividade.
+
+- **HM 1.5 (Crise de 1929)**: O **desemprego em massa** da Grande Depressão (25% nos EUA) foi o fenômeno que motivou a **revolução keynesiana** — a rejeição da Lei de Say e do pleno emprego automático é indissociável da experiência empírica da Depressão.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

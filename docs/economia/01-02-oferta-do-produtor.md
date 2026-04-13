@@ -1,8 +1,12 @@
 ---
-title: "Oferta do Produtor: Fatores de Produção, Função de Produção e Elasticidade"
-edital_ref: "1.2"
-capitulo: "1. Microeconomia"
+title: "2026 - CACD - Economia - Oferta do Produtor"
+edital_ref: 1.2
+capitulo: 1. Microeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Oferta do Produtor
@@ -180,3 +184,22 @@ O **excedente do produtor (EP)** é a diferença entre o preço que os produtore
 4. **Cobb-Douglas e Retornos de Escala** — Identificar α + β e classificar retornos; frequente em questões quantitativas.
 
 5. **Excedente do Produtor e Bem-Estar** — Análise de políticas (subsídios, impostos, tabelamentos): calcular e interpretar variação de excedentes.
+
+
+## Conexões com Outros Temas do Edital
+
+- **1.1 (Demanda do Consumidor)**: Oferta e demanda são as duas lâminas da tesoura marshalliana — a interação entre a curva de oferta (derivada do CMg) e a curva de demanda determina o **equilíbrio de mercado**. A incidência de um imposto depende das elasticidades relativas de ambos os lados.
+
+- **1.3 (Tipos de Mercados e Bens)**: As **economias de escala** determinam a estrutura de mercado: economias de escala persistentes levam ao **monopólio natural**, justificando regulação estatal. A Cobb-Douglas com retornos crescentes fundamenta modelos de **concorrência imperfeita**.
+
+- **2.7 (Crescimento e Desenvolvimento)**: A **função de produção** Cobb-Douglas é a base do **modelo de Solow** — o resíduo (PTF) é o que a função de produção não explica por acumulação de K e L. Os **rendimentos decrescentes** do capital fundamentam a convergência condicional.
+
+- **3.1 (Teorias do Comércio)**: A função de produção e os retornos de escala são centrais no modelo de **Heckscher-Ohlin** (dotação de fatores) e na **nova teoria do comércio** (Krugman) — economias de escala internas geram comércio intra-setorial mesmo entre países similares.
+
+- **4.2 (Industrialização 1930-1960)**: A **ISI brasileira** buscou construir a capacidade produtiva doméstica quando a oferta de bens industrializados importados foi restringida. A distinção entre bens de consumo, intermediários e de capital estrutura a análise das fases da industrialização.
+
+- **HM 1.1 (Da Revolução Industrial ao capitalismo organizado)**: A Revolução Industrial foi, essencialmente, uma transformação radical da **função de produção** — passagem da produção artesanal com rendimentos constantes para a produção fabril com economias de escala crescentes.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

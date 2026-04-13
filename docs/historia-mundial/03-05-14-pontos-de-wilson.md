@@ -1,17 +1,14 @@
 ---
 title: "2026 - CACD - História Mundial - Os 14 pontos de Wilson"
-tags:
-  - CACD
-  - história-mundial
-  - wilson
-  - 14-pontos
-  - idealismo
-  - autodeterminação
-  - liga-das-nações
-  - primeira-guerra-mundial
+tags: 
 date: 2025-01-27
-edital_ref: "3.5"
+edital_ref: 3.5
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+capitulo: 3. Relações Internacionais
 ---
 
 # 2026 - CACD - História Mundial - Os 14 pontos de Wilson
@@ -19,6 +16,26 @@ status: completo
 > **Status:** ✅ Completo
 > **Edital:** 3.5 — As Relações Internacionais
 > **Última atualização:** 2025-01-27
+
+!!! info "Temas do mesmo capítulo"
+    03.01 2026 - CACD - História Mundial - Modelos e interpretações
+    03.02 2026 - CACD - História Mundial - O Concerto Europeu e sua crise (1815-1918)
+    03.03 2026 - CACD - História Mundial - As rivalidades coloniais
+    03.04 2026 - CACD - História Mundial - Causas da Primeira Guerra Mundial
+    03.05 2026 - CACD - História Mundial - Os 14 pontos de Wilson
+    03.06 2026 - CACD - História Mundial - A Paz de Versalhes e a ordem mundial resultante (1919-1939)
+    03.07 2026 - CACD - História Mundial - A Liga das Nações
+    03.08 2026 - CACD - História Mundial - As causas da Segunda Guerra Mundial
+    03.09 2026 - CACD - História Mundial - As conferências de Moscou, Teerã, Ialta, Potsdam e São Francisco e a ordem mundial decorrente
+    03.10 2026 - CACD - História Mundial - Bretton Woods
+    03.11 2026 - CACD - História Mundial - O Plano Marshall
+    03.12 2026 - CACD - História Mundial - A Organização das Nações Unidas
+    03.13 2026 - CACD - História Mundial - A Guerra Fria: a noção de bipolaridade (de Truman a Nixon)
+    03.14 2026 - CACD - História Mundial - Os conflitos localizados
+    03.15 2026 - CACD - História Mundial - A détente
+    03.16 2026 - CACD - História Mundial - A segunda Guerra Fria (Reagan-Bush)
+    03.17 2026 - CACD - História Mundial - A crise e a desagregação do bloco soviético
+
 
 > [!info] Navegação — Capítulo 3: As Relações Internacionais
 > [[03-01|3.1]] · [[03-02|3.2]] · [[03-03|3.3]] · [[03-04|3.4]] · **3.5** · [[03-06|3.6]] · [[03-07|3.7]] · [[03-08|3.8]] · [[03-09|3.9]] · [[03-10|3.10]] · [[03-11|3.11]] · [[03-12|3.12]] · [[03-13|3.13]] · [[03-14|3.14]] · [[03-15|3.15]] · [[03-16|3.16]] · [[03-17|3.17]]
@@ -141,3 +158,7 @@ Para o Brasil, o princípio da autodeterminação conecta-se à tradição de de
 ---
 
 > **Fontes recomendadas:** CARR, E.H. *The Twenty Years' Crisis*; MACMILLAN, Margaret. *Paris 1919*; MANELA, Erez. *The Wilsonian Moment*; TOOZE, Adam. *The Deluge*; KISSINGER, Henry. *Diplomacia* (cap. sobre Wilson); SARAIVA, José Flávio S. *História das Relações Internacionais Contemporâneas*.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

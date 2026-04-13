@@ -1,8 +1,12 @@
 ---
 title: "2026 - CACD - História Mundial - A cultura do imperialismo"
-edital_ref: "7.2"
-capitulo: "7. A Vida Cultural"
+edital_ref: 7.2
+capitulo: 7. A Vida Cultural
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # A cultura do imperialismo

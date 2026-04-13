@@ -1,8 +1,12 @@
 ---
-title: "Bancos Digitais, Meios de Pagamento e a Transição do Dinheiro no Século XXI"
-edital_ref: "5"
-capitulo: "5. Temas Contemporâneos"
+title: "2026 - CACD - Economia - Bancos Digitais, Meios de Pagamento e a Transição do Dinheiro no Século XXI"
+edital_ref: 5
+capitulo: 5. Temas Contemporâneos
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Bancos Digitais, Meios de Pagamento e o Dinheiro Digital
@@ -12,6 +16,10 @@ status: completo
 > **Capítulo:** 5. Temas Contemporâneos
 > **Referência no edital:** 5
 > **Status:** ✅ Completo
+
+!!! info "Temas do mesmo capítulo"
+    05.01 Bancos Digitais, Meios de Pagamento e o Dinheiro Digital
+
 
 ---
 
@@ -232,3 +240,22 @@ A digitalização financeira amplia a superfície de ataque:
 4. **Fintechs e bancos digitais** — Modelo de negócio; disrupção do oligopólio bancário; regulação pelo BC (resolução 4.656/2018 — SEP, SCD); Nubank como caso de estudo.
 
 5. **Criptomoedas e regulação** — Bitcoin vs. stablecoins vs. CBDC; DeFi e riscos sistêmicos (colapso Terra/Luna 2022); Marco Legal das Criptomoedas no Brasil (Lei 14.478/2022).
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.5 (Teoria Monetária)**: As **CBDCs (Drex)** questionam os fundamentos da teoria monetária — se o Banco Central pode emitir moeda digital diretamente para o público, o multiplicador bancário clássico (reservas fracionárias) perde relevância. Criptomoedas desafiam o monopólio estatal de emissão.
+
+- **2.6 (Política Monetária)**: As fintechs e o **open banking** ampliam e aceleram os **canais de transmissão** da política monetária — a competição bancária torna a transmissão da Selic mais eficiente. CBDCs poderiam permitir ao BC implementar **juros negativos** diretamente.
+
+- **1.3 (Tipos de Mercados e Bens)**: O sistema bancário tradicional opera como **oligopólio** (altas barreiras à entrada, poder de mercado). As fintechs e o Marco Legal do Sandbox Regulatório reduziram barreiras, aumentando a contestabilidade do mercado — regulação como promotora de concorrência.
+
+- **3.2 (Macroeconomia Aberta)**: Criptomoedas e **stablecoins** facilitam fluxos de capital transfronteiriços fora do sistema bancário regulado, desafiando controles cambiais e a **Trindade Impossível**. CBDCs de múltiplas jurisdições podem reformar o sistema monetário internacional.
+
+- **2.3 (Setor Público e Política Fiscal)**: O **Pix** e a digitalização financeira ampliam a **base tributável** ao formalizar transações antes invisíveis. CBDCs poderiam permitir transferências fiscais diretas (helicopter money digital) e tributos programáveis.
+
+- **HM 1.8 (Pós-Fordismo)**: A **financeirização** (Harvey) e a acumulação flexível encontram sua expressão tecnológica nas fintechs e criptomoedas — a desintermediação financeira digital é a fase mais recente da financeirização do capitalismo tardio.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

@@ -1,8 +1,12 @@
 ---
-title: "Demanda do Consumidor: Preferências, Equilíbrio e Elasticidade"
-edital_ref: "1.1"
-capitulo: "1. Microeconomia"
+title: "2026 - CACD - Economia - Demanda do Consumidor"
+edital_ref: 1.1
+capitulo: 1. Microeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Demanda do Consumidor
@@ -214,3 +218,22 @@ O **excedente do consumidor (EC)** é a diferença entre o que os consumidores e
 4. **Condição de ótimo do consumidor** — TMS = razão de preços; saber derivar a curva de demanda individualmente e agregar para a demanda de mercado.
 
 5. **Curvas de indiferença** — Propriedades, interpretação da TMS, casos especiais (substitutos/complementares perfeitos). Frequentemente cobrado em questões interpretativas com gráficos.
+
+
+## Conexões com Outros Temas do Edital
+
+- **1.2 (Oferta do Produtor)**: A demanda do consumidor interage com a oferta do produtor na determinação do **equilíbrio de mercado** (1.3). A elasticidade-preço da demanda é determinante na **incidência tributária** — quem arca com o imposto depende das elasticidades relativas de oferta e demanda.
+
+- **1.3 (Tipos de Mercados e Bens)**: O **excedente do consumidor** é o conceito-chave para avaliar perda de bem-estar em estruturas de mercado não competitivas (monopólio, oligopólio). A **discriminação de preços** pelo monopolista depende diretamente da disposição a pagar revelada pela curva de demanda.
+
+- **2.1 (Contabilidade Nacional)**: O componente **C** (consumo das famílias) na identidade do PIB é a expressão macroeconômica agregada da demanda dos consumidores individuais. A **propensão marginal a consumir** (PMgC) de Keynes conecta a microeconomia da escolha do consumidor ao multiplicador keynesiano.
+
+- **2.8 (Emprego e Renda)**: A **elasticidade-renda da demanda** determina como mudanças no nível de emprego e renda afetam a composição setorial da produção — a **Lei de Engel** explica por que economias em crescimento realocam trabalho da agricultura para indústria e serviços.
+
+- **3.1 (Teorias do Comércio Internacional)**: As preferências dos consumidores fundamentam a **demanda por variedade** no comércio intra-setorial (modelo de Krugman). O conceito de **ganhos de comércio** para o consumidor (aumento do excedente) é a base da argumentação pró-livre comércio.
+
+- **4.1 (Economia Brasileira no Século XIX)**: A elasticidade-preço e elasticidade-renda da demanda por café no mercado internacional foram determinantes para o sucesso das **políticas de valorização do café** na Primeira República e para a vulnerabilidade do modelo agroexportador.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

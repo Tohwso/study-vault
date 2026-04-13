@@ -1,8 +1,12 @@
 ---
-title: "Política Comercial: Tarifas, Cotas, Subsídios e Outros Instrumentos"
-edital_ref: "3.3"
-capitulo: "3. Economia Internacional"
+title: "2026 - CACD - Economia - Política Comercial"
+edital_ref: 3.3
+capitulo: 3. Economia Internacional
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Política Comercial
@@ -12,6 +16,12 @@ status: completo
 > **Capítulo:** 3. Economia Internacional
 > **Referência no edital:** 3.3
 > **Status:** ✅ Completo
+
+!!! info "Temas do mesmo capítulo"
+    03.01 Teorias do Comércio Internacional
+    03.02 Macroeconomia Aberta
+    03.03 Política Comercial
+
 
 ---
 
@@ -198,3 +208,22 @@ Proteção de setores de defesa (aço, semicondutores) por razões estratégicas
 4. **Criação vs. desvio de comércio** — Análise de ALCs e uniões aduaneiras (Viner); MERCOSUL como caso de estudo.
 
 5. **Barreiras não tarifárias** — Tipos; escalonamento tarifário; SPS/TBT como protecionismo disfarçado; acordos voluntários de restrição de exportações.
+
+
+## Conexões com Outros Temas do Edital
+
+- **1.3 (Tipos de Mercados e Bens)**: A análise de **excedentes e peso morto** é a ferramenta microeconômica fundamental para avaliar custos de tarifas e quotas. Tarifas geram peso morto por distorcer preços relativos — a redistribuição de excedente do consumidor para o produtor e governo é central.
+
+- **3.1 (Teorias do Comércio)**: A política comercial é a aplicação prática das teorias do comércio — Ricardo justifica livre comércio; **List** e **CEPAL** justificam protecionismo temporário (indústria nascente); a **política comercial estratégica** (Brander-Spencer) justifica subsídios a setores com retornos crescentes.
+
+- **3.2 (Macroeconomia Aberta)**: Tarifas e quotas afetam a **balança comercial** e, via efeito multiplicador, o produto e o emprego. A relação entre protecionismo e câmbio é bidirecional — desvalorização cambial é equivalente funcional a uma tarifa uniforme (efeito Lerner).
+
+- **4.1 (Economia Brasileira no Século XIX)**: A Tarifa **Alves Branco** (1844) é o marco da política protecionista industrial no Brasil Imperial. O debate entre livre-cambismo (influência britânica) e protecionismo (Mauá) é recorrente na história econômica brasileira.
+
+- **4.2 (Industrialização 1930-1960)**: A **ISI** brasileira é a maior experiência de política comercial protecionista da história do país. A Lei de Similares, controles cambiais e tarifas elevadas foram os instrumentos centrais da industrialização protegida.
+
+- **HM 1.5 (Crise de 1929)**: A **Tarifa Smoot-Hawley** (1930) é o caso paradigmático de protecionismo destrutivo — retaliações comerciais em cadeia contribuíram para o colapso do comércio mundial em 65%. A lição motivou o **GATT** (1947) e a arquitetura multilateral de comércio.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

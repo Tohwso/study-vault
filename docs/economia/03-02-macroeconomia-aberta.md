@@ -1,8 +1,12 @@
 ---
-title: "Macroeconomia Aberta: Câmbio, Juros e Fluxos Internacionais"
-edital_ref: "3.2"
-capitulo: "3. Economia Internacional"
+title: "2026 - CACD - Economia - Macroeconomia Aberta"
+edital_ref: 3.2
+capitulo: 3. Economia Internacional
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Macroeconomia Aberta
@@ -243,3 +247,22 @@ No regime de metas de inflação com câmbio flutuante, o câmbio atua como **am
 4. **Pass-through cambial e relação câmbio-inflação-juros** — Mecanismo de transmissão; eficiência do canal cambial; dilema taxa de câmbio competitiva vs. controle da inflação.
 
 5. **Poupança externa e crescimento** — Debate convencional vs. novo-desenvolvimentismo (Bresser); substituição de poupança interna; riscos do sudden stop.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.2 (Contas Externas)**: A macroeconomia aberta opera diretamente sobre o **balanço de pagamentos** — regimes cambiais determinam como desequilíbrios no BP são corrigidos. A relação entre **poupança externa** (déficit em conta corrente) e crescimento é o debate central.
+
+- **2.4 (IS-LM-BP)**: O modelo **Mundell-Fleming** é a formalização da macroeconomia aberta — a **Trindade Impossível** implica que a escolha de regime cambial determina a eficácia relativa das políticas fiscal e monetária.
+
+- **2.5 (Teoria Monetária)**: A **paridade do poder de compra (PPC)** conecta a teoria monetária ao câmbio real — no longo prazo, a taxa de câmbio real tende à PPC. A **paridade descoberta de juros** relaciona diferenciais de taxa de juros com expectativas de depreciação.
+
+- **2.6 (Política Monetária)**: O **canal do câmbio** é um dos principais canais de transmissão da política monetária em economias abertas. A relação **câmbio-juros-inflação** é a tríade operacional do regime de metas de inflação com câmbio flutuante.
+
+- **4.5 (Economia dos Anos 1990)**: A **âncora cambial** do Plano Real (1994-1999), a crise de 1999 e a transição para o câmbio flutuante com metas de inflação são o caso brasileiro paradigmático de macroeconomia aberta. O debate **poupança externa vs. crescimento** (Bresser-Pereira vs. ortodoxia) tem raízes nesta experiência.
+
+- **HM 1.6 (Prosperidade no Segundo Pós-Guerra)**: O sistema de **Bretton Woods** (1944-1971) — câmbio fixo ajustável com controles de capitais — é o regime de macroeconomia aberta mais importante do século XX. Seu colapso (Dilema de Triffin, abandono da conversibilidade por Nixon) inaugurou a era de câmbio flutuante.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

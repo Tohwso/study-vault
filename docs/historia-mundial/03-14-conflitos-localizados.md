@@ -1,21 +1,39 @@
 ---
 title: "2026 - CACD - História Mundial - Os conflitos localizados"
-tags:
-  - CACD-2026
-  - historia-mundial
-  - conflitos-localizados
-  - guerras-proxy
-  - coreia
-  - vietna
-  - oriente-medio
-edital_ref: "3.14"
+tags: 
+edital_ref: 3.14
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+capitulo: 3. Relações Internacionais
 ---
 
 # 2026 - CACD - História Mundial - Os conflitos localizados
 
 > **Edital:** 3.14 · **Disciplina:** História Mundial · **Concurso:** CACD 2026
 > **Status:** ✅ Completo
+
+!!! info "Temas do mesmo capítulo"
+    03.01 2026 - CACD - História Mundial - Modelos e interpretações
+    03.02 2026 - CACD - História Mundial - O Concerto Europeu e sua crise (1815-1918)
+    03.03 2026 - CACD - História Mundial - As rivalidades coloniais
+    03.04 2026 - CACD - História Mundial - Causas da Primeira Guerra Mundial
+    03.05 2026 - CACD - História Mundial - Os 14 pontos de Wilson
+    03.06 2026 - CACD - História Mundial - A Paz de Versalhes e a ordem mundial resultante (1919-1939)
+    03.07 2026 - CACD - História Mundial - A Liga das Nações
+    03.08 2026 - CACD - História Mundial - As causas da Segunda Guerra Mundial
+    03.09 2026 - CACD - História Mundial - As conferências de Moscou, Teerã, Ialta, Potsdam e São Francisco e a ordem mundial decorrente
+    03.10 2026 - CACD - História Mundial - Bretton Woods
+    03.11 2026 - CACD - História Mundial - O Plano Marshall
+    03.12 2026 - CACD - História Mundial - A Organização das Nações Unidas
+    03.13 2026 - CACD - História Mundial - A Guerra Fria: a noção de bipolaridade (de Truman a Nixon)
+    03.14 2026 - CACD - História Mundial - Os conflitos localizados
+    03.15 2026 - CACD - História Mundial - A détente
+    03.16 2026 - CACD - História Mundial - A segunda Guerra Fria (Reagan-Bush)
+    03.17 2026 - CACD - História Mundial - A crise e a desagregação do bloco soviético
+
 
 > [!info] Capítulo 3 — As Relações Internacionais
 > Este resumo faz parte do capítulo **3. As Relações Internacionais** do edital de História Mundial.
@@ -104,3 +122,7 @@ A experiência dos conflitos localizados também informou a posição brasileira
 ---
 
 *Resumo elaborado para o CACD 2026 — ponto 3.14 do edital de História Mundial.*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

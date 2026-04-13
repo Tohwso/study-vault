@@ -1,8 +1,12 @@
 ---
 title: "2026 - CACD - História Mundial - As vanguardas europeias"
-edital_ref: "7.3"
-capitulo: "7. A Vida Cultural"
+edital_ref: 7.3
+capitulo: 7. A Vida Cultural
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # As vanguardas europeias

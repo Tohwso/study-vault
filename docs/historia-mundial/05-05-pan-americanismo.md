@@ -1,22 +1,15 @@
 ---
-título: O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo
-capítulo: 5 – A Evolução Política e Econômica nas Américas
-subcapítulo: 5.5
-disciplina: História Mundial
-tags:
-  - CACD
-  - história-mundial
-  - pan-americanismo
-  - bolivarianismo
-  - conferências-interamericanas
-  - cooperação-hemisférica
-  - relações-EUA-América-Latina
-  - Blaine
-  - Bolívar
-  - Boa-Vizinhança
-  - Chapultepec
+title: "2026 - CACD - História Mundial - O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo"
+capitulo: 5. As Américas
+edital_ref: 5.5
+tags: 
 status: completo
-última_revisão: 2025-07-14
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+edital_ref: 5.5
+capitulo: 5. As Américas
 ---
 
 # 5.5 – O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo
@@ -24,6 +17,16 @@ status: completo
 > **Referência**: CACD 2026 — História Mundial, Capítulo 5, item 5.5
 > **Status**: ✅ Completo
 > **Última revisão**: 2025-07-14
+
+!!! info "Temas do mesmo capítulo"
+    05.01 5.1 — A Expansão Territorial dos Estados Unidos
+    05.02 5.2 — A Guerra de Secessão dos Estados Unidos
+    05.03 5.3 — Formação das Identidades Nacionais na América Latina
+    05.04 5.4 — A Doutrina Monroe e a Política dos EUA para a América Latina
+    05.05 5.5 – O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo
+    05.06 5.6 – A OEA e o Tratado do Rio de Janeiro (TIAR)
+    05.07 5.7 – As Experiências de Integração nas Américas
+
 
 > [!info] Navegação – Capítulo 5
 > Este resumo faz parte do **Capítulo 5 – A Evolução Política e Econômica nas Américas**:
@@ -154,3 +157,7 @@ Essa dualidade explica por que o pan-americanismo é simultaneamente elogiado co
 ---
 
 > *Resumo elaborado para preparação CACD 2026 – História Mundial. Baseado em fontes acadêmicas e manuais especializados.*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

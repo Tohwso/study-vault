@@ -1,8 +1,12 @@
 ---
-title: "Política Monetária: Banco Central, Instrumentos e Regulação"
-edital_ref: "2.6"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - Política Monetária"
+edital_ref: 2.6
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Política Monetária
@@ -236,3 +240,22 @@ Banco do Japão: define não apenas a taxa de curtíssimo prazo, mas fixa també
 4. **Acordo de Basileia III** — Capital mínimo (CET1), LCR, NSFR; motivação (crise 2008); aplicação no Brasil pelo BCB.
 
 5. **Independência do Banco Central** — Fundamento teórico (inconsistência dinâmica, Kydland-Prescott); LC 179/2021 no Brasil; comparação internacional.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.4 (IS-LM-BP)**: A política monetária opera deslocando a **curva LM**. Sua eficácia depende do regime cambial (Mundell-Fleming): máxima sob câmbio flutuante, nula sob câmbio fixo com mobilidade perfeita de capitais.
+
+- **2.5 (Teoria Monetária)**: Os **canais de transmissão** (juros, crédito, câmbio, expectativas, preços de ativos) conectam a decisão do Banco Central sobre a Selic à economia real. A **TQM** fundamenta a visão monetarista de regras fixas; a preferência pela liquidez fundamenta a discricionariedade.
+
+- **2.3 (Setor Público e Política Fiscal)**: A interação entre política fiscal e monetária é determinante: **dominância fiscal** subordina o BC ao Tesouro; **dominância monetária** permite ao BC perseguir estabilidade de preços independentemente. A **independência do Banco Central** (LC 179/2021) institucionaliza a dominância monetária no Brasil.
+
+- **3.2 (Macroeconomia Aberta)**: O **canal do câmbio** da política monetária é crucial em economia aberta — Selic↑ → entrada de capital → apreciação → pressão desinflacionária. A relação câmbio-juros-inflação é a tríade central da macroeconomia aberta brasileira.
+
+- **5.1 (Bancos Digitais)**: As **CBDCs (Drex/Real Digital)** podem transformar radicalmente os canais de transmissão da política monetária — permitindo ao BC implementar juros negativos, direcionar estímulos e monitorar a velocidade de circulação da moeda em tempo real.
+
+- **HM 1.5 (Crise de 1929)**: O **fracasso do Federal Reserve** em agir como emprestador de última instância durante a Grande Depressão (tese de Friedman-Schwartz) é a motivação histórica para a criação de bancos centrais modernos com mandato de estabilidade financeira.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

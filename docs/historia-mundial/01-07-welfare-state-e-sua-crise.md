@@ -1,19 +1,14 @@
 ---
 title: "2026 - CACD - História Mundial - Estado de bem-estar social (Welfare State) e sua crise"
-edital_ref: "1.7"
-capitulo: "1. Estruturas e Ideias Econômicas"
+edital_ref: 1.7
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
-tags:
-  - welfare-state
-  - estado-bem-estar
-  - beveridge
-  - bismarck
-  - neoliberalismo
-  - terceira-via
-  - esping-andersen
-  - historia-mundial
-  - cacd
+tags: 
 created: 2025-01-27
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # 1.7 Estado de bem-estar social (Welfare State) e sua crise
@@ -22,6 +17,17 @@ created: 2025-01-27
 > **Última atualização:** 2025-01-27
 > **Referência no edital:** Item 1.7 — Estruturas e Ideias Econômicas
 > **Densidade:** Alta — Resumo denso para revisão CACD
+
+!!! info "Temas do mesmo capítulo"
+    01.01 Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX
+    01.02 Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)
+    01.03 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
+    01.04 Marxismo
+    01.05 As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal
+    01.06 A Prosperidade no Segundo Pós-Guerra
+    01.07 1.7 Estado de bem-estar social (Welfare State) e sua crise
+    01.08 O Pós-Fordismo e a Acumulação Flexível
+
 
 > [!note] Tópicos irmãos no Capítulo 1 — Estruturas e Ideias Econômicas
 >
@@ -331,3 +337,40 @@ A pandemia de **COVID-19** (2020) aprofundou esse movimento: Estados que há dé
 ---
 
 > **Nota de estudo:** Este é um tema que frequentemente aparece em questões discursivas de História Mundial e Economia no CACD. A banca valoriza a capacidade de articular os conceitos teóricos (Polanyi, Esping-Andersen, Pierson) com a narrativa histórica (Bismarck → Beveridge → Era de Ouro → Crise → Neoliberalismo → Terceira Via). Evite tratamentos meramente cronológicos — demonstre domínio das categorias analíticas e das conexões com outros pontos do edital.
+
+
+## Conexões com Outros Temas do Edital
+
+### Com outros temas do Capítulo 1
+
+- **1.3 (Fisiocracia ao Liberalismo)**: O Welfare State é a negação prática do **laissez-faire** — a intervenção estatal na provisão de educação, saúde, previdência e seguro-desemprego corrige as insuficiências do mercado identificadas por Pigou e Keynes. A contrarrevolução neoliberal (Thatcher, Reagan) é a tentativa de restauração dos princípios liberais clássicos.
+
+- **1.5 (Crise de 1929 e New Deal)**: O **Social Security Act** (1935) é o embrião do Welfare State americano. O relatório **Beveridge** (1942) e o NHS britânico (1948) foram motivados pela memória da Depressão e pela necessidade de estabilizar o capitalismo via consumo de massas.
+
+- **1.6 (Prosperidade no Segundo Pós-Guerra)**: O Welfare State foi componente essencial do **pacto fordista-keynesiano** dos Trinta Gloriosos — pleno emprego, negociação coletiva e proteção social geraram o ciclo virtuoso de produção-consumo-investimento que sustentou a Era de Ouro.
+
+- **1.8 (Pós-Fordismo)**: A crise do Welfare State é contemporânea e interdependente da crise do fordismo — a globalização, a financeirização e a precarização do trabalho minaram as bases fiscais e sociais do Estado de bem-estar social.
+
+- **1.4 (Marxismo)**: O duplo movimento de **Polanyi** (*A Grande Transformação*, 1944) é a moldura teórica mais influente para entender o Welfare State — a sociedade se protege contra a mercantilização destrutiva do trabalho, da terra e da moeda promovida pelo capitalismo de mercado.
+
+### Com outros pontos do edital
+
+- **Economia 2.3 (Setor Público e Política Fiscal)**: A **Lei de Wagner** (gasto público cresce com o desenvolvimento) explica a expansão fiscal do Welfare State. A crise do Estado de bem-estar social é, em parte, uma crise fiscal — aumento de despesas (envelhecimento, saúde) com base tributária estagnada.
+
+- **Economia 1.3 (Tipos de Mercados e Bens)**: A provisão estatal de saúde, educação e previdência é a resposta prática ao **problema do carona** e aos bens meritórios — o Welfare State é a institucionalização da função alocativa de Musgrave em escala nacional.
+
+## 🎯 Top 5 — O que mais cai no CACD
+
+1. **Tipologia de Esping-Andersen: os três mundos do capitalismo de bem-estar** — Liberal (EUA, UK), conservador-corporativista (Alemanha, França), social-democrata (Escandinávia). A banca cobra a capacidade de classificar países e explicar as diferenças em termos de desmercantilização e estratificação.
+
+2. **A tese do retrenchment de Paul Pierson e a resiliência do Welfare State** — Por que o Welfare State sobreviveu ao neoliberalismo? Path dependence, constituencies, blame avoidance. Pierson é referência obrigatória para demonstrar sofisticação analítica.
+
+3. **O duplo movimento de Polanyi** — A Grande Transformação como moldura teórica para entender a oscilação entre liberalização (mercado autorregulado) e proteção social (contramovimento). Aplicável a múltiplos períodos históricos cobrados no CACD.
+
+4. **A contrarrevolução neoliberal: Thatcher e Reagan** — Privatizações, desregulação, enfraquecimento sindical, cortes de gastos sociais. A banca cobra a capacidade de articular as bases teóricas (Hayek, Friedman) com a prática política e seus efeitos sociais.
+
+5. **A relação entre crise do Welfare State e crise do fordismo (1973-1980)** — Estagflação, choques do petróleo, queda de produtividade, globalização e desindustrialização como fatores que minaram as bases fiscais e sociais do Estado de bem-estar. Conectar com o pós-fordismo (1.8).
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

@@ -1,15 +1,14 @@
 ---
 title: "2026 - CACD - História Mundial - Marxismo"
-edital_ref: "1.4"
-capitulo: "1. Estruturas e Ideias Econômicas"
+edital_ref: 1.4
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
 date: 2025-01-25
-tags:
-  - historia-mundial
-  - marxismo
-  - economia-politica
-  - materialismo-historico
-  - cacd-2026
+tags: 
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Marxismo
@@ -18,6 +17,17 @@ tags:
 > **Edital:** 1.4 — Marxismo
 > **Capítulo:** 1. Estruturas e Ideias Econômicas
 > **Última atualização:** 2025-01-25
+
+!!! info "Temas do mesmo capítulo"
+    01.01 Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX
+    01.02 Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)
+    01.03 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
+    01.04 Marxismo
+    01.05 As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal
+    01.06 A Prosperidade no Segundo Pós-Guerra
+    01.07 1.7 Estado de bem-estar social (Welfare State) e sua crise
+    01.08 O Pós-Fordismo e a Acumulação Flexível
+
 
 > [!info] Tópicos do Capítulo 1 — Estruturas e Ideias Econômicas
 >
@@ -186,3 +196,40 @@ O marxismo permanece como tradição teórica viva e disputada. Alguns eixos de 
 > → [[01-05-keynesianismo|1.5 — Keynesianismo]]
 >
 > [[00-indice-historia-mundial|← Voltar ao Índice de História Mundial]]
+
+
+## Conexões com Outros Temas do Edital
+
+### Com outros temas do Capítulo 1
+
+- **1.1 (Da Revolução Industrial ao capitalismo organizado)**: Marx analisou a Revolução Industrial como o momento de consolidação do **modo de produção capitalista** — a separação do trabalhador dos meios de produção, a formação do proletariado urbano e a acumulação primitiva de capital são categorias marxianas indispensáveis.
+
+- **1.3 (Fisiocracia ao Liberalismo)**: O marxismo se constrói sobre e contra a economia política clássica — a **teoria do valor-trabalho de Ricardo** é o ponto de partida para a teoria da **mais-valia**. Marx aceita a premissa ricardiana (valor = trabalho incorporado) mas conclui que o lucro capitalista é, por definição, trabalho não pago.
+
+- **1.5 (Crise de 1929)**: A Grande Depressão pareceu confirmar a tese marxista das **crises cíclicas do capitalismo** — tendência à queda da taxa de lucro, superprodução e concentração de capital. O prestígio da URSS nos anos 1930 (industrialização acelerada sob os Planos Quinquenais) alimentou a expansão global do marxismo.
+
+- **1.7 (Welfare State)**: O Welfare State é interpretado pela tradição marxista como **concessão** do capital ao trabalho para evitar a radicalização — a tese do duplo movimento de **Polanyi** conecta-se à análise marxista da mercantilização do trabalho e da resposta protetora da sociedade.
+
+- **1.8 (Pós-Fordismo)**: A análise marxista do pós-fordismo enfatiza a **precarização do trabalho**, a **financeirização** como busca de valorização do capital fora da produção, e o neoliberalismo como restauração do poder de classe — teses de **David Harvey** (*A Brief History of Neoliberalism*, 2005).
+
+### Com outros pontos do edital
+
+- **Economia 2.1 (Contabilidade Nacional)**: O debate sobre **Lei de Say vs. Keynes** ecoa a crítica marxista — Marx, antes de Keynes, rejeitou a Lei de Say ao argumentar que crises de realização (insuficiência de demanda) são intrínsecas ao capitalismo.
+
+- **Economia 4.2 (Industrialização 1930-1960)**: A ISI latino-americana foi influenciada pelo **estruturalismo cepalino**, que incorporou elementos da análise marxista sobre dependência e exploração centro-periferia (Prebisch, Furtado, teoria da dependência de Marini e Dos Santos).
+
+## 🎯 Top 5 — O que mais cai no CACD
+
+1. **Materialismo histórico e modos de produção** — A periodização da história por modos de produção (escravista, feudal, capitalista) e o conceito de luta de classes como motor da história. O CACD exige domínio das categorias marxianas como ferramentas analíticas.
+
+2. **Teoria da mais-valia e exploração** — A distinção entre mais-valia absoluta e relativa; a relação entre valor, trabalho e lucro; como Marx transforma a teoria do valor-trabalho de Ricardo em teoria da exploração.
+
+3. **Crises do capitalismo — tendência à queda da taxa de lucro** — Mecanismos de crise (superprodução, subconsumo, desproporcionalidade); contra-tendências; relevância para interpretar crises contemporâneas (2008, pandemia).
+
+4. **O marxismo depois de Marx: Lênin, Gramsci, Escola de Frankfurt** — Imperialismo como fase superior (Lênin); hegemonia cultural (Gramsci); indústria cultural e razão instrumental (Adorno, Horkheimer). Cada vertente aparece em diferentes questões do CACD.
+
+5. **A relação Marx-Keynes-liberalismo** — A capacidade de articular as três grandes tradições de pensamento econômico (liberal, marxista, keynesiana) é competência central do CACD. O marxismo como crítica radical, o keynesianismo como reforma pragmática, o liberalismo como defesa do mercado.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

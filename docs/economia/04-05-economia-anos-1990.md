@@ -1,8 +1,12 @@
 ---
-title: "Economia Brasileira nos Anos 1990: Abertura e Plano Real"
-edital_ref: "4.9"
-capitulo: "4. História Econômica Brasileira"
+title: "2026 - CACD - Economia - Economia Brasileira nos Anos 1990"
+edital_ref: 4.9
+capitulo: 4. História Econômica Brasileira
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Economia Brasileira nos Anos 1990: Abertura e Plano Real
@@ -157,3 +161,22 @@ Este tripé constituiu o regime macroeconômico brasileiro até os anos 2010.
 4. **Abertura comercial e privatizações** — Redução tarifária de Collor; PND; privatização do Telebrás e CVRD; debate sobre preços e interesses nacionais.
 
 5. **A crise de 1999 e a transição para o câmbio flutuante** — Por que o regime anterior era insustentável (trindade impossível); consequências do choque cambial; recuperação com o tripé.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.5 (Teoria Monetária)**: O **Plano Real** (1994) é a aplicação mais bem-sucedida da teoria da **inflação inercial** — a URV como moeda indexada de transição desindexou a economia sem congelamento, quebrando o componente inercial. A âncora cambial controlou expectativas na fase inicial.
+
+- **2.4 (IS-LM-BP)**: A crise de **1999** ilustra a **Trindade Impossível** — o Brasil mantinha câmbio semi-fixo (bandas cambiais) com crescente mobilidade de capitais, perdendo autonomia monetária. A insustentabilidade do regime levou à maxidesvalorização e transição para câmbio flutuante.
+
+- **3.2 (Macroeconomia Aberta)**: A abertura comercial dos anos 1990 (redução de tarifas de ~40% para ~13%) transformou a inserção internacional do Brasil. O debate entre **choque de competitividade** (Collor) e **abertura gradual** (Plano Real) é relevante.
+
+- **2.3 (Setor Público e Política Fiscal)**: A estabilização pós-Real exigiu ajuste fiscal — a **LRF** (2000), o **acordo com o FMI** (1998-1999) e as metas de superávit primário institucionalizaram a disciplina fiscal. A crise de 2002 (EMBI+ a 2.400) demonstrou a persistência do risco de dominância fiscal.
+
+- **4.4 (II PND e Crise dos Anos 1980)**: Os anos 1990 são a superação (parcial) da **Década Perdida** — o Plano Real estabilizou a moeda, mas os custos (juros altos, câmbio apreciado, desindustrialização precoce) geraram novos problemas estruturais.
+
+- **HM 1.8 (Pós-Fordismo)**: A abertura comercial e as privatizações dos anos 1990 inserem o Brasil na **globalização produtiva** pós-fordista — reestruturação industrial, cadeias globais de valor, flexibilização trabalhista e desnacionalização de setores estratégicos.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

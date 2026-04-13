@@ -1,19 +1,14 @@
 ---
 title: "2026 - CACD - História Mundial - Principais ideias econômicas: da Fisiocracia ao Liberalismo"
-edital_ref: "1.3"
-capitulo: "1. Estruturas e Ideias Econômicas"
+edital_ref: 1.3
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
-tags:
-  - CACD
-  - historia-mundial
-  - economia
-  - fisiocracia
-  - liberalismo
-  - mercantilismo
-  - adam-smith
-  - david-ricardo
-  - marginalismo
+tags: 
 created: 2025-01-25
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
@@ -22,6 +17,17 @@ created: 2025-01-25
 > **Edital:** 1.3 — Principais ideias econômicas: da Fisiocracia ao Liberalismo
 > **Capítulo:** 1. Estruturas e Ideias Econômicas
 > **Peso temático:** Alto — tema recorrente em provas discursivas e objetivas do CACD
+
+!!! info "Temas do mesmo capítulo"
+    01.01 Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX
+    01.02 Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)
+    01.03 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
+    01.04 Marxismo
+    01.05 As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal
+    01.06 A Prosperidade no Segundo Pós-Guerra
+    01.07 1.7 Estado de bem-estar social (Welfare State) e sua crise
+    01.08 O Pós-Fordismo e a Acumulação Flexível
+
 
 > [!info] Seções do Capítulo 1
 > - 01.01 — Formação do sistema econômico mundial
@@ -238,3 +244,38 @@ O arco que vai da Fisiocracia ao liberalismo não é uma marcha linear rumo ao p
 ---
 
 *Resumo elaborado para fins de preparação ao Concurso de Admissão à Carreira de Diplomata (CACD) 2026.*
+
+
+## Conexões com Outros Temas do Edital
+
+### Com outros temas do Capítulo 1
+
+- **1.1 (Da Revolução Industrial ao capitalismo organizado)**: O liberalismo clássico de **Smith** e **Ricardo** forneceu a moldura ideológica para a primeira fase do capitalismo industrial — livre comércio, laissez-faire, padrão-ouro. A Revolução Industrial e a economia política clássica são fenômenos inseparáveis.
+
+- **1.2 (Fases do desenvolvimento capitalista)**: A transição do mercantilismo para o liberalismo corresponde à passagem do capitalismo comercial para o capitalismo industrial. A revolução marginalista (Jevons, Menger, Walras) coincide com a fase do capitalismo monopolista do final do século XIX.
+
+- **1.4 (Marxismo)**: Marx constrói sua crítica sobre os fundamentos da economia política clássica — a teoria do valor-trabalho de Ricardo é o ponto de partida para a teoria da mais-valia. O marxismo é, simultaneamente, herdeiro e negação do liberalismo clássico.
+
+- **1.5 (Crise de 1929)**: A Grande Depressão desacreditou o laissez-faire como doutrina prática e abriu espaço para o **keynesianismo** — a maior ruptura teórica na economia desde Adam Smith. O liberalismo só retornaria como força política dominante nos anos 1970-80 (Hayek, Friedman).
+
+- **1.7 (Welfare State)**: O Welfare State representa a resposta institucional às insuficiências do liberalismo clássico — a correção das falhas de mercado identificadas por **Pigou** e a proteção social contra as instabilidades do capitalismo diagnosticadas por **Polanyi**.
+
+### Com outros pontos do edital
+
+- **Economia 3.1 (Teorias do Comércio)**: **Ricardo** (vantagens comparativas) e **List** (proteção à indústria nascente) são os dois polos do debate de política comercial que persiste até hoje — o CACD cobra sistematicamente esta contraposição.
+
+## 🎯 Top 5 — O que mais cai no CACD
+
+1. **Adam Smith: mão invisível, divisão do trabalho e vantagens absolutas** — A articulação entre a teoria do valor, o papel do Estado mínimo e a defesa do livre comércio. O CACD exige capacidade de distinguir o Smith real do Smith caricaturado.
+
+2. **David Ricardo e as vantagens comparativas** — Conceito fundador do comércio internacional moderno. A banca cobra aplicação a casos concretos e a contraposição com List e Prebisch.
+
+3. **A Revolução Marginalista e a refundação da economia** — A transição do valor-trabalho para o valor-utilidade; Jevons, Menger e Walras; a matematização da economia como ciência.
+
+4. **Friedrich List e a proteção à indústria nascente** — O contraponto ao livre-cambismo ricardiano; influência sobre a CEPAL e sobre as estratégias de desenvolvimento periférico (ISI).
+
+5. **A contraposição mercantilismo-fisiocracia-liberalismo** — O arco histórico das ideias econômicas pré-keynesianas; a relação entre cada escola e o contexto histórico que a produziu (Estado absolutista, capitalismo agrário, Revolução Industrial).
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

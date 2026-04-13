@@ -1,8 +1,12 @@
 ---
-title: "Economia do Setor Público e Política Fiscal"
-edital_ref: "2.3"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - Economia do Setor Público e Política Fiscal"
+edital_ref: 2.3
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Economia do Setor Público e Política Fiscal
@@ -280,3 +284,22 @@ $$S_{\text{nacional}} = S_{\text{privada}} + S_{\text{pública}} = (Y_d - C) + (
 4. **Estabilizadores Automáticos vs. Política Discricionária** — Distinguir; multiplicador fiscal; Teorema de Haavelmo (ΔG = ΔT → ΔY = ΔG).
 
 5. **Lei de Responsabilidade Fiscal e arcabouços fiscais brasileiros** — LRF, Teto de Gastos, Novo Arcabouço Fiscal; regra de ouro.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.1 (Contabilidade Nacional)**: O **multiplicador keynesiano** opera diretamente sobre a identidade Y = C + I + G. O **Teorema de Haavelmo** (multiplicador do orçamento equilibrado = 1) é derivado das identidades macroeconômicas.
+
+- **2.4 (IS-LM-BP)**: A política fiscal desloca a **curva IS** — sua eficácia depende da inclinação da LM (crowding out) e do regime cambial (Mundell-Fleming). Sob câmbio flutuante e mobilidade perfeita de capitais, a política fiscal é ineficaz (crowding out via câmbio).
+
+- **2.5 (Teoria Monetária)**: A **dominância fiscal** conecta diretamente política fiscal e monetária: se a dívida é insustentável, o Banco Central perde autonomia. A **senhoriagem** e o **imposto inflacionário** são formas de financiamento fiscal via expansão monetária.
+
+- **2.6 (Política Monetária)**: Os **efeitos fiscais sobre a política monetária** (dominância fiscal vs. monetária) determinam a credibilidade do regime de metas de inflação. A **Aritmética Desagradável de Sargent e Wallace** demonstra que ajuste fiscal é pré-condição para estabilidade monetária.
+
+- **4.4 (II PND e Crise dos Anos 1980)**: A **crise fiscal brasileira dos anos 1980** — explosão da dívida interna, déficits operacionais crônicos, hiperinflação — é o caso empírico mais relevante de dominância fiscal e fracasso de estabilização sem ajuste fiscal.
+
+- **HM 1.5 (Crise de 1929 e New Deal)**: O **New Deal** é o caso histórico fundador da política fiscal anticíclica keynesiana. A recessão de 1937 (austeridade prematura de Roosevelt) é evidência empírica clássica contra a contração fiscal em recessão.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

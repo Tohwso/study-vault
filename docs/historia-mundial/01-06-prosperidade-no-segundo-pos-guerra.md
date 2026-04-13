@@ -1,16 +1,14 @@
 ---
 title: "2026 - CACD - História Mundial - A prosperidade no segundo pós-guerra"
-edital_ref: "1.6"
-capitulo: "1. Estruturas e Ideias Econômicas"
+edital_ref: 1.6
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
 date: 2025-01-26
-tags:
-  - historia-mundial
-  - economia
-  - pos-guerra
-  - bretton-woods
-  - guerra-fria
-  - cacd-2026
+tags: 
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # A Prosperidade no Segundo Pós-Guerra
@@ -18,6 +16,17 @@ tags:
 > **Status:** ✅ Completo
 > **Edital:** 1.6 — Estruturas e Ideias Econômicas
 > **Última revisão:** 2025-01-26
+
+!!! info "Temas do mesmo capítulo"
+    01.01 Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX
+    01.02 Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)
+    01.03 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
+    01.04 Marxismo
+    01.05 As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal
+    01.06 A Prosperidade no Segundo Pós-Guerra
+    01.07 1.7 Estado de bem-estar social (Welfare State) e sua crise
+    01.08 O Pós-Fordismo e a Acumulação Flexível
+
 
 > [!info] Navegação — Capítulo 1: Estruturas e Ideias Econômicas
 >
@@ -196,3 +205,40 @@ A prosperidade do segundo pós-guerra foi, portanto, um fenômeno historicamente
 ---
 
 > **Navegação:** [← 01.05 O New Deal e as respostas à Grande Depressão](01-05-new-deal-respostas-grande-depressao.md) | [01.07 A crise do sistema de Bretton Woods e os choques do petróleo →](01-07-crise-bretton-woods-choques-petroleo.md)
+
+
+## Conexões com Outros Temas do Edital
+
+### Com outros temas do Capítulo 1
+
+- **1.3 (Fisiocracia ao Liberalismo)**: A prosperidade do pós-guerra representou a **suspensão parcial do liberalismo clássico** — câmbio fixo, controles de capitais, políticas keynesianas ativas e Estado intervencionista substituíram o laissez-faire desacreditado pela Grande Depressão.
+
+- **1.5 (Crise de 1929 e New Deal)**: As instituições de **Bretton Woods** (FMI, BIRD), o **GATT** e as políticas keynesianas dos Trinta Gloriosos foram desenhados **explicitamente** para evitar a repetição da catástrofe de 1929 — ausência de coordenação internacional, protecionismo destrutivo e deflação.
+
+- **1.7 (Welfare State)**: A Era de Ouro do capitalismo é indissociável da expansão do **Estado de bem-estar social** — pleno emprego, seguridade social universal, negociação coletiva e distribuição de renda constituíram o **pacto social fordista-keynesiano** que sustentou a prosperidade.
+
+- **1.8 (Pós-Fordismo)**: A crise do sistema Bretton Woods (Dilema de Triffin, abandono da conversibilidade em 1971) e os choques do petróleo (1973, 1979) marcam o fim da Era de Ouro e a transição para a **acumulação flexível** — globalização financeira, desregulação e precarização do trabalho.
+
+- **1.4 (Marxismo)**: O prestígio do marxismo e da planificação soviética durante a Guerra Fria exerceu pressão competitiva sobre o capitalismo ocidental — a concessão de direitos trabalhistas e a expansão do Welfare State podem ser interpretados como resposta à ameaça socialista.
+
+### Com outros pontos do edital
+
+- **Economia 2.4 (IS-LM-BP)**: O sistema de **Bretton Woods** é o caso histórico paradigmático do modelo Mundell-Fleming com câmbio fixo e controles de capital — a Trindade Impossível explica tanto seu funcionamento quanto seu colapso.
+
+- **Economia 4.2 (Industrialização 1930-1960)**: O Plano de Metas (JK, 1956-1961) e a entrada massiva de investimento estrangeiro no Brasil inserem-se no contexto da prosperidade global do pós-guerra e da expansão internacional do capital americano.
+
+## 🎯 Top 5 — O que mais cai no CACD
+
+1. **O sistema de Bretton Woods e a arquitetura monetária internacional** — FMI, BIRD, padrão dólar-ouro, câmbio fixo ajustável, controles de capitais. A banca exige domínio dos mecanismos institucionais e das razões do colapso (Dilema de Triffin, abandono da conversibilidade por Nixon em 1971).
+
+2. **O Plano Marshall e a reconstrução europeia** — Não apenas ajuda humanitária, mas instrumento geopolítico da Guerra Fria; criação de mercados para exportações americanas; impulso à integração europeia (OECE → OCDE, CECA).
+
+3. **O pacto fordista-keynesiano e os Trinta Gloriosos** — A articulação entre produção em massa, consumo de massa, Welfare State e políticas keynesianas como base da prosperidade. O CACD cobra a compreensão de que esse modelo era um sistema integrado, não apenas crescimento econômico.
+
+4. **Os milagres econômicos nacionais (Alemanha, Japão, Itália)** — Condições estruturais (mão de obra abundante, tecnologia importada, investimento elevado, Estado desenvolvimentista) que permitiram taxas de crescimento acelerado. Paralelo com o Milagre brasileiro (1968-1973).
+
+5. **As tensões estruturais e o fim da Era de Ouro** — Dilema de Triffin, estagflação, choques do petróleo, queda da produtividade, pressões salariais. A capacidade de explicar **por que** o modelo entrou em crise é mais importante que narrar que entrou.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

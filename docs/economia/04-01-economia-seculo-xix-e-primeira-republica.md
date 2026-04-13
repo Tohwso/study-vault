@@ -1,8 +1,12 @@
 ---
-title: "Economia Brasileira no Século XIX e Primeira República"
-edital_ref: "4.1 e 4.2"
-capitulo: "4. História Econômica Brasileira"
+title: "2026 - CACD - Economia - Economia Brasileira no Século XIX e Primeira República"
+edital_ref: 4.1 e 4.2
+capitulo: 4. História Econômica Brasileira
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Economia Brasileira no Século XIX e Primeira República
@@ -117,3 +121,22 @@ A industrialização brasileira na Primeira República foi **incipiente**, mas l
 4. **Industrialização na Primeira República** — Predominância da indústria leve; papel do café na formação do mercado industrial; concentração em São Paulo.
 
 5. **Abertura dos Portos (1808) e Tratados de 1810** — Imposição do livre-comércio; inserção dependente; contraste com a América latina de industrialização tardia.
+
+
+## Conexões com Outros Temas do Edital
+
+- **3.1 (Teorias do Comércio)**: O modelo agroexportador brasileiro é a ilustração empírica do comércio baseado em **vantagens comparativas ricardianas** — o Brasil exportava café e importava manufaturas. A tese **Prebisch-Singer** da deterioração dos termos de troca questiona a sustentabilidade deste modelo.
+
+- **3.3 (Política Comercial)**: A oscilação entre livre-cambismo (Tratados de 1810, pressão britânica) e protecionismo (Tarifa Alves Branco 1844, proteção industrial incipiente) marca a história econômica do Império e da Primeira República.
+
+- **2.2 (Contas Externas)**: A economia cafeeira dependia de **fluxos de capital estrangeiro** (empréstimos britânicos e depois americanos) para financiar déficits e sustentar o câmbio. As políticas de valorização do café (Taubaté, 1906) eram, essencialmente, tentativas de manipular os termos de troca via controle de oferta.
+
+- **4.2 (Industrialização 1930-1960)**: A **crise do modelo agroexportador** (vulnerabilidade às flutuações de preço do café) é a pré-condição histórica para a transição à ISI. A Revolução de 1930 marca a ruptura política que viabilizou a mudança de paradigma econômico.
+
+- **2.5 (Teoria Monetária)**: O debate entre **metalistas** (padrão-ouro, estabilidade cambial) e **papelistas** (emissão monetária, crédito fácil) na Primeira República é o primeiro grande debate de política monetária no Brasil — antecipa tensões entre ortodoxia e heterodoxia que persistem.
+
+- **HM 1.1 (Da Revolução Industrial ao capitalismo organizado)**: O Brasil Imperial e da Primeira República insere-se na **divisão internacional do trabalho** do capitalismo industrial — periferia agroexportadora complementar ao centro industrial europeu, conforme o modelo cepalino de centro-periferia.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

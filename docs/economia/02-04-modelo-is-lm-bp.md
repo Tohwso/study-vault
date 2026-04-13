@@ -1,8 +1,12 @@
 ---
-title: "O Modelo IS-LM-BP"
-edital_ref: "2.4"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - O Modelo IS-LM-BP"
+edital_ref: 2.4
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # O Modelo IS-LM-BP
@@ -12,6 +16,17 @@ status: completo
 > **Capítulo:** 2. Macroeconomia
 > **Referência no edital:** 2.4
 > **Status:** ✅ Completo
+
+!!! info "Temas do mesmo capítulo"
+    02.01 Contabilidade Nacional
+    02.02 Contas Externas
+    02.03 Economia do Setor Público e Política Fiscal
+    02.04 O Modelo IS-LM-BP
+    02.05 Teoria e Política Monetária — Fundamentos
+    02.06 Política Monetária
+    02.07 Crescimento e Desenvolvimento Econômico
+    02.08 Emprego e Renda
+
 
 ---
 
@@ -177,3 +192,22 @@ Exemplos históricos:
 4. **Armadilha da Liquidez** — LM horizontal; ineficácia da política monetária; justificativa para estímulo fiscal (Japão nos anos 1990, EUA/Europa pós-2008); QE como resposta.
 
 5. **Deslocamentos IS vs. LM** — Identificar no gráfico o efeito de cada política sobre Y e r; combinar as políticas para análise de casos específicos.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.1 (Contabilidade Nacional)**: A curva IS é derivada da identidade de equilíbrio do mercado de bens (Y = C + I + G + NX). O multiplicador keynesiano determina a magnitude dos deslocamentos da IS ante variações em G ou T.
+
+- **2.2 (Contas Externas)**: A curva BP formaliza o equilíbrio do balanço de pagamentos no modelo Mundell-Fleming. A mobilidade de capitais (relação entre IDE e investimento de portfólio) determina a inclinação da BP.
+
+- **2.3 (Setor Público e Política Fiscal)**: A eficácia da política fiscal no IS-LM-BP depende criticamente do regime cambial — eficaz sob câmbio fixo, ineficaz sob câmbio flutuante com mobilidade perfeita. O **crowding out** via juros (câmbio fixo) versus via câmbio (câmbio flutuante) é distinção essencial.
+
+- **2.6 (Política Monetária)**: A eficácia da política monetária é simétrica à fiscal: ineficaz sob câmbio fixo, máxima sob câmbio flutuante. A **armadilha da liquidez** (LM horizontal) torna a política monetária convencional ineficaz — fundamento teórico do **Quantitative Easing**.
+
+- **3.2 (Macroeconomia Aberta)**: A **Trindade Impossível** de Mundell é a implicação mais importante do modelo para a escolha de regimes cambiais. Bretton Woods (câmbio fixo + controle de capitais), zona do euro (câmbio fixo + mobilidade + perda de política monetária autônoma), Brasil pós-1999 (flutuante + mobilidade + autonomia monetária).
+
+- **HM 1.6 (Prosperidade no Segundo Pós-Guerra)**: O sistema de **Bretton Woods** (1944–1971) é a aplicação histórica do modelo Mundell-Fleming sob câmbio fixo com controles de capital — permitindo política monetária autônoma (negação da mobilidade perfeita). Seu colapso em 1971 validou o trilema.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

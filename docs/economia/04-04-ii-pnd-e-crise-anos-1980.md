@@ -1,8 +1,12 @@
 ---
-title: "Desaceleração, II PND e a Crise dos Anos 1980"
-edital_ref: "4.7 e 4.8"
-capitulo: "4. História Econômica Brasileira"
+title: "2026 - CACD - Economia - Desaceleração, II PND e a Crise dos Anos 1980"
+edital_ref: 4.7 e 4.8
+capitulo: 4. História Econômica Brasileira
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Desaceleração, II PND e a Crise dos Anos 1980
@@ -158,3 +162,22 @@ O debate intelectual dos anos 1980 sobre a natureza da inflação brasileira foi
 4. **A dívida externa e o ajuste** — Choque Volcker + choque do petróleo → crise de liquidez → acordo com o FMI → recessão de 1983; moratória de 1987.
 
 5. **A "Década Perdida"** — Magnitude da crise: queda do PIB per capita, hiperinflação latente, deterioração social; comparação com países da OCDE; raízes da estagnação.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.2 (Contas Externas)**: A **crise da dívida externa** (1982-1987) é o caso paradigmático de insolvência externa — dívida/exportações acima de 400%, serviço/exportações acima de 80%. O choque de juros de Volcker (1979) e a interrupção dos fluxos de capital (sudden stop) são os gatilhos.
+
+- **2.3 (Setor Público e Política Fiscal)**: A crise fiscal dos anos 1980 — déficits operacionais crônicos, dívida interna explosiva, incapacidade de gerar superávit primário — é a manifestação doméstica da crise da dívida. A **dominância fiscal** impediu a estabilização monetária.
+
+- **2.5 (Teoria Monetária)**: Os **planos heterodoxos** (Cruzado 1986, Bresser 1987, Verão 1989, Collor 1990) são tentativas de quebrar a **inflação inercial** via congelamento de preços e desindexação — cada fracasso validou a tese de que sem ajuste fiscal, a estabilização é insustentável.
+
+- **2.6 (Política Monetária)**: O período demonstra a impossibilidade de conduzir política monetária eficaz sob **dominância fiscal** — taxas de juros estratosféricas não controlam inflação quando a expectativa de monetização da dívida é alta (Sargent-Wallace).
+
+- **4.3 (Período 1962-1973)**: O **Milagre Econômico** e o **II PND** são as causas estruturais da crise dos anos 1980 — a estratégia de crescimento com endividamento externo era viável enquanto a liquidez internacional era abundante e os juros baixos. A reversão destas condições precipitou a crise.
+
+- **HM 1.5 (Crise de 1929)**: A crise da dívida latino-americana dos anos 1980 guarda paralelos estruturais com a Grande Depressão — contágio via sistema financeiro internacional, contração do crédito, espiral deflacionária/inflacionária e fracasso de coordenação internacional.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

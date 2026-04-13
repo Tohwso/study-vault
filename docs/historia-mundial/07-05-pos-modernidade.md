@@ -1,8 +1,12 @@
 ---
 title: "2026 - CACD - História Mundial - A pós-modernidade"
-edital_ref: "7.5"
-capitulo: "7. A Vida Cultural"
+edital_ref: 7.5
+capitulo: 7. A Vida Cultural
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # A pós-modernidade

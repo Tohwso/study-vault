@@ -1,16 +1,15 @@
 ---
-title: "O Processo de Dominação e a Reação na Índia, China e Japão"
-tags:
-  - historia-mundial
-  - imperialismo
-  - india
-  - china
-  - japao
-  - meiji
-  - CACD
-category: "Cap. 4 – Colonialismo, Imperialismo, Políticas de Dominação"
-ref: "4.5"
+title: "2026 - CACD - História Mundial - O Processo de Dominação e a Reação na Índia, China e Japão"
+tags: 
+category: Cap. 4 – Colonialismo, Imperialismo, Políticas de Dominação
+ref: 4.5
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+edital_ref: 4.5
+capitulo: 4. Colonialismo e Imperialismo
 ---
 
 # 04.05 — O Processo de Dominação e a Reação na Índia, China e Japão
@@ -18,6 +17,18 @@ status: completo
 > **Capítulo 4 — Colonialismo, Imperialismo, Políticas de Dominação**
 > **Referência:** Seção 4.5 do edital CACD 2026 — História Mundial
 > **Status:** ✅ Completo
+
+!!! info "Temas do mesmo capítulo"
+    04.01 04.01 — O Fim do Colonialismo do Antigo Regime
+    04.02 04.02 — A Nova Expansão Europeia
+    04.03 04.03 — Os Debates acerca da Natureza do Imperialismo
+    04.04 04.04 — A Partilha da África e da Ásia
+    04.05 04.05 — O Processo de Dominação e a Reação na Índia, China e Japão
+    04.06 04.06 — A Descolonização
+    04.07 04.07 — A Conferência de Bandung
+    04.08 04.08 — O Não Alinhamento
+    04.09 04.09 — O Conceito de Terceiro Mundo
+
 
 > [!info] Navegação do Capítulo 4
 > Este resumo faz parte de uma série de 9 documentos sobre Colonialismo, Imperialismo e Políticas de Dominação:
@@ -136,3 +147,7 @@ O contraste entre Índia, China e Japão é objeto de intenso debate historiogr�
 ---
 
 *Resumo elaborado para preparação CACD 2026 — História Mundial, Capítulo 4, Seção 4.5.*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

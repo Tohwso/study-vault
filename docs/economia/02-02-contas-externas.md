@@ -1,8 +1,12 @@
 ---
-title: "Contas Externas: Balanço de Pagamentos e Indicadores de Liquidez e Solvência"
-edital_ref: "2.2"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - Contas Externas"
+edital_ref: 2.2
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Contas Externas
@@ -195,3 +199,22 @@ País com PII líquida negativa (mais passivos que ativos) é **devedor líquido
 4. **Indicadores de solvência** — Dívida/PIB, Dívida/exportações, Serviço/exportações; crises de solvência clássicas (México 1994, Ásia 1997, Argentina 2001).
 
 5. **IDE vs. Investimento em Carteira** — Por que IDE é mais estável que portfólio; "sudden stop" e fuga de capitais; regulação de capitais.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.1 (Contabilidade Nacional)**: A identidade **STC = S − I** é a ponte fundamental: o déficit em transações correntes reflete o excesso de investimento sobre poupança doméstica. A necessidade de financiamento externo se traduz em acumulação de passivos na conta financeira.
+
+- **2.4 (IS-LM-BP)**: A **curva BP** do modelo Mundell-Fleming formaliza o equilíbrio do balanço de pagamentos. A mobilidade de capitais (IDE vs. portfólio) determina a inclinação da BP e a eficácia relativa das políticas fiscal e monetária sob câmbio fixo e flutuante.
+
+- **3.2 (Macroeconomia Aberta)**: Os **regimes cambiais** (fixo, flutuante, bandas) determinam como desequilíbrios no BP são corrigidos. A **Trindade Impossível** implica que países com livre mobilidade de capitais e câmbio fixo perdem autonomia monetária — relevante para crises do BP.
+
+- **4.4 (II PND e Crise dos Anos 1980)**: A **crise da dívida externa** dos anos 1980 é o caso clássico de insolvência externa — a combinação de choque de juros (Volcker), choque do petróleo e endividamento excessivo deteriorou todos os indicadores de solvência (dívida/exportações acima de 400%).
+
+- **4.5 (Economia dos Anos 1990)**: A crise cambial de **1999** e a transição para o câmbio flutuante ilustram a vulnerabilidade de regimes de câmbio fixo com livre mobilidade de capitais — o colapso das reservas e o sudden stop de fluxos de portfólio.
+
+- **HM 1.5 (Crise de 1929)**: O colapso do **padrão-ouro** nos anos 1930 e a repatriação de capitais americanos da Europa demonstram como crises de balanço de pagamentos podem transformar recessões em depressões sistêmicas — tese central de **Kindleberger** e **Eichengreen**.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

@@ -1,0 +1,17 @@
+/* Study Vault — Collapse navigation by default */
+
+/* Hide all nested navigation lists initially */
+.md-nav__item--nested > .md-nav {
+  display: none;
+}
+
+/* Show nested nav when the toggle checkbox is checked (user clicked to expand) */
+.md-nav__item--nested > .md-nav__toggle:checked ~ .md-nav {
+  display: block;
+}
+
+/* Also show when the section contains the active page */
+.md-nav__item--nested .md-nav__item--active ~ .md-nav,
+.md-nav__item--nested:has(.md-nav__link--active) > .md-nav {
+  display: block;
+}

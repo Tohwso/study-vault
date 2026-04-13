@@ -1,8 +1,12 @@
 ---
 title: "2026 - CACD - História Mundial - As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal"
-edital_ref: "1.5"
-capitulo: "1. Estruturas e Ideias Econômicas"
+edital_ref: 1.5
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal

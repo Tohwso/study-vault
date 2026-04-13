@@ -1,8 +1,12 @@
 ---
-title: "Contabilidade Nacional: Renda, Produto e Contas Nacionais"
-edital_ref: "2.1"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - Contabilidade Nacional"
+edital_ref: 2.1
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Contabilidade Nacional
@@ -207,3 +211,22 @@ Componentes das contas nacionais brasileiras (IBGE):
 4. **PIB vs. PNB; Nominal vs. Real; Deflator** — Distinções conceituais básicas; deflator vs. IPCA; óticas de mensuração.
 
 5. **Lei de Say vs. Keynes** — O debate clássico-keynesiano; neutralidade da moeda; rigidez de salários; paradoxo da parcimônia.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.2 (Contas Externas)**: A identidade **STC = S − I** conecta diretamente a contabilidade nacional ao balanço de pagamentos. O conceito de **twin deficits** (déficit público + déficit externo) deriva da identidade fundamental das contas nacionais em economia aberta.
+
+- **2.3 (Setor Público e Política Fiscal)**: O **multiplicador keynesiano** é derivado da identidade Y = C + I + G. O **resultado primário** e a dinâmica da dívida pública (Δb = (r−g)b − sp) dependem da mensuração correta dos agregados macroeconômicos.
+
+- **2.4 (IS-LM-BP)**: O modelo IS-LM é a formalização do equilíbrio simultâneo nos mercados de bens (IS, derivada da identidade Y = C + I + G) e monetário (LM). A curva de demanda agregada é obtida a partir do IS-LM variando o nível de preços.
+
+- **2.8 (Emprego e Renda)**: O **PIB potencial** e o **hiato do produto** (Y − Y*) são os conceitos que conectam contabilidade nacional ao mercado de trabalho. A **Lei de Okun** quantifica a relação entre variações no produto e variações na taxa de desemprego.
+
+- **3.2 (Macroeconomia Aberta)**: A identidade macroeconômica fundamental (S_priv − I) + (T − G) = (X − M) é a ponte entre contabilidade nacional e macroeconomia aberta — todo déficit em conta corrente reflete um excesso de absorção doméstica sobre o produto.
+
+- **HM 1.5 (Crise de 1929)**: A Grande Depressão motivou o desenvolvimento da **contabilidade nacional moderna** (Kuznets, 1937) — antes dela, não existiam medições sistemáticas do produto nacional que permitissem quantificar a magnitude da catástrofe econômica.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

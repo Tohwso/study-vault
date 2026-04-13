@@ -1,8 +1,12 @@
 ---
-title: "Teoria Monetária: Moeda, Inflação e Preços"
-edital_ref: "2.5"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - Teoria Monetária"
+edital_ref: 2.5
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Teoria e Política Monetária — Fundamentos
@@ -256,3 +260,22 @@ Inflação = crescimento monetário − crescimento real do produto.
 4. **Criação de moeda e multiplicador** — Reservas fracionárias; instrumentos de controle do BC (compulsório, open market, redesconto).
 
 5. **Demanda por moeda — motivos keynesianos** — Transacional, precaucional, especulativo; implicação para a curva LM e eficácia da política monetária.
+
+
+## Conexões com Outros Temas do Edital
+
+- **2.4 (IS-LM-BP)**: A **curva LM** é derivada diretamente da teoria da demanda por moeda (preferência pela liquidez keynesiana). A **armadilha da liquidez** ocorre quando a demanda especulativa é perfeitamente elástica — LM horizontal.
+
+- **2.6 (Política Monetária)**: A teoria monetária fornece os fundamentos para os instrumentos de política monetária — a TQM justifica o controle da oferta de moeda; a preferência pela liquidez justifica o controle da taxa de juros. O debate monetarista vs. keynesiano se traduz em regras vs. discricionariedade.
+
+- **2.3 (Setor Público e Política Fiscal)**: A **senhoriagem** e o **imposto inflacionário** são formas de financiamento fiscal via emissão monetária. A **Teoria Fiscal do Nível de Preços (FTPL)** postula que o nível de preços é determinado pela relação dívida/superávits futuros.
+
+- **4.4 (II PND e Crise dos Anos 1980)**: A **inflação inercial** brasileira dos anos 1980 é o caso empírico mais importante para o CACD. A tese dos economistas da PUC-Rio (indexação como mecanismo de propagação) fundamentou a estratégia do **Plano Real** (URV como unidade de conta transitória).
+
+- **4.5 (Economia dos Anos 1990)**: O **Plano Real** (1994) é a aplicação prática da teoria da inflação inercial — a URV desindexou a economia e a âncora cambial estabilizou expectativas. A hiperinflação brasileira dos anos 1980-90 é caso paradigmático de erosão das funções da moeda.
+
+- **HM 1.3 (Fisiocracia ao Liberalismo)**: A **Teoria Quantitativa da Moeda** tem raízes no mercantilismo (Bodin, Hume) e foi formalizada pela escola clássica. O debate sobre neutralidade da moeda é central na história do pensamento econômico.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

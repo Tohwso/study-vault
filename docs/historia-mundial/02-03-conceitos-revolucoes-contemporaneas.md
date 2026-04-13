@@ -1,15 +1,13 @@
 ---
 title: "2026 - CACD - História Mundial - Conceitos e características gerais das revoluções contemporâneas"
-tags:
-  - historia-mundial
-  - revolucoes
-  - teoria-revolucionaria
-  - revolucoes-contemporaneas
-  - CACD
-  - "2026"
-edital_ref: "2.3"
-capitulo: "2. Revoluções"
+tags: 
+edital_ref: 2.3
+capitulo: 2. Revoluções
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # 2026 - CACD - História Mundial - Conceitos e características gerais das revoluções contemporâneas
@@ -174,3 +172,7 @@ Os quadros teóricos deste ponto funcionam como **ferramentas analíticas transv
 ---
 
 *Resumo elaborado para o CACD 2026 — História Mundial — Ponto 2.3 do edital.*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

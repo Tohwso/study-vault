@@ -1,15 +1,13 @@
 ---
 title: "2026 - CACD - História Mundial - Processos de independência na América"
-tags:
-  - historia-mundial
-  - revolucoes
-  - independencias-america
-  - america-latina
-  - CACD
-  - "2026"
-edital_ref: "2.2"
-capitulo: "2. Revoluções"
+tags: 
+edital_ref: 2.2
+capitulo: 2. Revoluções
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # 2026 - CACD - História Mundial - Processos de independência na América
@@ -130,3 +128,7 @@ O debate historiográfico sobre as independências americanas gira em torno de e
 ---
 
 *Resumo elaborado para o CACD 2026 — História Mundial — Ponto 2.2 do edital.*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

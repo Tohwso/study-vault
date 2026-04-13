@@ -1,17 +1,14 @@
 ---
 title: "2026 - CACD - História Mundial - O Pós-Fordismo e a acumulação flexível"
-edital_ref: "1.8"
-capitulo: "1. Estruturas e Ideias Econômicas"
+edital_ref: 1.8
+capitulo: 1. Estruturas e Ideias Econômicas
 status: completo
-tags:
-  - historia-mundial
-  - economia
-  - pos-fordismo
-  - acumulacao-flexivel
-  - toyotismo
-  - financeirizacao
-  - CACD2026
+tags: 
 created: 2025-01-27
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # O Pós-Fordismo e a Acumulação Flexível
@@ -20,6 +17,17 @@ created: 2025-01-27
 > **Edital:** 1.8 — O Pós-Fordismo e a acumulação flexível
 > **Capítulo:** 1. Estruturas e Ideias Econômicas
 > **Palavras-chave:** crise do fordismo, acumulação flexível, toyotismo, regulacionismo, precarização, financeirização, pós-modernidade, cadeias globais de valor
+
+!!! info "Temas do mesmo capítulo"
+    01.01 Da Revolução Industrial ao Capitalismo Organizado: Séculos XVIII a XX
+    01.02 Características gerais e principais fases do desenvolvimento capitalista (desde ~1780)
+    01.03 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
+    01.04 Marxismo
+    01.05 As crises e os mecanismos anticrise: a Crise de 1929 e o New Deal
+    01.06 A Prosperidade no Segundo Pós-Guerra
+    01.07 1.7 Estado de bem-estar social (Welfare State) e sua crise
+    01.08 O Pós-Fordismo e a Acumulação Flexível
+
 
 > [!info] Fichamentos do Capítulo 1 — Estruturas e Ideias Econômicas
 >
@@ -201,3 +209,42 @@ Para o CACD, o tema conecta-se diretamente a múltiplos pontos do edital: a glob
 ---
 
 *Fichamento elaborado para preparação CACD 2026. Conteúdo denso e autoral, baseado em bibliografia acadêmica consolidada.*
+
+
+## Conexões com Outros Temas do Edital
+
+### Com outros temas do Capítulo 1
+
+- **1.1 (Da Revolução Industrial ao capitalismo organizado)**: O pós-fordismo representa a fase mais recente do desenvolvimento capitalista — a passagem do capitalismo organizado (fordismo, Welfare State, Bretton Woods) para o capitalismo desregulado (financeirização, globalização, flexibilização).
+
+- **1.5 (Crise de 1929 e New Deal)**: O New Deal consolidou o **fordismo** como modelo de acumulação (produção em massa + consumo de massa + regulação estatal + negociação coletiva). O pós-fordismo é, precisamente, a crise e superação deste arranjo a partir dos anos 1970.
+
+- **1.6 (Prosperidade no Segundo Pós-Guerra)**: Os **Trinta Gloriosos** são a Era de Ouro do fordismo-keynesianismo. O pós-fordismo emerge da crise deste modelo — colapso de Bretton Woods (1971), choques do petróleo (1973/1979), estagflação e queda da produtividade.
+
+- **1.7 (Welfare State)**: A precarização do trabalho pós-fordista (Standing, *O Precariado*, 2011) mina as bases fiscais e sociais do Welfare State — contratos flexíveis, terceirização, gig economy corroem a relação de emprego estável sobre a qual se erguia a proteção social.
+
+- **1.4 (Marxismo)**: **David Harvey** (*The Condition of Postmodernity*, 1989) é a referência central para a interpretação marxista do pós-fordismo — a acumulação flexível como resposta do capital à crise de lucratividade, a compressão espaço-temporal e a financeirização como busca de valorização fora da produção.
+
+### Com outros pontos do edital
+
+- **Economia 3.1 (Teorias do Comércio)**: As **cadeias globais de valor** e a nova divisão internacional do trabalho são os fenômenos comerciais centrais do pós-fordismo — fragmentação da produção, comércio intra-firma, especialização vertical, offshoring.
+
+- **Economia 4.5 (Economia dos Anos 1990)**: A abertura comercial, as privatizações e a reestruturação industrial no Brasil dos anos 1990 são a inserção tardia do país na globalização pós-fordista — com custos de desindustrialização prematura e precarização trabalhista.
+
+- **Economia 5.1 (Bancos Digitais)**: A financeirização pós-fordista encontra sua expressão tecnológica mais recente nas fintechs, criptomoedas e finanças descentralizadas (DeFi) — a desintermediação financeira digital como fase avançada da acumulação flexível.
+
+## 🎯 Top 5 — O que mais cai no CACD
+
+1. **David Harvey e a acumulação flexível** — A transição do fordismo rígido para a flexibilidade produtiva, trabalhista e financeira. A compressão espaço-temporal e a financeirização como mecanismos de superação da crise de lucratividade dos anos 1970. Harvey é a referência central.
+
+2. **Toyotismo e reestruturação produtiva** — Just-in-time, kanban, controle de qualidade total, trabalhador polivalente, estoque zero. A contraposição Ford/Taylor vs. Ohno/Toyota é a forma mais frequente de cobrança no CACD.
+
+3. **A Escola da Regulação (Aglietta, Boyer, Lipietz)** — Regime de acumulação + modo de regulação; a crise do fordismo como esgotamento do modo de regulação monopolista; a busca por um novo modo de regulação pós-fordista ainda incompleta.
+
+4. **Precarização do trabalho e o precariado (Guy Standing)** — A erosão do emprego estável fordista; terceirização, contratos temporários, gig economy; implicações para o Welfare State e para a coesão social. Tema crescente nas provas.
+
+5. **Financeirização e cadeias globais de valor** — A dominância do capital financeiro sobre o produtivo; a fragmentação internacional da produção; a nova divisão do trabalho entre centro (design, finanças) e periferia (manufatura). Conexão com globalização e comércio intra-firma.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

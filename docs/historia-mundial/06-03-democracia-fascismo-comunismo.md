@@ -1,17 +1,16 @@
 ---
-title: "6.3 – Democracia, Fascismo e Comunismo no Século XX"
-tags:
-  - historia-mundial
-  - democracia
-  - fascismo
-  - comunismo
-  - seculo-xx
-  - ideologias-politicas
-  - CACD-2026
-category: "História Mundial"
+title: "2026 - CACD - História Mundial - 6.3 – Democracia, Fascismo e Comunismo no Século XX"
+tags: 
+category: História Mundial
 created: 2025-01-28
 modified: 2025-01-28
 status: completo
+materia: História Mundial
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
+edital_ref: 6.3
+capitulo: 6. Ideias Políticas
 ---
 
 # 6.3 – Democracia, Fascismo e Comunismo no Século XX
@@ -19,6 +18,15 @@ status: completo
 > **Referência do Edital CACD 2026:** Item 6.3 — Democracia, Fascismo e Comunismo no Século XX
 > **Capítulo:** 6. Ideias e Regimes Políticos
 > **Status:** ✅ Completo
+
+!!! info "Temas do mesmo capítulo"
+    06.01 6.1 – Liberalismo e Nacionalismo no Século XIX
+    06.02 6.2 – Construção dos Estados Nacionais: Alemanha e Itália
+    06.03 6.3 – Democracia, Fascismo e Comunismo no Século XX
+    06.04 6.4 Ditaduras e Regimes Fascistas
+    06.05 6.5 Novo Nacionalismo e Fundamentalismo
+    06.06 6.6 Liberalismo no Século XX
+
 
 > [!info] **Navegação do Capítulo 6 — Ideias e Regimes Políticos**
 > - 6.1 – Liberalismo e Nacionalismo no Século XIX
@@ -109,3 +117,7 @@ Para o comunismo, a interpretação varia entre os que enfatizam a **continuidad
 ---
 
 *Resumo elaborado para o CACD 2026 — Capítulo 6: Ideias e Regimes Políticos*
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*

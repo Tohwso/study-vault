@@ -1,8 +1,12 @@
 ---
-title: "Crescimento e Desenvolvimento Econômico: Teorias e Modelos"
-edital_ref: "2.7"
-capitulo: "2. Macroeconomia"
+title: "2026 - CACD - Economia - Crescimento e Desenvolvimento Econômico"
+edital_ref: 2.7
+capitulo: 2. Macroeconomia
 status: completo
+materia: Economia
+concurso: CACD
+data_geracao: 2026-04-01
+modelo_llm: desconhecido
 ---
 
 # Crescimento e Desenvolvimento Econômico
@@ -164,3 +168,22 @@ Teoria econômica da inovação justifica intervenção pública:
 4. **Crescimento vs. Desenvolvimento** — Distinção conceitual; contribuição de Amartya Sen (desenvolvimento como liberdade, capabilities); IDH como alternativa ao PIB per capita.
 
 5. **Determinantes da PTF** — Educação/capital humano, qualidade institucional, infraestrutura, abertura comercial; armadilha da renda média.
+
+
+## Conexões com Outros Temas do Edital
+
+- **1.2 (Oferta do Produtor)**: O **modelo de Solow** utiliza a função de produção Cobb-Douglas com rendimentos decrescentes do capital — a mesma função de produção da microeconomia aplicada ao nível agregado. O **resíduo de Solow** (PTF) mede a contribuição do progresso tecnológico.
+
+- **2.8 (Emprego e Renda)**: O **crescimento do PIB potencial** depende do crescimento da força de trabalho, da acumulação de capital e da PTF. A **convergência condicional** de Solow implica que economias com mesma taxa de poupança e crescimento populacional convergem para o mesmo nível de renda per capita.
+
+- **3.1 (Teorias do Comércio)**: A abertura comercial é um dos determinantes empíricos do crescimento econômico — o debate entre **protecionismo estratégico** (List, CEPAL, indústria nascente) e **livre comércio como motor de crescimento** (vantagens comparativas, acesso a tecnologia, economias de escala).
+
+- **4.2 (Industrialização 1930-1960)**: O **modelo ISI** brasileiro é a aplicação prática das teorias de desenvolvimento estruturalistas (Prebisch, Furtado, CEPAL) — a industrialização como caminho para superar a deterioração dos termos de troca e a armadilha da renda média.
+
+- **4.3 (Período 1962-1973)**: O **Milagre Econômico** (1968-1973) ilustra crescimento acelerado via acumulação de capital (FBCF elevada) e importação de tecnologia — mas com concentração de renda, evidenciando que crescimento ≠ desenvolvimento (Amartya Sen, IDH).
+
+- **HM 1.8 (Pós-Fordismo)**: A transição do fordismo para a acumulação flexível transformou os determinantes do crescimento — de acumulação de capital físico e trabalho fordista para inovação, capital humano e cadeias globais de valor.
+
+---
+
+*Gerado por IA (desconhecido). Sujeito a revisão.*
