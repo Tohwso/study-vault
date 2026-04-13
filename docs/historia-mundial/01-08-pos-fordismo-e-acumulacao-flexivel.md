@@ -202,7 +202,7 @@ Para o CACD, o tema conecta-se diretamente a múltiplos pontos do edital: a glob
 
 ---
 
-> **Navegação:** ← [01.07 — O fordismo e a sociedade de consumo de massa](01-07-fordismo-e-sociedade-de-consumo-de-massa.md)
+> **Navegação:** ← [01.07 — O fordismo e a sociedade de consumo de massa](01-07-welfare-state-e-sua-crise.md)
 >
 > **Capítulo 1 completo.** Próximo capítulo: 2. Estruturas Políticas e Sociais.
 

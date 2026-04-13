@@ -204,7 +204,7 @@ A prosperidade do segundo pós-guerra foi, portanto, um fenômeno historicamente
 
 ---
 
-> **Navegação:** [← 01.05 O New Deal e as respostas à Grande Depressão](01-05-new-deal-respostas-grande-depressao.md) | [01.07 A crise do sistema de Bretton Woods e os choques do petróleo →](01-07-crise-bretton-woods-choques-petroleo.md)
+> **Navegação:** [← 01.05 O New Deal e as respostas à Grande Depressão](01-05-crise-de-1929-e-new-deal.md) | [01.07 A crise do sistema de Bretton Woods e os choques do petróleo →](01-07-welfare-state-e-sua-crise.md)
 
 
 ## Conexões com Outros Temas do Edital

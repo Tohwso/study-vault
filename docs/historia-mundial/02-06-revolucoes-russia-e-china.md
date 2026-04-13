@@ -23,9 +23,9 @@ modelo_llm: desconhecido
 !!! info "Navegação do Capítulo 2 — Revoluções"
     Este resumo faz parte do bloco **2. Revoluções** do edital de História Mundial.
     Consulte também:
-    - [2.1 — Revoluções Inglesas](02-01-revolucoes-inglesas.md)
-    - [2.2 — Revolução Francesa e Era Napoleônica](02-02-revolucao-francesa.md)
-    - [2.3 — Liberalismo e Nacionalismo no Século XIX](02-03-liberalismo-nacionalismo.md)
+    - [2.1 — Revoluções Inglesas](02-01-revolucao-francesa-e-revolucoes-burguesas.md)
+    - [2.2 — Revolução Francesa e Era Napoleônica](02-01-revolucao-francesa-e-revolucoes-burguesas.md)
+    - [2.3 — Liberalismo e Nacionalismo no Século XIX](02-03-conceitos-revolucoes-contemporaneas.md)
     - [2.4 — Anarquismo](02-04-anarquismo.md)
     - [2.5 — Socialismo](02-05-socialismo.md)
     - **2.6 — Revoluções no Século XX: Rússia e China** *(você está aqui)*

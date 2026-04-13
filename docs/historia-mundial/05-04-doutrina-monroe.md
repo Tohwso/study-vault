@@ -137,7 +137,7 @@ Lars Schoultz, em *Beneath the United States* (1998), argumentou que a política
 
 ---
 
-> **Navegação:** [← 5.3 Identidades Nacionais na América Latina](05-03-identidades-nacionais-america-latina.md) · **5.4 Doutrina Monroe** · [5.5 →](05-05-era-das-intervencoes.md)
+> **Navegação:** [← 5.3 Identidades Nacionais na América Latina](05-03-identidades-nacionais-america-latina.md) · **5.4 Doutrina Monroe** · [5.5 →](05-05-pan-americanismo.md)
 
 ---
 
