@@ -8,7 +8,7 @@ created: 2025-01-25
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # 1.3 Principais ideias econômicas: da Fisiocracia ao Liberalismo
@@ -278,4 +278,4 @@ O arco que vai da Fisiocracia ao liberalismo não é uma marcha linear rumo ao p
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

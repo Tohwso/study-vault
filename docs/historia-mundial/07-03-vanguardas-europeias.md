@@ -6,7 +6,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # As vanguardas europeias

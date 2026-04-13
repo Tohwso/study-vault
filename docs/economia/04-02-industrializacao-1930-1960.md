@@ -6,7 +6,7 @@ status: completo
 materia: Economia
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # Industrialização 1930-1945 e a Década de 1950
@@ -194,4 +194,4 @@ O período **1950s** marcou a entrada massiva de **Investimento Direto Estrangei
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

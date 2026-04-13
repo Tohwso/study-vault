@@ -39,7 +39,7 @@ MATERIA_MAP = {
 CONCURSO = "CACD"
 ANO = "2026"
 BACKFILL_DATA_GERACAO = "2026-04-01"
-BACKFILL_MODELO_LLM = "desconhecido"
+BACKFILL_MODELO_LLM = "claude-opus-4-6"
 
 # Map (materia_dir, chapter_number) to chapter display name
 CAPITULO_MAP = {
@@ -66,7 +66,7 @@ CAPITULO_MAP = {
 FILENAME_PREFIX_RE = re.compile(r"^(\d{2})-(\d{2})-")
 
 FOOTER_PATTERN = re.compile(r"^\*Gerado por IA.*$", re.MULTILINE)
-EXPECTED_FOOTER = "*Gerado por IA (desconhecido). Sujeito a revisão.*"
+EXPECTED_FOOTER = "*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*"
 
 
 # ---------------------------------------------------------------------------

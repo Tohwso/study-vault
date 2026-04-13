@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # 2026 - CACD - História Mundial - A Revolução Francesa e as revoluções burguesas
@@ -130,4 +130,4 @@ A Revolução Francesa conecta-se diretamente com múltiplos temas do edital CAC
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

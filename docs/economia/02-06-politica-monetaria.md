@@ -6,7 +6,7 @@ status: completo
 materia: Economia
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # Política Monetária
@@ -258,4 +258,4 @@ Banco do Japão: define não apenas a taxa de curtíssimo prazo, mas fixa també
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

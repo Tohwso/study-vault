@@ -6,7 +6,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 capitulo: 3. Relações Internacionais
 ---
 
@@ -137,4 +137,4 @@ A Ostpolitik de Brandt também oferece paralelo interessante para a diplomacia b
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

@@ -6,7 +6,7 @@ status: completo
 materia: Economia
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # Política Comercial
@@ -226,4 +226,4 @@ Proteção de setores de defesa (aço, semicondutores) por razões estratégicas
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

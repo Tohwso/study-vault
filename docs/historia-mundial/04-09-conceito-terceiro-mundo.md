@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 edital_ref: 4.9
 capitulo: 4. Colonialismo e Imperialismo
 ---
@@ -157,4 +157,4 @@ O conceito de Terceiro Mundo — e suas transformações — é tema transversal
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

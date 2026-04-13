@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 edital_ref: 4.7
 capitulo: 4. Colonialismo e Imperialismo
 ---
@@ -161,4 +161,4 @@ A Conferência de Bandung é um tema com alto potencial de conexão transversal 
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

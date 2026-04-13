@@ -6,7 +6,7 @@ status: completo
 materia: Economia
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # Tipos de Mercados e de Bens
@@ -254,4 +254,4 @@ Além das externalidades clássicas, **assimetria de informação** é outra gra
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

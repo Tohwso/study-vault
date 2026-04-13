@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 edital_ref: 4.3
 capitulo: 4. Colonialismo e Imperialismo
 ---
@@ -153,4 +153,4 @@ Na esteira de Said, **Gayatri Spivak** (*Can the Subaltern Speak?*, 1988) questi
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

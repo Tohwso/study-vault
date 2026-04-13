@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # 2026 - CACD - História Mundial - Conceitos e características gerais das revoluções contemporâneas
@@ -175,4 +175,4 @@ Os quadros teóricos deste ponto funcionam como **ferramentas analíticas transv
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

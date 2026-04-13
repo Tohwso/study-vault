@@ -6,7 +6,7 @@ status: completo
 materia: Economia
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # Desaceleração, II PND e a Crise dos Anos 1980
@@ -180,4 +180,4 @@ O debate intelectual dos anos 1980 sobre a natureza da inflação brasileira foi
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

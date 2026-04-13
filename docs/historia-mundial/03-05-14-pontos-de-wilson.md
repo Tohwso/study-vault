@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 capitulo: 3. Relações Internacionais
 ---
 
@@ -161,4 +161,4 @@ Para o Brasil, o princípio da autodeterminação conecta-se à tradição de de
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

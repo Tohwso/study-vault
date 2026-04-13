@@ -24,7 +24,7 @@ O frontmatter é o **contrato máquina-máquina** de cada resumo. Ele fica no to
 | `concurso` | string | Sigla do concurso | `"CACD"` | RF-02 |
 | `status` | enum | `completo` \| `em_revisao` \| `pendente` | `"completo"` | RF-04 |
 | `data_geracao` | date | ISO 8601 (`YYYY-MM-DD`) | `"2026-04-01"` | RF-05 |
-| `modelo_llm` | string | Identificador do modelo LLM | `"gpt-4o"` | RF-06 |
+| `modelo_llm` | string | Identificador do modelo LLM | `"claude-opus-4-6"` | RF-06 |
 
 ### 1.2 Regras de Validação
 
@@ -50,7 +50,7 @@ materia: "História Mundial"
 concurso: "CACD"
 status: completo
 data_geracao: "2026-04-01"
-modelo_llm: "gpt-4o"
+modelo_llm: "claude-opus-4-6"
 ---
 ```
 
@@ -65,7 +65,7 @@ materia: "Economia"
 concurso: "CACD"
 status: completo
 data_geracao: "2026-04-01"
-modelo_llm: "desconhecido"
+modelo_llm: "claude-opus-4-6"
 ---
 ```
 

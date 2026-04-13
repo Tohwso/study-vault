@@ -7,7 +7,7 @@ date: 2025-01-20
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 capitulo: 3. Relações Internacionais
 ---
 

@@ -55,7 +55,7 @@ forçar abstrações de software onde não cabem.
 |----|---------------|------|---------|--------|-----------|
 | UQ-001 | 📋 AN | Business | Qual LLM é usada para gerar os resumos? (GPT-4, Claude, Gemini?) | RESOLVIDA | LLMs variadas. Novo requisito: registrar modelo usado no rodapé de cada resumo |
 | UQ-002 | 📋 AN | Business | O Autor faz validação factual cruzada com a bibliografia? Com que rigor? | ABERTA | — |
-| UQ-006 | 📋 AR | Requisitos | Qual granularidade para `modelo_llm`? Só nome (gpt-4o) ou com snapshot (gpt-4o-2024-05-13)? | ABERTA | — |
+| UQ-006 | 📋 AR | Requisitos | Qual granularidade para `modelo_llm`? Só nome (gpt-4o) ou com snapshot (gpt-4o-2024-05-13)? | RESOLVIDA | Nome do modelo sem snapshot (ex: claude-opus-4-6). Rodapé exibe nome legível (Claude Opus 4.6) |
 | UQ-007 | 📋 AR | Requisitos | Backfill dos 84 resumos existentes (RF-38 a RF-41) será manual ou com script? | RESOLVIDA | Script Python (recomendação do Arquiteto — ADR-005) |
 | UQ-008 | 🏛️ Arq | Design | validate.py deve tratar index.md diferentemente? (sem frontmatter de resumo) | RESOLVIDA | index.md excluído da coleta (Dev) |
 | UQ-009 | 🏛️ Arq | Deployment | Vale adicionar --strict ao mkdocs serve local? | RESOLVIDA | --strict apenas no CI build, serve local sem (Dev) |

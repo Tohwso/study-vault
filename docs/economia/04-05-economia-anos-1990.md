@@ -6,7 +6,7 @@ status: completo
 materia: Economia
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # Economia Brasileira nos Anos 1990: Abertura e Plano Real
@@ -179,4 +179,4 @@ Este tripé constituiu o regime macroeconômico brasileiro até os anos 2010.
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

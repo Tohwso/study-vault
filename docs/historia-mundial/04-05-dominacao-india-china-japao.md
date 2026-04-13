@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 edital_ref: 4.5
 capitulo: 4. Colonialismo e Imperialismo
 ---
@@ -150,4 +150,4 @@ O contraste entre Índia, China e Japão é objeto de intenso debate historiogr�
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

@@ -8,7 +8,7 @@ created: 2025-01-27
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # 1.7 Estado de bem-estar social (Welfare State) e sua crise
@@ -373,4 +373,4 @@ A pandemia de **COVID-19** (2020) aprofundou esse movimento: Estados que há dé
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*

@@ -7,7 +7,7 @@ status: completo
 materia: História Mundial
 concurso: CACD
 data_geracao: 2026-04-01
-modelo_llm: desconhecido
+modelo_llm: claude-opus-4-6
 ---
 
 # 2026 - CACD - História Mundial - Revoluções na América Latina: os casos do México e de Cuba
@@ -197,4 +197,4 @@ A **perspectiva latino-americana** é essencial. **Tulio Halperin Donghi** (*His
 
 ---
 
-*Gerado por IA (desconhecido). Sujeito a revisão.*
+*Gerado por IA (Claude Opus 4.6). Sujeito a revisão.*
