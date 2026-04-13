@@ -160,3 +160,35 @@ nav:
       - economia/04-05-economia-anos-1990.md
     - 5. Temas Contemporâneos:
       - economia/05-01-bancos-digitais.md
+  - Geografia:
+    - Visão Geral: geografia/index.md
+    - 1. História da Geografia:
+      - geografia/01-01-expansao-colonial-e-pensamento-geografico.md
+      - geografia/01-02-geografia-moderna-e-questao-nacional.md
+      - geografia/01-03-principais-correntes-teoricas.md
+    - 2. A Geografia da População:
+      - geografia/02-01-distribuicao-espacial-da-populacao.md
+      - geografia/02-02-grandes-movimentos-migratorios.md
+      - geografia/02-03-dinamica-populacional.md
+    - 3. Geografia Econômica:
+      - geografia/03-01-globalizacao-e-divisao-internacional-do-trabalho.md
+      - geografia/03-02-blocos-economicos-internacionais.md
+      - geografia/03-03-energia-logistica-e-reordenamento-territorial.md
+      - geografia/03-04-disparidades-regionais-e-planejamento.md
+    - 4. Geografia Agrária:
+      - geografia/04-01-distribuicao-agricultura-e-pecuaria-mundiais.md
+      - geografia/04-02-agronegocio-brasil-e-mundo.md
+      - geografia/04-03-estrutura-fundiaria-e-relacoes-de-producao.md
+    - 5. Geografia Urbana:
+      - geografia/05-01-urbanizacao-e-redes-de-cidades.md
+      - geografia/05-02-conurbacao-metropolizacao-e-cidades-mundiais.md
+      - geografia/05-03-dinamica-intraurbana-metropoles-brasileiras.md
+      - geografia/05-04-cidades-medias-e-modernizacao.md
+    - 6. Geografia Política:
+      - geografia/06-01-teorias-geopoliticas-e-poder-mundial.md
+      - geografia/06-02-fronteiras-e-apropriacao-politica-do-espaco.md
+      - geografia/06-03-relacoes-estado-e-territorio.md
+    - 7. Geografia e Gestão Ambiental:
+      - geografia/07-01-meio-ambiente-nas-relacoes-internacionais.md
+      - geografia/07-02-biomas-dominios-e-ecossistemas-brasileiros.md
+      - geografia/07-03-politica-e-gestao-ambiental-no-brasil.md

@@ -14,6 +14,7 @@ Transformar a bibliografia obrigatória do edital em **resumos densos, estrutura
 |---------|-----------|-------|--------|
 | [História Mundial](historia-mundial/index.md) | 8 | 60 | ✅ Completo |
 | [Economia](economia/index.md) | 5 | 24 | ✅ Completo |
+| [Geografia](geografia/index.md) | 7 | 22 | ✅ Completo |
 
 ## 🧠 Como usar
 
@@ -32,4 +33,4 @@ Estes resumos são **material de apoio**, não substituem a leitura das obras de
 
 ---
 
-*Gerado com auxílio de IA. Última atualização: Abril 2026.*
+*Gerado com auxílio de IA. Última atualização: Julho 2026.*
