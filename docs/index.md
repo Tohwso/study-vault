@@ -12,7 +12,7 @@ Transformar a bibliografia obrigatória do edital em **resumos densos, estrutura
 
 | Matéria | Capítulos | Temas | Status |
 |---------|-----------|-------|--------|
-| [História Mundial](historia-mundial/index.md) | 8 | 60 | 🔄 Em geração |
+| [História Mundial](historia-mundial/index.md) | 8 | 60 | ✅ Completo |
 
 ## 🧠 Como usar
 
