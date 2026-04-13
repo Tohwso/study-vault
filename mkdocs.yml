@@ -126,3 +126,30 @@ nav:
       - historia-mundial/07-05-pos-modernidade.md
     - 8. Relações Internacionais no Século XXI:
       - historia-mundial/08-01-novos-paradigmas-digitais.md
+  - Economia:
+    - Visão Geral: economia/index.md
+    - 1. Microeconomia:
+      - economia/01-01-demanda-do-consumidor.md
+      - economia/01-02-oferta-do-produtor.md
+      - economia/01-03-tipos-de-mercados-e-bens.md
+    - 2. Macroeconomia:
+      - economia/02-01-contabilidade-nacional.md
+      - economia/02-02-contas-externas.md
+      - economia/02-03-setor-publico-politica-fiscal.md
+      - economia/02-04-modelo-is-lm-bp.md
+      - economia/02-05-teoria-monetaria.md
+      - economia/02-06-politica-monetaria.md
+      - economia/02-07-crescimento-desenvolvimento.md
+      - economia/02-08-emprego-renda.md
+    - 3. Economia Internacional:
+      - economia/03-01-teorias-do-comercio.md
+      - economia/03-02-macroeconomia-aberta.md
+      - economia/03-03-politica-comercial.md
+    - 4. História Econômica Brasileira:
+      - economia/04-01-economia-seculo-xix-e-primeira-republica.md
+      - economia/04-02-industrializacao-1930-1960.md
+      - economia/04-03-periodo-1962-1973.md
+      - economia/04-04-ii-pnd-e-crise-anos-1980.md
+      - economia/04-05-economia-anos-1990.md
+    - 5. Temas Contemporâneos:
+      - economia/05-01-bancos-digitais.md
