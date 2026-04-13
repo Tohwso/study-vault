@@ -1,137 +1,117 @@
 ---
-título: A Guerra de Secessão
-capítulo: 5 – A Evolução Política e Econômica nas Américas
-subcapítulo: 5.2
-disciplina: História Mundial
+title: "5.2 — A Guerra de Secessão dos Estados Unidos"
 tags:
-  - CACD
-  - história-mundial
-  - EUA
+  - historia-mundial
+  - estados-unidos
   - guerra-civil
-  - escravidão
-  - reconstrução
-  - Lincoln
-  - século-XIX
+  - escravidao
+  - lincoln
+  - reconstrucao
+  - cacd
+category: Historia Mundial
 status: completo
-última_revisão: 2025-07-14
+created: 2025-07-13
 ---
 
-# 5.2 – A Guerra de Secessão
+# 5.2 — A Guerra de Secessão dos Estados Unidos
 
-> **Referência**: CACD 2026 — História Mundial, Capítulo 5, item 5.2
-> **Status**: ✅ Completo
-> **Última revisão**: 2025-07-14
+> **Capítulo:** 5. A Evolução Política e Econômica nas Américas
+> **Seções irmãs:** 05.01 · 05.02 · 05.03 · 05.04 · 05.05 · 05.06 · 05.07
+> **Status:** ✅ Completo
 
-> [!info] Navegação – Capítulo 5
-> Este resumo faz parte do **Capítulo 5 – A Evolução Política e Econômica nas Américas**:
-> - [[05-01-expansao-territorial-eua|05.01 – A Expansão Territorial nos EUA]]
-> - **📍 05.02 – A Guerra de Secessão** *(você está aqui)*
-> - [[05-03-identidades-nacionais-america-latina|05.03 – Identidades Nacionais e Estados na América Latina]]
-> - [[05-04-doutrina-monroe|05.04 – A Doutrina Monroe e Política Externa dos EUA]]
-> - [[05-05-pan-americanismo|05.05 – O Pan-Americanismo]]
-> - [[05-06-oea-e-tiar|05.06 – A OEA e o Tratado do Rio de Janeiro]]
-> - [[05-07-experiencias-integracao-americas|05.07 – As Experiências de Integração nas Américas]]
+> [!info] Contexto do Capítulo
+> Este resumo integra o Capítulo 5 — *A Evolução Política e Econômica nas Américas* — que abrange desde a expansão territorial estadunidense e a Guerra de Secessão até a formação das identidades nacionais latino-americanas e a projeção hegemônica dos EUA sobre o hemisfério. A seção 5.2 trata da Guerra Civil Americana (1861-1865), suas causas estruturais, o conflito militar, a abolição da escravidão e o período da Reconstrução.
 
 ---
 
-## Contexto Histórico
+## 1. Contexto Histórico e Antecedentes
 
-A Guerra de Secessão (1861-1865) — ou Guerra Civil Americana — foi o conflito armado mais sangrento da história dos Estados Unidos, com estimativas de 620 mil a 750 mil mortes. Mais que uma guerra entre Norte e Sul, ela representou a resolução violenta de contradições fundamentais presentes desde a fundação da república: a compatibilidade entre escravidão e democracia, a natureza da União federal e o modelo econômico que prevaleceria na nação.
+A Guerra de Secessão (1861-1865) — ou Guerra Civil Americana — foi o conflito mais devastador da história dos Estados Unidos, resultando em aproximadamente 620.000 a 750.000 mortos (estimativas recentes elevam esse número para mais de 750.000), a destruição do sistema escravista sulista e uma transformação radical na natureza da União federal. Mais do que uma guerra entre Norte e Sul, o conflito representou o choque entre dois modelos civilizatórios incompatíveis que haviam coexistido de forma crescentemente tensa desde a fundação da República.
 
-As raízes estruturais do conflito remontam ao **compromisso constitucional de 1787**, quando os Founding Fathers acomodaram a escravidão na Constituição sem nomeá-la explicitamente — na cláusula dos três quintos (que contava cada escravo como 3/5 de pessoa para fins de representação), na cláusula do escravo fugitivo e na proteção temporária do tráfico negreiro até 1808. Essa ambiguidade fundacional permitiu que dois sistemas socioeconômicos divergentes se desenvolvessem dentro da mesma federação.
+O sistema escravista era o fundamento econômico, social e político do Sul dos Estados Unidos. A economia sulista baseava-se na plantation — grande propriedade monocultora dedicada ao algodão, tabaco, arroz e cana-de-açúcar —, cuja viabilidade dependia do trabalho escravo. Em 1860, havia aproximadamente 4 milhões de escravizados nos estados do Sul, representando cerca de um terço da população total da região. O algodão sulista, processado pelas fábricas têxteis britânicas, conectava o sistema escravista à economia global industrial: o Sul era o maior fornecedor de algodão do mundo, e os plantadores sulistas acreditavam que essa posição lhes conferia uma alavanca geopolítica decisiva — a chamada "diplomacia do algodão" (King Cotton diplomacy).
 
-O **Norte** industrializava-se aceleradamente, urbanizava-se, recebia imigração europeia massiva e desenvolvia uma economia baseada em trabalho assalariado, manufatura e comércio. O **Sul** permanecia agrário, dependente da monocultura do algodão (o "King Cotton"), do trabalho escravo e de uma aristocracia latifundiária. Essas diferenças econômicas traduziam-se em divergências políticas sobre tarifas (o Norte protecionista; o Sul livre-cambista), sobre investimentos em infraestrutura e, crucialmente, sobre a extensão da escravidão aos novos territórios do Oeste.
+O Norte, por sua vez, industrializava-se aceleradamente, urbanizava-se e desenvolvia um sistema de trabalho assalariado livre. A divergência econômica traduzia-se em conflitos políticos recorrentes: tarifas protecionistas (que beneficiavam a indústria nortista e encareciam produtos manufaturados para o Sul agrário), investimentos federais em infraestrutura (que o Sul via como favorecimento ao Norte) e, sobretudo, a questão da extensão da escravidão aos novos territórios do oeste.
 
-A expansão territorial (ver 5.1) funcionou como catalisador. Cada novo território adquirido — Louisiana, Oregon, as conquistas da guerra com o México — reabria a questão: seria escravista ou livre? A resposta determinaria o equilíbrio de poder no Senado (onde cada estado tinha dois senadores, independentemente da população) e, portanto, o futuro político da nação.
+### Os Compromissos Fracassados
 
----
+A história política dos EUA entre 1820 e 1860 pode ser lida como uma série de tentativas cada vez mais desesperadas de manter a coexistência entre estados livres e escravistas. O **Compromisso de Missouri (1820)** estabeleceu que a escravidão seria proibida ao norte do paralelo 36°30' no território da Louisiana, com exceção do próprio Missouri. O **Compromisso de 1850**, negociado por Henry Clay e Daniel Webster, admitiu a Califórnia como estado livre, fortaleceu a Lei do Escravo Fugitivo (Fugitive Slave Act) e introduziu a soberania popular para decidir a questão escravista nos territórios de Utah e Novo México.
 
-## Desenvolvimento
+A **Lei Kansas-Nebraska (1854)**, proposta por Stephen Douglas, revogou efetivamente o Compromisso de Missouri ao permitir que os colonos dos novos territórios decidissem por si mesmos sobre a escravidão (soberania popular). O resultado foi o "Kansas Sangrento" (Bleeding Kansas, 1854-1861) — uma guerra civil em miniatura entre colonos pró e antiescravidão que prefigurou o conflito nacional. A decisão da Suprema Corte no caso **Dred Scott v. Sandford (1857)** radicalizou a crise ao declarar que negros não eram cidadãos, que o Congresso não tinha poder para proibir a escravidão nos territórios e que a Lei de Compromisso de Missouri era inconstitucional.
 
-### A Escalada Política (1820-1860)
+### A Ascensão de Lincoln e a Secessão
 
-O **Compromisso de Missouri (1820)**, arquitetado por Henry Clay, admitiu o Missouri como estado escravista e Maine como livre, estabelecendo o paralelo 36°30' como linha divisória para futuros territórios da compra da Louisiana. Essa solução durou três décadas, mas era intrinsecamente instável.
+A eleição de **Abraham Lincoln** em novembro de 1860, candidato do Partido Republicano (fundado em 1854 com plataforma antiescravista), precipitou a secessão. Lincoln não era abolicionista radical — defendia apenas a contenção da escravidão, impedindo sua extensão aos novos territórios, não sua eliminação onde já existia. Para o Sul, porém, isso equivalia a uma sentença de morte para o sistema escravista: sem novos territórios escravistas, o equilíbrio político no Senado penderia irremediavelmente para o Norte, e a escravidão seria eventualmente eliminada por emenda constitucional.
 
-O **Compromisso de 1850** enfrentou a crise gerada pela conquista de territórios mexicanos. A Califórnia foi admitida como estado livre; os demais territórios (Utah, Novo México) decidiriam por "soberania popular" (*popular sovereignty*); e uma **Fugitive Slave Act** mais rigorosa obrigava cidadãos do Norte a colaborar na captura de escravos fugitivos — medida que radicalizou o sentimento abolicionista.
-
-O **Kansas-Nebraska Act (1854)**, proposto por Stephen A. Douglas, revogou o Compromisso de Missouri, permitindo que territórios ao norte da linha 36°30' decidissem sobre a escravidão por soberania popular. O resultado foi o **"Bleeding Kansas"** — uma guerra civil em miniatura no território do Kansas, com violência entre colonos pró e anti-escravidão. O ato destruiu o Partido Whig e catalisou a formação do **Partido Republicano (1854)**, que uniu forças anti-escravagistas (embora não necessariamente abolicionistas).
-
-A **decisão Dred Scott (1857)** da Suprema Corte, redigida pelo Chief Justice Roger Taney, declarou que afro-americanos não eram cidadãos, que o Congresso não podia proibir a escravidão nos territórios e que o Compromisso de Missouri fora inconstitucional. A decisão, ao negar qualquer possibilidade de contenção legal da escravidão, radicalizou ambos os lados.
-
-A publicação de **"A Cabana do Pai Tomás" (Uncle Tom's Cabin)** por Harriet Beecher Stowe em 1852 teve impacto cultural imenso, humanizando o sofrimento dos escravos para o público do Norte. Lincoln teria dito a Stowe: "Então esta é a pequena senhora que iniciou esta grande guerra."
-
-O **raid de John Brown em Harpers Ferry (1859)** — tentativa de fomentar uma revolta escrava — fracassou militarmente, mas polarizou definitivamente a nação. Brown foi executado e tornou-se mártir abolicionista no Norte e símbolo do radicalismo perigoso no Sul.
-
-### A Eleição de Lincoln e a Secessão
-
-A eleição de **Abraham Lincoln** em novembro de 1860, pelo Partido Republicano, foi o estopim. Lincoln não era abolicionista radical — sua plataforma era a contenção da escravidão (impedir sua extensão a novos territórios), não sua abolição nos estados onde já existia. Mas para o Sul, a eleição de um presidente sem um único voto eleitoral sulista significava a perda definitiva do controle sobre a política federal.
-
-A **Carolina do Sul** foi o primeiro estado a se separar (dezembro de 1860), seguida por mais seis estados do Deep South. Em fevereiro de 1861, formaram os **Estados Confederados da América**, com capital em Richmond, Virgínia (após a adesão da Virgínia), e **Jefferson Davis** como presidente. Mais quatro estados (Virgínia, Arkansas, Tennessee, Carolina do Norte) juntaram-se após o início das hostilidades. Os **Border States** (Missouri, Kentucky, Maryland, Delaware) — escravistas mas unionistas — permaneceram na União, em parte por pressão federal.
-
-A questão jurídica da secessão era genuinamente controversa. Os sulistas argumentavam que a União era um **pacto voluntário** entre estados soberanos, rescindível. Lincoln e os unionistas sustentavam que a União era **perpétua e indissolúvel**, anterior aos estados individuais. A guerra decidiu a questão pela força — não há direito constitucional de secessão após 1865.
-
-### A Guerra (1861-1865)
-
-O conflito começou com o bombardeio confederado ao **Fort Sumter** (abril de 1861), uma instalação federal na Carolina do Sul. A guerra dividiu-se em vários teatros: o Leste (Virgínia, foco principal), o Oeste (vale do Mississippi, Tennessee) e o bloqueio naval.
-
-**Estratégias**: O Norte adotou o **Plano Anaconda** (bloqueio naval + controle do Mississippi + pressão terrestre), aproveitando superioridade em população (22 milhões vs. 9 milhões, dos quais 3,5 milhões eram escravos), capacidade industrial, rede ferroviária e marinha. O Sul apostava em uma estratégia defensiva, esperando que o custo da guerra esgotasse a vontade política do Norte, e buscava reconhecimento e apoio europeus (principalmente britânico e francês), usando o algodão como arma diplomática — a chamada **"diplomacia do algodão"** (*King Cotton Diplomacy*).
-
-**Fases**: Os primeiros dois anos (1861-1862) foram favoráveis ao Sul no teatro oriental, sob o brilhante comando do general **Robert E. Lee**, com vitórias em Bull Run, Fredericksburg e Chancellorsville. No Oeste, porém, o general **Ulysses S. Grant** conquistou posições estratégicas (Forts Henry e Donelson, Shiloh, Vicksburg). A **Batalha de Antietam (setembro de 1862)**, embora taticamente inconclusiva, foi uma vitória estratégica do Norte: impediu a invasão confederada de Maryland e deu a Lincoln a posição de força para emitir a **Proclamação de Emancipação**.
-
-A **Proclamação de Emancipação (1° de janeiro de 1863)** declarou livres os escravos nos estados em rebelião. Não libertou escravos nos Border States (por prudência política) nem nos territórios já ocupados pelo Norte, mas transformou a natureza da guerra: de uma luta pela preservação da União para uma guerra pela liberdade. Isso impediu o reconhecimento europeu da Confederação (a Grã-Bretanha, que abolira a escravidão em 1833, não poderia apoiar explicitamente um estado escravista) e abriu caminho para o alistamento de afro-americanos no exército da União (cerca de 180 mil serviram).
-
-A **Batalha de Gettysburg (julho de 1863)** e a **queda de Vicksburg** (no mesmo período) marcaram a virada definitiva. A partir de 1864, Grant assumiu o comando geral da União e executou uma **guerra de atrito** contra Lee na Virgínia, enquanto o general **William T. Sherman** realizou sua devastadora **"Marcha ao Mar"** pela Geórgia, destruindo infraestrutura e recursos confederados — a primeira aplicação sistemática de **guerra total** na era moderna.
-
-Lee rendeu-se a Grant em **Appomattox Court House** em 9 de abril de 1865. Lincoln foi assassinado cinco dias depois por John Wilkes Booth.
-
-### A Reconstrução (1865-1877)
-
-O período da **Reconstrução** enfrentou três questões: (i) em que termos os estados confederados seriam readmitidos à União; (ii) qual seria o status dos quatro milhões de ex-escravos libertos; (iii) quem controlaria o processo — o presidente ou o Congresso.
-
-Lincoln propusera um plano leniente (o "Plano dos 10%"). Seu sucessor, **Andrew Johnson**, manteve uma postura conciliatória com as elites sulistas, vetando legislações de proteção aos libertos. O Congresso dominado por **Republicanos Radicais** (Thaddeus Stevens, Charles Sumner) impôs uma Reconstrução mais rigorosa: dividiu o Sul em distritos militares, exigiu ratificação de emendas constitucionais e tentou garantir direitos aos libertos.
-
-As **Emendas da Reconstrução** foram a contribuição constitucional duradoura: a **13ª Emenda (1865)** aboliu a escravidão; a **14ª Emenda (1868)** garantiu cidadania e igual proteção perante a lei; a **15ª Emenda (1870)** proibiu a negação do voto por motivo de raça. Foram criados o **Freedmen's Bureau** (assistência a libertos) e aprovados os **Civil Rights Acts** de 1866 e 1875.
-
-Porém, a Reconstrução foi progressivamente abandonada. A resistência sulista organizou-se em grupos terroristas como a **Ku Klux Klan** (fundada em 1866), que usava violência para intimidar eleitores negros e republicanos. O **Compromisso de 1877** — acordo político que resolveu a disputada eleição de 1876 — retirou as tropas federais do Sul, encerrando efetivamente a Reconstrução. Seguiu-se a era das **Leis Jim Crow**: segregação racial legalizada, supressão do voto negro (literacy tests, poll taxes, grandfather clauses) e terror racial. A decisão **Plessy v. Ferguson (1896)** da Suprema Corte consagrou a doutrina "separados mas iguais", que só seria derrubada em **Brown v. Board of Education (1954)**.
+Entre dezembro de 1860 e fevereiro de 1861, sete estados do Sul profundo (Carolina do Sul, Mississippi, Flórida, Alabama, Geórgia, Louisiana e Texas) declararam secessão e formaram os **Estados Confederados da América**, com capital em Richmond, Virgínia, sob a presidência de Jefferson Davis. Após o bombardeio confederado a Fort Sumter (12 de abril de 1861), mais quatro estados (Virgínia, Arkansas, Tennessee e Carolina do Norte) juntaram-se à Confederação.
 
 ---
 
-## Interpretações Historiográficas e Perspectivas Analíticas
+## 2. Desenvolvimento: O Conflito e Suas Dimensões
 
-A historiografia da Guerra Civil passou por revisões profundas:
+### 2.1 A Guerra Militar
 
-1. **Escola "Lost Cause"** (pós-guerra, Sul): Apresentava a guerra como luta por direitos dos estados (*states' rights*) e pela civilização sulista, minimizando o papel da escravidão. Essa narrativa dominou a memória cultural sulista por décadas e influenciou a historiografia até meados do século XX.
+O conflito dividiu-se esquematicamente em dois teatros: o Leste (centrado na Virgínia) e o Oeste (vale do Mississippi e Tennessee). O Norte (União) possuía vantagens esmagadoras em população (22 milhões contra 9 milhões, dos quais 3,5 milhões eram escravizados), produção industrial (90% da capacidade manufatureira do país), rede ferroviária e marinha. O Sul contava com a vantagem defensiva (lutava em seu território), oficiais militares de maior qualidade inicial (Robert E. Lee, Stonewall Jackson) e a esperança de reconhecimento e apoio europeu.
 
-2. **Escola revisionista (anos 1930-40)**: Historiadores como Avery Craven e James Randall trataram a guerra como "conflito evitável" (*needless war*), resultado de falhas de liderança e fanatismo. Minimizaram a escravidão como causa central.
+A estratégia da União evoluiu ao longo do conflito: do **Plano Anaconda** (bloqueio naval e controle do Mississippi para estrangular o Sul economicamente) à guerra total praticada por **William T. Sherman** na Marcha ao Mar (1864), que devastou a Geórgia e a Carolina do Sul com destruição sistemática de infraestrutura civil e militar. **Ulysses S. Grant**, nomeado comandante-geral em 1864, adotou a estratégia de atrito — aceitar perdas pesadas sabendo que a União podia repor seus efetivos e o Sul não.
 
-3. **Escola neo-abolicionista / historiografia moderna (a partir dos anos 1960)**: Historiadores como James McPherson (*Battle Cry of Freedom*), Eric Foner (*Reconstruction*) e Drew Gilpin Faust recolocaram a **escravidão como causa central e irredutível** do conflito. McPherson demonstrou que os próprios sulistas, em seus documentos de secessão, identificavam a preservação da escravidão como motivação principal. Foner revolucionou o estudo da Reconstrução, mostrando-a como projeto democrático radical derrotado pela violência e pelo abandono político.
+Batalhas decisivas incluem **Antietam** (setembro de 1862), a mais sangrenta em um único dia, que deu a Lincoln a vitória necessária para anunciar a Proclamação de Emancipação; **Gettysburg** (julho de 1863), ponto de inflexão no teatro leste; e **Vicksburg** (julho de 1863), que deu à União o controle do Mississippi e partiu a Confederação em dois. A rendição de Lee em **Appomattox Court House** (9 de abril de 1865) encerrou efetivamente a guerra.
 
-4. **História social e cultural**: Estudos sobre a experiência dos soldados comuns, das mulheres, dos afro-americanos (tanto livres quanto escravizados) durante a guerra e a Reconstrução ampliaram enormemente a compreensão do conflito.
+### 2.2 A Emancipação e a Dimensão Racial
 
----
+A escravidão era a causa fundamental da guerra, embora Lincoln inicialmente enquadrasse o conflito como questão de preservação da União. A **Proclamação de Emancipação** (1º de janeiro de 1863) declarou livres os escravizados nos estados rebeldes — um ato de guerra que transformou o conflito em cruzada pela liberdade, impediu o reconhecimento europeu da Confederação e abriu caminho para o alistamento de soldados negros na União (aproximadamente 180.000 afro-americanos serviram nas forças da União).
 
-## Conexões com Outros Temas
+A **13ª Emenda** (ratificada em dezembro de 1865) aboliu definitivamente a escravidão em todo o território nacional. A **14ª Emenda** (1868) concedeu cidadania a todos os nascidos nos EUA (revertendo Dred Scott) e garantiu igual proteção das leis. A **15ª Emenda** (1870) proibiu a negação do direito ao voto com base em raça. Essas três emendas — as "Emendas da Reconstrução" — representaram a mais profunda transformação constitucional desde a fundação da República.
 
-- **Expansão territorial (5.1)**: A expansão ao Oeste exacerbou a crise escravista. A guerra com o México, a questão do Kansas e o debate sobre os territórios ocidentais foram catalisadores diretos.
-- **Abolição da escravidão nas Américas**: A abolição nos EUA (1865) insere-se no contexto mais amplo das abolições nas Américas — Haiti (1804), Império Britânico (1833), França (1848), Brasil (1888). Cada caso tem dinâmicas próprias, mas todos respondem à contradição entre escravidão e modernidade liberal.
-- **Doutrina Monroe (5.4)**: A Guerra Civil enfraqueceu temporariamente a capacidade dos EUA de aplicar a Doutrina Monroe. Napoleão III aproveitou a oportunidade para intervir no México e instalar Maximiliano como imperador (1862-1867). Com o fim da guerra, os EUA pressionaram pela retirada francesa.
-- **Reconstrução e direitos civis**: O fracasso da Reconstrução e as Leis Jim Crow são o antecedente direto do Movimento pelos Direitos Civis (1950s-1960s). As Emendas da Reconstrução são a base jurídica das conquistas posteriores.
-- **Guerra total e conflitos modernos**: A Guerra Civil é frequentemente considerada a "primeira guerra moderna" — uso de ferrovias, telégrafo, trincheiras, artilharia rifada, navios blindados (Monitor vs. Merrimack) e guerra total. Prefigura os conflitos do século XX.
+### 2.3 A Dimensão Internacional
 
----
+A Guerra de Secessão teve implicações internacionais significativas. A Grã-Bretanha, apesar de sua dependência do algodão sulista, não reconheceu a Confederação — em parte por pressão da classe operária britânica (que simpatizava com a causa antiescravista), em parte por cálculo estratégico (apoiar a secessão poderia encorajar movimentos separatistas no próprio Império Britânico). A França de Napoleão III aproveitou a distração americana para intervir no México, instalando o arquiduque Maximiliano como imperador (1864-1867) — aventura que terminaria em fracasso após a restauração republicana de Benito Juárez e a pressão dos EUA pós-guerra.
 
-## 🎯 Top 5 – Pontos Mais Cobrados em Provas
-
-1. **Causas da Guerra Civil**: A escravidão como causa central (não apenas "direitos dos estados"), o papel da expansão territorial, os compromissos fracassados (Missouri, 1850, Kansas-Nebraska), a decisão Dred Scott e a eleição de Lincoln.
-
-2. **Proclamação de Emancipação (1863)**: Alcance e limitações (não libertou escravos nos Border States), transformação da natureza da guerra, impacto diplomático (impediu reconhecimento europeu da Confederação), abertura ao alistamento negro.
-
-3. **Reconstrução e seu fracasso**: Emendas 13ª, 14ª e 15ª; disputa entre Johnson e Congresso; Republicanos Radicais; Ku Klux Klan; Compromisso de 1877; Leis Jim Crow; Plessy v. Ferguson.
-
-4. **Dimensão internacional**: Diplomacia do algodão, posição britânica e francesa, impacto na Doutrina Monroe (intervenção francesa no México), a abolição no contexto hemisférico.
-
-5. **Legado e memória**: A narrativa do "Lost Cause" vs. historiografia moderna; a questão racial como herança não resolvida; as Emendas da Reconstrução como base do Movimento pelos Direitos Civis; a Guerra Civil como evento fundacional da nação moderna.
+A diplomacia do algodão fracassou: a Grã-Bretanha encontrou fontes alternativas na Índia e no Egito, e o bloqueio naval da União (que a Grã-Bretanha respeitou de facto) estrangulou as exportações sulistas.
 
 ---
 
-> *Resumo elaborado para preparação CACD 2026 – História Mundial. Baseado em fontes acadêmicas e manuais especializados.*
+## 3. A Reconstrução (1865-1877)
+
+O período da Reconstrução constitui um dos capítulos mais complexos e trágicos da história estadunidense. Três questões centrais dominaram a era: a reintegração dos estados secessionistas à União; o status político e social dos 4 milhões de libertos (freedmen); e a redistribuição — ou não — do poder econômico no Sul.
+
+A **Reconstrução Presidencial** (1865-1867), sob Andrew Johnson (que sucedeu Lincoln após seu assassinato em 14 de abril de 1865), foi leniente com o Sul: concedeu anistia ampla, permitiu que ex-confederados retomassem o poder político e tolerou os **Códigos Negros** (Black Codes) — legislações estaduais que restringiam drasticamente a liberdade dos libertos, impondo contratos de trabalho compulsório, vadiagem criminalizada e segregação.
+
+A **Reconstrução Radical** (1867-1877), imposta pelo Congresso republicano sobre o veto de Johnson, dividiu o Sul em distritos militares, exigiu a ratificação da 14ª Emenda como condição para readmissão e garantiu o direito de voto aos homens negros. O período viu avanços significativos: legislaturas birraciais nos estados do Sul, eleição de congressistas e senadores negros, criação de escolas e instituições para libertos pelo Freedmen's Bureau.
+
+Esses avanços, contudo, foram sistematicamente sabotados pela violência terrorista da **Ku Klux Klan** e organizações similares, pela resistência econômica dos antigos plantadores (que mantiveram o controle da terra por meio do sistema de **sharecropping** — parceria agrícola que aprisionava os libertos em ciclos de endividamento) e pelo crescente cansaço do Norte com a questão sulista. O **Compromisso de 1877** — que resolveu a eleição disputada de 1876 em favor do republicano Rutherford B. Hayes em troca da retirada das tropas federais do Sul — marcou o fim da Reconstrução e o início da era **Jim Crow**: um regime de segregação racial legalizada que perduraria até a década de 1960.
+
+---
+
+## 3. Interpretações Historiográficas
+
+A historiografia da Guerra de Secessão passou por transformações dramáticas. A **Escola Dunning** (início do século XX) retratou a Reconstrução como era de corrupção e domínio negro, legitimando a supremacia branca. A partir dos anos 1960, historiadores revisionistas como **Eric Foner** (cuja obra *Reconstruction: America's Unfinished Revolution* tornou-se referência) reinterpretaram o período como revolução social incompleta, cuja promessa de igualdade racial foi traída pela aliança entre supremacistas sulistas e interesses econômicos nortistas.
+
+O debate sobre as **causas da guerra** opõe duas vertentes: a que identifica a escravidão como causa primária e inegociável (posição majoritária na historiografia contemporânea, sustentada pelos próprios documentos de secessão dos estados sulistas, que citavam explicitamente a defesa da escravidão) e a que enfatiza os "direitos dos estados" (states' rights) como princípio constitucional em disputa — interpretação que historiadores como James McPherson consideram revisionismo apologético, dado que o "direito" em questão era fundamentalmente o de manter seres humanos em cativeiro.
+
+A perspectiva da **história social** expandiu o campo para incluir a experiência dos soldados comuns, das mulheres (tanto nortistas quanto sulistas), dos escravizados que fugiram para as linhas da União (os "contrabandos"), e das comunidades negras que se organizaram durante e após o conflito.
+
+---
+
+## 4. Conexões Temáticas e Transversais
+
+**Com a seção 5.1 (Expansão Territorial):** A expansão territorial foi o catalisador direto da crise escravista. A questão de se os novos territórios seriam livres ou escravistas tornou insustentável a coexistência entre os dois sistemas, transformando cada aquisição territorial em campo de batalha político.
+
+**Com a seção 5.3 (Identidades Nacionais na América Latina):** A Guerra de Secessão foi contemporânea das guerras civis e processos de consolidação nacional na América Latina. A Intervenção Francesa no México (1862-1867) explorou diretamente a distração americana, e a vitória da União fortaleceu os movimentos republicanos no hemisfério.
+
+**Com a seção 5.4 (Doutrina Monroe):** A vitória da União na Guerra Civil restaurou a capacidade dos EUA de projetar poder no hemisfério, permitindo a aplicação mais assertiva da Doutrina Monroe — como demonstrado pela pressão sobre a França para retirar suas tropas do México em 1866-1867.
+
+**Com temas de Direitos Humanos e Política Internacional (CACD):** A 13ª, 14ª e 15ª Emendas e sua subsequente erosão durante Jim Crow constituem caso paradigmático para discussões sobre direitos civis, igualdade formal versus material e os limites de reformas constitucionais sem transformação estrutural. O movimento pelos direitos civis dos anos 1950-1960 é frequentemente interpretado como a "Segunda Reconstrução".
+
+---
+
+## 🎯 Top 5 — O Que Mais Cai no CACD
+
+1. **Causas da Guerra de Secessão** — escravidão como causa fundamental, os compromissos fracassados (Missouri, 1850, Kansas-Nebraska), Dred Scott, eleição de Lincoln. Cobrado tanto em contextualização quanto em análise causal.
+2. **A Proclamação de Emancipação e as Emendas da Reconstrução** — 13ª, 14ª e 15ª Emendas, seu significado constitucional e suas limitações práticas. Conexão com temas de direitos humanos.
+3. **A Reconstrução e seu fracasso** — Reconstrução Radical vs. Presidencial, Compromisso de 1877, emergência de Jim Crow. Essencial para entender a questão racial nos EUA.
+4. **Dimensão internacional da Guerra Civil** — diplomacia do algodão, não-reconhecimento britânico da Confederação, Intervenção Francesa no México. Conexão direta com Política Internacional.
+5. **Tese turneriana e pós-guerra** — o fechamento da fronteira como fator de reorientação da política externa americana (de expansão continental para projeção hemisférica e global).
+
+---
+
+> **Navegação:** [← 5.1 Expansão Territorial EUA](05-01-expansao-territorial-eua.md) · **5.2 Guerra de Secessão** · [5.3 Identidades Nacionais na América Latina →](05-03-identidades-nacionais-america-latina.md)

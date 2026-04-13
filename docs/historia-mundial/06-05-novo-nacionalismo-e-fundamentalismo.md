@@ -1,134 +1,123 @@
 ---
-title: "Novo Nacionalismo e Fundamentalismo"
-date: 2025-07-11
+título: "6.5 Novo Nacionalismo e Fundamentalismo"
+aliases:
+  - Novo Nacionalismo
+  - Fundamentalismo Religioso
+  - Populismo Contemporâneo
 tags:
-  - historia-mundial
-  - cacd-2026
-  - novo-nacionalismo
+  - história-mundial
+  - política
+  - nacionalismo
   - fundamentalismo
-  - politica-identitaria
-  - populismo
-  - pos-guerra-fria
-category: "História Mundial"
-chapter: "06 - Ideias e Regimes Políticos"
-ref: "6.5"
+  - CACD
+tema: "Ideias e Regimes Políticos"
+subtema: "Novo Nacionalismo e Fundamentalismo"
 status: completo
+criado: 2025-07-15
+atualizado: 2025-07-15
 ---
 
-# 6.5 — Novo Nacionalismo e Fundamentalismo
+# 6.5 Novo Nacionalismo e Fundamentalismo
 
-> **Capítulo:** 06 — Ideias e Regimes Políticos
-> **Referência:** 6.5
+> **Capítulo:** 6. Ideias e Regimes Políticos
+> **Seção:** 6.5 de 6.6
+> **Disciplina:** História Mundial — CACD 2026
 > **Status:** ✅ Completo
-> **Última atualização:** 2025-07-11
+> **Referências cruzadas:** [[06-01-iluminismo-e-liberalismo-classico|6.1]], [[06-02-socialismo-e-marxismo|6.2]], [[06-03-nacionalismo-e-autodeterminacao|6.3]], [[06-04-ditaduras-e-regimes-fascistas|6.4]], [[06-06-liberalismo-no-seculo-xx|6.6]]
 
-> [!info] Seções do Capítulo 06
-> - [[06-01-liberalismo-e-nacionalismo-seculo-xix|6.1 Liberalismo e Nacionalismo no Século XIX]]
-> - [[06-02-construcao-estados-nacionais-alemanha-italia|6.2 Construção dos Estados Nacionais: Alemanha e Itália]]
-> - [[06-03-democracia-fascismo-comunismo|6.3 Democracia, Fascismo e Comunismo]]
-> - [[06-04-ditaduras-e-regimes-fascistas|6.4 Ditaduras e Regimes Fascistas]]
-> - **6.5 Novo Nacionalismo e Fundamentalismo** *(atual)*
-> - [[06-06-liberalismo-no-seculo-xx|6.6 Liberalismo no Século XX]]
-
----
-
-## Contexto Histórico
-
-O fim da Guerra Fria (1989-1991) e a proclamação do "Fim da História" por Francis Fukuyama — a tese de que a democracia liberal capitalista representava o estágio final da evolução ideológica humana — revelaram-se prematuros. Em vez da convergência liberal universal, as décadas subsequentes assistiram à ressurgência vigorosa de **nacionalismos excludentes**, **fundamentalismos religiosos** e **políticas identitárias** que desafiaram tanto a ordem liberal internacional quanto os pressupostos universalistas do Iluminismo.
-
-Essa ressurgência não emergiu do vácuo. O colapso da URSS e do bloco socialista removeu a estrutura bipolar que havia congelado conflitos étnicos e nacionais — os mais dramáticos eclodiram na Iugoslávia (guerras de dissolução, 1991-2001, incluindo o genocídio de Srebrenica, 1995) e no espaço pós-soviético (Chechênia, Nagorno-Karabakh, Geórgia). Simultaneamente, a **globalização econômica** — livre circulação de capitais, deslocalização industrial, imigração massiva — gerou vencedores e perdedores, fomentando ressentimento entre populações que se percebiam como "deixadas para trás" pela modernização liberal.
-
-O **11 de Setembro de 2001** e a subsequente "Guerra ao Terror" colocaram o fundamentalismo islâmico no centro da agenda internacional, mas o fenômeno fundamentalista é transversal — manifestando-se no cristianismo evangélico (sobretudo nos EUA), no hinduísmo (BJP/RSS na Índia), no judaísmo ultraortodoxo (colonos em Israel), e no budismo militante (Myanmar). O fundamentalismo religioso e o novo nacionalismo frequentemente convergem, produzindo o **nacionalismo religioso** — a fusão entre identidade nacional e identidade confessional.
-
-A crise financeira global de **2008** acelerou as tendências já em curso: a austeridade, o aumento da desigualdade e a percepção de que as elites globalizadas abandonaram as classes trabalhadoras alimentaram o **populismo** — tanto de direita (nacionalismo econômico, anti-imigração) quanto de esquerda (anti-austeridade, anti-establishment). O Brexit (2016), a eleição de Donald Trump (2016), a ascensão de partidos como o Rassemblement National na França, AfD na Alemanha, Vox na Espanha, Fidesz na Hungria e PiS na Polônia constituem manifestações de uma onda que redefiniu a política global.
+> [!info] Navegação do Capítulo
+> Este documento é parte do capítulo **6. Ideias e Regimes Políticos**, que abrange:
+> - 6.1 — Iluminismo e Liberalismo Clássico
+> - 6.2 — Socialismo e Marxismo
+> - 6.3 — Nacionalismo e Autodeterminação
+> - 6.4 — Ditaduras e Regimes Fascistas
+> - **6.5 — Novo Nacionalismo e Fundamentalismo** ← _você está aqui_
+> - 6.6 — Liberalismo no Século XX
 
 ---
 
-## Desenvolvimento
+## 1. Contexto Histórico e Emergência dos Fenômenos
 
-### O Novo Nacionalismo: Características Distintivas
+O final do século XX e o início do século XXI testemunharam o ressurgimento de dois fenômenos que muitos analistas consideravam superados pelo avanço da globalização e da modernização secular: o nacionalismo, em formas renovadas e frequentemente virulentas, e o fundamentalismo religioso, como força política de primeira grandeza. Ambos emergiram paradoxalmente no mesmo período em que Francis Fukuyama proclamou "o fim da história" (1989/1992) — a suposta vitória definitiva da democracia liberal de mercado como modelo universal de organização política.
 
-O "novo nacionalismo" do final do século XX e início do XXI distingue-se do nacionalismo oitocentista em aspectos fundamentais:
+O colapso da União Soviética (1991) e o fim da Guerra Fria, longe de inaugurarem uma era de convergência liberal global, liberaram forças centrífugas que haviam sido contidas pela lógica bipolar. A dissolução da Iugoslávia (1991–2001) — com as guerras na Eslovênia, Croácia, Bósnia-Herzegovina e Kosovo — demonstrou que o nacionalismo étnico permanecia uma força explosiva capaz de produzir limpeza étnica e genocídio (Srebrenica, julho de 1995, com o massacre de mais de 8.000 homens e meninos bósnios muçulmanos) no coração da Europa, meio século após o Holocausto. Simultaneamente, o genocídio de Ruanda (abril–julho de 1994), no qual aproximadamente 800.000 tutsis e hutus moderados foram assassinados em cem dias, evidenciou que a instrumentalização da identidade étnica como arma política não era um fenômeno exclusivamente europeu.
 
-1. **Nacionalismo defensivo/reativo**: Enquanto o nacionalismo do XIX era frequentemente emancipatório e construtivo (unificações, independências), o novo nacionalismo é predominantemente **defensivo** — uma reação contra ameaças percebidas à identidade nacional: imigração, integração supranacional (UE), globalização cultural, multilateralismo. É um nacionalismo de **fechamento**, não de abertura.
+No Oriente Médio, a Revolução Iraniana de 1979 — que derrubou o Xá Mohammad Reza Pahlavi e instaurou a República Islâmica sob o Aiatolá Ruhollah Khomeini — marcou a irrupção do fundamentalismo religioso como programa estatal. O Irã revolucionário demonstrou que a modernização econômica (a "Revolução Branca" do Xá) não produzia automaticamente secularização política, desafiando a tese sociológica clássica da secularização. A partir de 1979, o fundamentalismo — não apenas islâmico, mas também cristão (a "Maioria Moral" de Jerry Falwell nos EUA), judaico (o movimento colonialista *Gush Emunim* em Israel) e hindu (o *Hindutva* e o BJP na Índia) — tornou-se uma variável incontornável da política internacional.
 
-2. **Nacionalismo étnico-cultural revivido**: A vertente herderiana do nacionalismo — identidade definida por sangue, cultura, religião e "modo de vida" — ressurge contra a concepção cívico-voluntarista. Viktor Orbán (Hungria) articula explicitamente a defesa da "democracia iliberal" fundada na homogeneidade étnica e cultural contra o multiculturalismo liberal.
-
-3. **Soberania contra globalização**: O novo nacionalismo opõe a soberania estatal às instituições internacionais e aos acordos multilaterais, percebidos como instrumentos de diluição da autonomia nacional. O Brexit é o caso paradigmático — "Take Back Control" sintetiza a reivindicação soberanista contra a integração supranacional.
-
-4. **Populismo como forma política**: O novo nacionalismo frequentemente se manifesta como **populismo** — a retórica que opõe o "povo autêntico" (homogêneo, virtuoso) à "elite corrupta" (cosmopolita, globalizada, desconectada). **Cas Mudde** definiu o populismo como "ideologia fina" (*thin ideology*) que pode combinar-se com diferentes substâncias ideológicas (nacionalismo, socialismo, nativismo).
-
-5. **Mídias digitais como infraestrutura**: Diferentemente dos nacionalismos anteriores (imprensa escrita no XIX, rádio e cinema no XX), o novo nacionalismo utiliza **mídias sociais** e algoritmos de recomendação como vetores de disseminação, criando câmaras de eco, acelerando a radicalização e permitindo mobilização descentralizada.
-
-### Fundamentalismo Religioso: Origens e Manifestações
-
-O termo "fundamentalismo" origina-se do protestantismo norte-americano — *The Fundamentals* (1910-1915), série de panfletos que defendiam a interpretação literal da Bíblia contra a teologia liberal e o evolucionismo darwiniano. Contudo, o fenômeno transcende o cristianismo e manifesta-se em praticamente todas as tradições religiosas.
-
-**Características transversais do fundamentalismo** (segundo Martin E. Marty e R. Scott Appleby, *The Fundamentalism Project*, 1991-1995):
-
-- **Reatividade**: O fundamentalismo é sempre uma REAÇÃO contra a modernidade secular — contra a separação entre religião e política, contra a relativização dos valores, contra o pluralismo ético.
-- **Seletividade**: Seleciona elementos da tradição religiosa para construir uma identidade combativa, frequentemente reinterpretando textos sagrados de maneiras que a própria tradição não reconhece.
-- **Dualismo maniqueísta**: O mundo dividido entre fiéis e infiéis, verdade e erro, bem e mal absolutos. Não há espaço para ambiguidade ou compromisso.
-- **Absolutismo e infalibilidade**: A verdade religiosa é absoluta, não sujeita a negociação, contextualização histórica ou reinterpretação.
-- **Milenarismo/Messiânica**: Expectativa de transformação radical — retorno a uma idade de ouro ou advento de uma nova era.
-
-**Fundamentalismo islâmico**: A corrente mais influente geopoliticamente no pós-Guerra Fria. Raízes intelectuais em **Hassan al-Banna** (Irmandade Muçulmana, 1928, Egito), **Sayyid Qutb** (1906-1966, conceito de *jahiliyyah* — ignorância/barbárie pré-islâmica como diagnóstico da sociedade contemporânea, incluindo sociedades muçulmanas "apóstatas"), e **Abul A'la Maududi** (Paquistão). O fundamentalismo islâmico bifurcou-se entre correntes que buscam a islamização por dentro dos Estados (Irmandade Muçulmana) e correntes jihadistas que advogam a luta armada global (Al-Qaeda, Estado Islâmico/Daesh).
-
-A **Revolução Iraniana** (1979) — a instauração da República Islâmica sob o Ayatolá Khomeini — foi o evento fundador do fundamentalismo islâmico como projeto estatal, combinando teocracia xiita, antiocidentalismo e exportação revolucionária. Sua importância geopolítica transcende o Irã: inaugurou o "momento islâmico" na política mundial e provocou reação saudita (financiamento da exportação wahabita/salafista), alimentando a competição sectária sunita-xiita que define conflitos regionais contemporâneos.
-
-O **jihadismo global** — de Osama bin Laden (Al-Qaeda) a Abu Bakr al-Baghdadi (Estado Islâmico) — representa a radicalização extrema: a *jihad* não como esforço espiritual pessoal (interpretação predominante na tradição islâmica), mas como guerra santa contra o "inimigo distante" (EUA e Ocidente) e o "inimigo próximo" (regimes muçulmanos "apóstatas"). O 11 de Setembro (2001) e a proclamação do "Califado" (2014) são marcos dessa trajetória.
-
-**Nacionalismo hindu** (*Hindutva*): O BJP (Bharatiya Janata Party) e sua organização-mãe RSS (Rashtriya Swayamsevak Sangh) promovem uma redefinição da Índia como Estado civilizacional hindu, desafiando o secularismo nehruviano consagrado na Constituição de 1947. Sob **Narendra Modi** (primeiro-ministro desde 2014), a *Hindutva* manifestou-se na revogação da autonomia da Caxemira (2019), na Lei de Emenda à Cidadania (discriminando muçulmanos, 2019) e na construção do templo de Ram em Ayodhya (2024, no local da Mesquita de Babri demolida em 1992).
-
-**Evangelismo político nos EUA**: A "Maioria Moral" de Jerry Falwell (1979), a Coalizão Cristã de Pat Robertson, e o crescente alinhamento entre evangelicismo e Partido Republicano, culminando na era Trump, representam a politização fundamentalista no coração da democracia liberal mais antiga. Temas como aborto, casamento igualitário, ensino do criacionismo e relação EUA-Israel (dispensacionalismo pré-milenarista) constituem a agenda.
-
-### Política Identitária e Seus Desdobramentos
-
-Além do nacionalismo e do fundamentalismo, o período pós-Guerra Fria viu a ascensão das **políticas identitárias** — a mobilização política em torno de identidades de raça, gênero, orientação sexual, etnia e religião. Se a esquerda identitária focou em reconhecimento, diversidade e reparação histórica (multiculturalismo, ações afirmativas, estudos pós-coloniais), a direita identitária respondeu com a defesa de identidades majoritárias "ameaçadas" — o "grande substituição" (*grand remplacement*, conceito de Renaud Camus apropriado pela extrema-direita), a "guerra cultural", a defesa da "civilização ocidental" contra o "globalismo".
-
-**Samuel Huntington** (*O Choque de Civilizações*, 1996) previu que os conflitos pós-Guerra Fria seriam definidos não por ideologias ou economia, mas por identidades civilizacionais — ocidental, confuciana, islâmica, hindu, etc. Embora criticada por essencialismo e por reificar "civilizações" como blocos monolíticos, a tese de Huntington capturou parcialmente a dinâmica identitária do período, especialmente após o 11 de Setembro.
+O 11 de Setembro de 2001 — os ataques da al-Qaeda contra o World Trade Center e o Pentágono — constitui o evento-charneira que fundiu definitivamente as agendas do novo nacionalismo e do fundamentalismo na consciência política global. A subsequente "Guerra ao Terror" declarada por George W. Bush, as invasões do Afeganistão (2001) e do Iraque (2003), e o surgimento do Estado Islâmico (ISIS/Daesh) a partir de 2013 redefiniram a geopolítica mundial e alimentaram, por reação, o crescimento de movimentos nacionalistas anti-imigração na Europa e nos Estados Unidos.
 
 ---
 
-## Interpretações Historiográficas
+## 2. Desenvolvimento: Anatomia dos Fenômenos
 
-**Benedict Anderson** revisitou suas *Comunidades Imaginadas* para analisar os "nacionalismos à distância" — comunidades diaspóricas que, protegidas pela distância geográfica e liberdade de expressão das democracias hospedeiras, financiam e radicalizam movimentos nacionalistas em seus países de origem (diáspora tâmil e LTTE, diáspora croata durante a dissolução da Iugoslávia).
+### 2.1 O Novo Nacionalismo: Características Distintivas
 
-**Mark Juergensmeyer** (*Terror in the Mind of God*, 2000) analisou o terrorismo religioso como "guerra cósmica" — conflitos terrenos projetados em escala metafísica, transformando adversários políticos em inimigos satânicos contra os quais nenhuma violência é excessiva.
+O "novo nacionalismo" do final do século XX e início do XXI distingue-se do nacionalismo clássico do século XIX em vários aspectos fundamentais. Enquanto o nacionalismo oitocentista era frequentemente um movimento emancipatório — ligado à autodeterminação dos povos, à unificação nacional (Itália, Alemanha) e à independência colonial —, o novo nacionalismo é predominantemente reativo e defensivo. Ele se articula contra a globalização, contra a imigração, contra as instituições multilaterais e contra o que seus proponentes descrevem como a dissolução da identidade nacional em um cosmopolitismo desarraigado.
 
-**Cas Mudde** (*Populist Radical Right Parties in Europe*, 2007) sistematizou o estudo do populismo radical de direita, identificando nativismo, autoritarismo e populismo como sua tríade ideológica central. Crucialmente, Mudde argumenta que essas posições não são marginais — são versões radicalizadas de atitudes mainstream na sociedade (o "normal patológico").
+Na Europa, o novo nacionalismo manifestou-se em múltiplas vertentes: os partidos de extrema-direita como a Frente Nacional (atual Rassemblement National) de Marine Le Pen na França, a Alternativa para a Alemanha (AfD), o Partido da Liberdade (FPÖ) na Áustria, a Liga de Matteo Salvini na Itália e o Fidesz de Viktor Orbán na Hungria. O Brexit (referendo de junho de 2016) representou a materialização institucional mais significativa desse fenômeno, com a saída do Reino Unido da União Europeia após 43 anos de integração, sob o slogan "Take Back Control" — uma síntese perfeita da retórica soberanista do novo nacionalismo.
 
-**Francis Fukuyama** (*Identity*, 2018) revisou sua própria tese do "Fim da História", reconhecendo que a **demanda por reconhecimento** (*thymos*) — não apenas por redistribuição econômica — impulsiona a política identitária tanto de esquerda (reconhecimento de grupos marginalizados) quanto de direita (reconhecimento de maiorias "esquecidas").
+Nos Estados Unidos, a eleição de Donald Trump (2016) articulou temas centrais do novo nacionalismo: protecionismo comercial ("America First"), anti-imigracionismo (o muro na fronteira com o México), ceticismo em relação às alianças multilaterais (questionamento da OTAN, saída do Acordo de Paris, saída do JCPOA com o Irã) e a narrativa de restauração de uma grandeza nacional perdida ("Make America Great Again").
 
-**Pankaj Mishra** (*Age of Anger*, 2017) traçou genealogia do ressentimento contemporâneo desde as reações iluministas do século XVIII (Rousseau contra Voltaire), argumentando que a raiva contra a modernização desigual e humilhante é uma constante histórica — dos anarquistas do XIX ao jihadismo do XXI.
+O cientista político Cas Mudde identificou como características centrais do populismo nacionalista contemporâneo: (a) a divisão maniqueísta da sociedade entre "o povo puro" e "a elite corrupta"; (b) a reivindicação de que o líder populista é a encarnação direta da vontade popular, dispensando mediações institucionais; (c) o anti-pluralismo — a negação da legitimidade da oposição; e (d) a erosão gradual das instituições democráticas por dentro, sem necessariamente recorrer a golpes de Estado clássicos.
 
----
+### 2.2 Fundamentalismo: Definições e Manifestações
 
-## Conexões com Outros Temas
+O termo "fundamentalismo" originou-se no protestantismo norte-americano do início do século XX — especificamente na série de panfletos *The Fundamentals: A Testimony to the Truth* (1910–1915), que defendiam a interpretação literal da Bíblia contra a teologia liberal e o darwinismo. Contudo, o conceito expandiu-se para designar movimentos em múltiplas tradições religiosas que compartilham características comuns: (a) a afirmação de uma verdade religiosa absoluta e inerrante; (b) a rejeição da separação entre religião e política; (c) a oposição à modernidade secular (ou a aspectos selecionados dela); (d) a idealização de um passado religioso puro a ser restaurado; e (e) a disposição para o ativismo político, incluindo, em casos extremos, a violência.
 
-- **Liberalismo e Nacionalismo no Século XIX** (6.1): O novo nacionalismo como transformação/degeneração da tradição nacionalista oitocentista.
-- **Liberalismo no Século XX** (6.6): A crise do consenso liberal como contexto para a ascensão populista-nacionalista.
-- **Ditaduras e Regimes Fascistas** (6.4): Debates sobre continuidades e descontinuidades entre fascismo histórico e populismo radical contemporâneo (Paxton, Eco).
-- **Pós-Modernidade** (7.5): A crise das grandes narrativas (Lyotard) como ambiente intelectual para fragmentação identitária.
-- **Novos Paradigmas Digitais** (8.1): Mídias sociais, desinformação e algoritmos como infraestrutura do novo nacionalismo e do fundamentalismo.
-- **Descolonização e Pós-colonialismo** (Cap. 4): Fundamentalismos no Sul Global como reação à persistência de hierarquias coloniais.
-- **11 de Setembro e Guerra ao Terror** (Cap. 3): Jihadismo como expressão do fundamentalismo islâmico com impacto sistêmico nas relações internacionais.
-- **Choque de Civilizações (Huntington)** (Cap. 3/9): Debate teórico central sobre a natureza dos conflitos pós-Guerra Fria.
+O **fundamentalismo islâmico** apresenta diversas correntes que o candidato ao CACD deve distinguir com precisão. O *wahhabismo* (Arábia Saudita) é uma corrente ultraconservadora sunita fundada por Muhammad ibn Abd al-Wahhab no século XVIII, que se tornou a ideologia oficial do Estado saudita. O *salafismo jihadista* — cujo teórico mais influente foi Sayyid Qutb (*Marcos no Caminho*, 1964) — vai além do conservadorismo religioso para justificar a luta armada (*jihad*) contra governos muçulmanos considerados apóstatas (*takfir*) e contra o Ocidente. A al-Qaeda de Osama bin Laden e o Estado Islâmico (ISIS) de Abu Bakr al-Baghdadi representam manifestações distintas dessa corrente: a al-Qaeda priorizou o "inimigo distante" (EUA e Ocidente), enquanto o ISIS focou na construção territorial de um califado e na violência sectária contra xiitas.
 
----
+O **xiismo político**, por sua vez, encontra sua expressão máxima na República Islâmica do Irã e no conceito de *Velayat-e Faqih* (Governo do Jurisconsulto) desenvolvido pelo Aiatolá Khomeini — a noção de que o clérigo mais qualificado deve exercer a autoridade política suprema na ausência do Imã Oculto. O Hezbollah no Líbano e os Houthis no Iêmen representam extensões do poder iraniano no mundo árabe, configurando o que a Arábia Saudita e seus aliados descrevem como o "arco xiita".
 
-## 🎯 Top 5 — O que Não Pode Faltar na Prova
+O **fundamentalismo cristão** nos Estados Unidos, embora não associado à violência organizada em escala comparável, exerceu influência política decisiva: o movimento evangélico conservador tornou-se a base eleitoral mais confiável do Partido Republicano, influenciando políticas sobre aborto, casamento, ensino do criacionismo e apoio incondicional a Israel. O fenômeno do *sionismo cristão* — a crença teológica de que o retorno dos judeus a Israel é precondição para o retorno de Cristo — fundamenta o apoio evangélico ao Estado de Israel para além de considerações geopolíticas convencionais.
 
-1. **Novo nacionalismo como fenômeno reativo**: Distinguir do nacionalismo oitocentista (emancipatório, construtivo). O novo nacionalismo é defensivo — reação à globalização, imigração e perda percebida de soberania. Brexit como caso paradigmático. Orbán e a "democracia iliberal" como formulação explícita.
+### 2.3 Convergências entre Nacionalismo e Fundamentalismo
 
-2. **Fundamentalismo como fenômeno transversal**: NÃO é exclusivo do Islã. Manifesta-se no cristianismo (evangelismo político nos EUA), hinduísmo (Hindutva/Modi), judaísmo e budismo. Características comuns: reatividade à modernidade secular, dualismo maniqueísta, absolutismo, seletividade na tradição (Marty & Appleby).
-
-3. **Huntington vs. Fukuyama**: O "Choque de Civilizações" como contraponto ao "Fim da História". Huntington capturou a dinâmica identitária pós-Guerra Fria, mas é criticado por essencialismo. Fukuyama revisou-se em 2018 reconhecendo a demanda por reconhecimento (*thymos*) como motor político subestimado.
-
-4. **Populismo como "ideologia fina" (Mudde)**: O populismo não é fascismo, mas pode ser veículo para radicalização. Distinguir populismo (povo vs. elite) de fascismo (mobilização totalitária, violência programática). A tríade nativismo-autoritarismo-populismo como núcleo do populismo radical de direita.
-
-5. **Revolução Iraniana (1979) como evento pivotal**: Inaugurou o fundamentalismo islâmico como projeto estatal, provocou a reação saudita wahabita, desencadeou a competição sectária sunita-xiita, e demonstrou que a modernização não conduz inevitavelmente à secularização — refutação empírica da tese da secularização linear.
+A convergência entre novo nacionalismo e fundamentalismo religioso constitui um fenômeno analiticamente crucial. Na Índia de Narendra Modi (primeiro-ministro desde 2014), o nacionalismo hindu (*Hindutva*) do BJP funde identidade nacional e identidade religiosa, definindo a "indianidade" em termos hinduístas que excluem ou subordinam os 200 milhões de muçulmanos indianos. Na Rússia de Vladimir Putin, o nacionalismo eslavo articula-se com o ressurgimento da Igreja Ortodoxa Russa como pilar ideológico do regime, justificando pretensões geopolíticas (a anexação da Crimeia em 2014, a invasão da Ucrânia em 2022) em termos de civilização e espiritualidade. Na Polônia, o PiS (Lei e Justiça) combinou nacionalismo conservador com catolicismo militante. Na Turquia, o governo de Recep Tayyip Erdoğan e o AKP promoveram um "neo-otomanismo" que funde nacionalismo turco com islamismo político sunita.
 
 ---
 
-*Arquivo gerado para o ciclo CACD 2026 — História Mundial, Cap. 6.5*
+## 3. Interpretações Teóricas e Analíticas
+
+### 3.1 Samuel Huntington e o Choque de Civilizações (1993/1996)
+
+A tese de Huntington — de que o pós-Guerra Fria seria dominado por conflitos entre civilizações definidas por identidade cultural e religiosa, e não por ideologia ou economia — permanece uma das interpretações mais influentes e controversas. Huntington identificou sete ou oito civilizações principais (ocidental, confucionista/sínica, japonesa, islâmica, hindu, eslavo-ortodoxa, latino-americana e, possivelmente, africana) e previu que as "linhas de falha" (*fault lines*) entre civilizações seriam os novos focos de conflito. A tese foi amplamente criticada por essencializar culturas, ignorar conflitos intracivilizacionais e funcionar como profecia autorrealizável, mas os eventos pós-11 de Setembro conferiram-lhe uma ressonância duradoura.
+
+### 3.2 Benedict Anderson e as Comunidades Imaginadas
+
+A teoria de Anderson — de que nações são "comunidades imaginadas" construídas historicamente através de mecanismos como a imprensa, o capitalismo editorial e a administração colonial — permanece essencial para desconstruir os novos nacionalismos. Se a nação é uma construção, o novo nacionalismo é uma *reconstrução* — a mobilização deliberada de narrativas identitárias em contextos de insegurança econômica e cultural.
+
+### 3.3 Olivier Roy e o Islã Globalizado
+
+O politólogo francês Olivier Roy, em *Globalized Islam* (2004) e *La Sainte Ignorance* (2008), argumentou que o fundamentalismo islâmico contemporâneo é, paradoxalmente, um produto da globalização e da ocidentalização, não uma reação tradicional contra elas. Os jovens radicalizados na Europa — autores de atentados em Paris (2015), Bruxelas (2016) e Nice (2016) — eram frequentemente muçulmanos de segunda ou terceira geração, desenraizados tanto da cultura europeia quanto da tradição islâmica de seus avós. Roy propõe distinguir a "islamização do radicalismo" (jovens marginalizados que encontram no islã uma linguagem para sua revolta) da "radicalização do islã" (o islã como causa do radicalismo) — uma distinção com implicações políticas decisivas.
+
+---
+
+## 4. Conexões Temáticas e Relevância para o CACD
+
+### 4.1 Impacto nas Relações Internacionais
+
+O novo nacionalismo e o fundamentalismo impactam diretamente as relações internacionais em múltiplas dimensões: (a) o enfraquecimento do multilateralismo (a saída dos EUA de organismos e acordos internacionais; o questionamento da ONU, da OMC e da OMS); (b) a crise do regime internacional de refugiados (a crise migratória europeia de 2015, com mais de um milhão de pessoas cruzando o Mediterrâneo); (c) a proliferação de conflitos "identitários" que resistem à mediação diplomática convencional; (d) o terrorismo transnacional como ameaça à segurança coletiva; e (e) a erosão do consenso liberal-democrático que sustentava a ordem internacional pós-1945.
+
+### 4.2 Implicações para a Política Externa Brasileira
+
+O Brasil posiciona-se como um ator favorável ao multilateralismo, à solução pacífica de controvérsias e ao respeito à autodeterminação dos povos — princípios constitucionais (art. 4º da CF/1988) potencialmente tensionados tanto pelo novo nacionalismo quanto pelo fundamentalismo. A posição brasileira na crise síria, no conflito israelense-palestino, na questão nuclear iraniana e nos debates sobre terrorismo na ONU exige uma compreensão sofisticada dos fenômenos aqui analisados. A diplomacia brasileira historicamente resiste à lógica do "choque de civilizações", favorecendo a Aliança de Civilizações (proposta turco-espanhola na ONU, 2005) e o diálogo inter-religioso.
+
+A crescente influência do evangelicalismo na política doméstica brasileira e seu impacto na política externa — particularmente na relação com Israel e nos debates sobre direitos LGBTQIA+ em foros multilaterais — constitui um tema emergente relevante para o candidato ao CACD.
+
+---
+
+## 🎯 Top 5 — Pontos de Maior Incidência em Provas
+
+1. **Huntington e o Choque de Civilizações:** a tese, suas premissas, suas críticas (Edward Said, Amartya Sen) e sua relevância analítica pós-11 de Setembro. Tema recorrente em questões de terceira fase que pedem análise crítica.
+
+2. **Fundamentalismo islâmico — distinções internas:** wahhabismo vs. salafismo jihadista vs. xiismo político; al-Qaeda vs. ISIS (objetivos, métodos, base territorial). A banca exige precisão conceitual e diferenciação entre correntes.
+
+3. **Brexit e novo nacionalismo europeu:** o referendo de 2016 como caso paradigmático de tensão entre soberania nacional e integração regional; implicações para a UE e para o multilateralismo global.
+
+4. **Convergência nacionalismo-religião:** os casos da Índia (Hindutva/BJP), Rússia (ortodoxia como pilar estatal), Turquia (neo-otomanismo) e sua relevância para compreender conflitos contemporâneos (Caxemira, Ucrânia, Síria).
+
+5. **Impacto no multilateralismo e na política externa brasileira:** como o novo nacionalismo e o fundamentalismo afetam os princípios constitucionais da PEB (art. 4º CF/88), o sistema ONU e os regimes internacionais de direitos humanos e refugiados.
+
+---
+
+> **Última atualização:** 2025-07-15 — Resumo denso para CACD 2026, cobrindo as raízes históricas, manifestações contemporâneas e interpretações teóricas do novo nacionalismo e do fundamentalismo religioso, com ênfase em suas implicações para as relações internacionais e a política externa brasileira.

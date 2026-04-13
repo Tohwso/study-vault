@@ -1,132 +1,112 @@
 ---
-título: A Expansão Territorial nos EUA
-capítulo: 5 – A Evolução Política e Econômica nas Américas
-subcapítulo: 5.1
-disciplina: História Mundial
+title: "5.1 — A Expansão Territorial dos Estados Unidos"
 tags:
-  - CACD
-  - história-mundial
-  - EUA
-  - expansão-territorial
+  - historia-mundial
+  - estados-unidos
+  - expansao-territorial
   - manifest-destiny
-  - fronteira
-  - século-XIX
+  - seculo-xix
+  - cacd
+category: Historia Mundial
 status: completo
-última_revisão: 2025-07-14
+created: 2025-07-13
 ---
 
-# 5.1 – A Expansão Territorial nos EUA
+# 5.1 — A Expansão Territorial dos Estados Unidos
 
-> **Referência**: CACD 2026 — História Mundial, Capítulo 5, item 5.1
-> **Status**: ✅ Completo
-> **Última revisão**: 2025-07-14
+> **Capítulo:** 5. A Evolução Política e Econômica nas Américas
+> **Seções irmãs:** 05.01 · 05.02 · 05.03 · 05.04 · 05.05 · 05.06 · 05.07
+> **Status:** ✅ Completo
 
-> [!info] Navegação – Capítulo 5
-> Este resumo faz parte do **Capítulo 5 – A Evolução Política e Econômica nas Américas**:
-> - **📍 05.01 – A Expansão Territorial nos EUA** *(você está aqui)*
-> - [[05-02-guerra-de-secessao|05.02 – A Guerra de Secessão]]
-> - [[05-03-identidades-nacionais-america-latina|05.03 – Identidades Nacionais e Estados na América Latina]]
-> - [[05-04-doutrina-monroe|05.04 – A Doutrina Monroe e Política Externa dos EUA]]
-> - [[05-05-pan-americanismo|05.05 – O Pan-Americanismo]]
-> - [[05-06-oea-e-tiar|05.06 – A OEA e o Tratado do Rio de Janeiro]]
-> - [[05-07-experiencias-integracao-americas|05.07 – As Experiências de Integração nas Américas]]
+> [!info] Contexto do Capítulo
+> Este resumo integra o Capítulo 5 — *A Evolução Política e Econômica nas Américas* — que abrange desde a expansão territorial estadunidense e a Guerra de Secessão até a formação das identidades nacionais latino-americanas e a projeção hegemônica dos EUA sobre o hemisfério. A seção 5.1 trata especificamente do processo de expansão continental dos Estados Unidos, do período pós-independência até o fechamento da fronteira no final do século XIX.
 
 ---
 
-## Contexto Histórico
+## 1. Contexto Histórico e Antecedentes
 
-A expansão territorial dos Estados Unidos constitui um dos processos mais determinantes da história moderna das Américas. Entre a independência (1783) e a conclusão da expansão continental (c. 1848-1853), o território norte-americano multiplicou-se por quatro, transformando uma faixa costeira atlântica de treze ex-colônias em uma potência continental que se estendia do Atlântico ao Pacífico. Esse processo não foi acidental nem meramente oportunista: ancorou-se em uma ideologia expansionista que articulava republicanismo, protestantismo, superioridade racial e determinismo geográfico.
+A expansão territorial dos Estados Unidos constitui um dos processos mais determinantes da história moderna ocidental, não apenas por suas dimensões geográficas — a transformação de uma faixa costeira atlântica em um Estado continental de proporções continentais —, mas sobretudo por suas implicações políticas, econômicas e ideológicas que moldaram a identidade nacional estadunidense e redefiniram as relações de poder no hemisfério ocidental.
 
-A jovem república herdou da experiência colonial britânica uma tradição de avanço sobre terras indígenas e de colonização agrária. A Proclamação Real de 1763, que tentara conter a expansão para além dos Apalaches, fora uma das causas de fricção entre colonos e metrópole. Com a independência, esse impulso expansionista foi liberado. Os Artigos da Confederação (1781) e, depois, a Constituição (1787) já previam mecanismos para incorporação de novos territórios e sua admissão como estados, consolidados na **Ordenança do Noroeste (1787)**, que estabeleceu o modelo para a organização de territórios e sua progressão até a condição de estado pleno.
+Ao conquistar a independência em 1783, os treze estados originais ocupavam uma área relativamente modesta entre o Atlântico e os Montes Apalaches. O Tratado de Paris, que encerrou a Guerra de Independência, já concedeu aos EUA o território até o rio Mississippi, dobrando a extensão inicial. Essa primeira ampliação, porém, era mais formal do que efetiva: vastas porções permaneciam sob controle de povos indígenas, e a capacidade do jovem Estado federal de administrar territórios distantes era limitada. A Ordenança do Noroeste de 1787 estabeleceu o modelo jurídico para incorporação de novos territórios como estados plenos da federação, criando um mecanismo institucional que se revelaria fundamental para a expansão subsequente: ao contrário dos impérios coloniais europeus, os EUA integrariam suas conquistas territoriais como unidades políticas equivalentes aos estados fundadores, legitimando o expansionismo por meio de um discurso de igualdade republicana.
 
-O contexto internacional favoreceu a expansão. As guerras napoleônicas na Europa enfraqueceram as potências coloniais — especialmente França e Espanha — e criaram oportunidades diplomáticas que os EUA souberam explorar. A rivalidade anglo-americana, embora tenha produzido a Guerra de 1812, também gerou acordos de delimitação fronteiriça que consolidaram o domínio estadunidense sobre vastas extensões. A fragilidade do México independente (1821) e sua instabilidade política crônica ofereceram o pretexto e a oportunidade para a maior aquisição territorial do século XIX.
-
----
-
-## Desenvolvimento
-
-### As Primeiras Aquisições (1783-1819)
-
-O **Tratado de Paris (1783)** reconheceu a independência dos EUA e estabeleceu suas fronteiras iniciais: ao norte, os Grandes Lagos e a fronteira com o Canadá britânico; ao sul, a Flórida espanhola; a oeste, o rio Mississippi. Esse território já era vasto, mas insuficiente para a ambição agrária de uma república de fazendeiros.
-
-A **Compra da Louisiana (1803)** representou o primeiro grande salto territorial. Napoleão Bonaparte, necessitando de recursos para suas campanhas europeias e tendo fracassado na tentativa de manter o Haiti (revolução de Toussaint Louverture), vendeu o imenso território da Louisiana — aproximadamente 2,14 milhões de km² — por 15 milhões de dólares. O presidente **Thomas Jefferson**, embora tivesse dúvidas constitucionais sobre o poder federal de adquirir territórios (a Constituição não previa expressamente tal prerrogativa), consumou a compra. O território dobrou o tamanho dos EUA e garantiu o controle do rio Mississippi e do porto de Nova Orleans, vitais para o comércio do interior. A **Expedição de Lewis e Clark (1804-1806)** foi enviada para explorar e mapear as novas terras, estabelecendo a presença americana no Pacífico Noroeste.
-
-A **Flórida** foi adquirida da Espanha pelo **Tratado Adams-Onís (1819)**, negociado pelo secretário de Estado John Quincy Adams. A Espanha, enfraquecida pelas guerras de independência na América Latina e incapaz de controlar a fronteira da Flórida (usada por indígenas seminoles e escravos fugitivos), cedeu o território em troca da renúncia americana a reivindicações sobre o Texas e da definição de uma fronteira transcontinental que, crucialmente, reconhecia os direitos espanhóis sobre o Oregon meridional.
-
-### O Manifest Destiny e a Ideologia Expansionista
-
-O termo **"Destino Manifesto" (Manifest Destiny)** foi cunhado pelo jornalista **John L. O'Sullivan** em 1845, em artigo na *Democratic Review*, defendendo a anexação do Texas. A expressão sintetizava uma crença difusa, porém poderosa: os EUA tinham uma missão providencial — conferida por Deus e pela natureza — de estender as instituições republicanas e a civilização anglo-saxônica por todo o continente norte-americano.
-
-O Destino Manifesto não era uma doutrina formal, mas um **complexo ideológico** que articulava vários elementos: (i) a noção de excepcionalismo americano, segundo a qual os EUA representavam um experimento político único e superior; (ii) o racismo científico da época, que hierarquizava os "anglo-saxões" acima de mexicanos, indígenas e afro-americanos; (iii) o republicanismo agrário jeffersoniano, que via na posse da terra a base da liberdade e da cidadania; (iv) o imperativo econômico de acesso a terras férteis, portos no Pacífico e rotas comerciais para a Ásia.
-
-É fundamental distinguir o Destino Manifesto do imperialismo europeu clássico. Enquanto o colonialismo europeu buscava exploração econômica e domínio de populações ultramarinas, a expansão americana visava a **incorporação territorial** — a transformação de terras "vazias" (na perspectiva dos colonizadores, que negavam a ocupação indígena) em novos estados da federação. Contudo, essa distinção não deve obscurecer o caráter violento e etnocêntrico do processo.
-
-### A Questão do Texas e a Guerra Mexicano-Americana (1846-1848)
-
-O **Texas**, colonizado por anglo-americanos a partir da década de 1820 sob concessões do governo mexicano, declarou independência do México em 1836 após a revolta dos colonos contra o governo centralista de **Santa Anna**. A **Batalha do Álamo** tornou-se símbolo da mitologia texana, embora a vitória decisiva tenha sido em **San Jacinto**. O Texas existiu como república independente (1836-1845) até ser **anexado pelos EUA em 1845**, um ato que o México considerou uma violação de sua soberania.
-
-A **Guerra Mexicano-Americana (1846-1848)** foi precipitada pela disputa fronteiriça entre Texas e México (os EUA reivindicavam o rio Grande como fronteira; o México, o rio Nueces) e pela ambição americana sobre a Califórnia e o Novo México. O presidente **James K. Polk**, expansionista convicto, enviou tropas à zona disputada; quando soldados mexicanos atacaram, Polk declarou que "sangue americano fora derramado em solo americano" — uma afirmação disputada, inclusive no Congresso (o jovem deputado Abraham Lincoln questionou a localização exata do incidente com suas "spot resolutions").
-
-A guerra foi militarmente desigual. Os EUA invadiram o México em múltiplas frentes: o general **Zachary Taylor** avançou pelo norte; o coronel **Stephen Kearny** tomou o Novo México e seguiu para a Califórnia; e o general **Winfield Scott** executou uma campanha anfíbia de Veracruz à Cidade do México, capturando a capital em setembro de 1847.
-
-O **Tratado de Guadalupe Hidalgo (1848)** encerrou a guerra. O México cedeu aproximadamente **55% de seu território**: Califórnia, Nevada, Utah, a maior parte do Arizona e Novo México, e partes de Colorado e Wyoming. Os EUA pagaram 15 milhões de dólares e assumiram dívidas de cidadãos mexicanos. A **Compra Gadsden (1853)** adquiriu uma faixa adicional no sul do Arizona e Novo México, definindo a fronteira atual.
-
-### O Oregon e a Expansão ao Noroeste
-
-O **Território do Oregon**, ocupado conjuntamente por EUA e Grã-Bretanha desde a Convenção de 1818, foi objeto de intensa disputa na década de 1840. O slogan **"Fifty-four Forty or Fight!"** (referência ao paralelo 54°40', reivindicado como fronteira norte) galvanizou expansionistas, mas Polk, já envolvido na guerra com o México, negociou o **Tratado do Oregon (1846)**, que dividiu o território no paralelo 49° — a fronteira atual com o Canadá.
-
-### A Remoção Indígena e o Custo Humano
-
-A expansão territorial teve como contrapartida a **remoção forçada e o genocídio de povos indígenas**. O **Indian Removal Act (1830)**, assinado por Andrew Jackson, autorizou a remoção de nações indígenas do sudeste para territórios a oeste do Mississippi. A **Trilha das Lágrimas (Trail of Tears, 1838)** — a marcha forçada dos Cherokee — resultou na morte de milhares. Ao longo do século XIX, tratados foram sistematicamente violados, terras foram expropriadas e populações indígenas foram confinadas em reservas cada vez menores. A expansão agrária e a construção de ferrovias destruíram ecossistemas (como a quase extinção dos bisões das planícies) e modos de vida.
-
-### A Questão da Escravidão e a Expansão
-
-Cada nova aquisição territorial reacendia o debate sobre a **extensão da escravidão** aos novos territórios. O **Compromisso de Missouri (1820)** tentou equilibrar a admissão de estados livres e escravistas, estabelecendo o paralelo 36°30' como linha divisória. O **Wilmot Proviso (1846)** propôs proibir a escravidão em qualquer território adquirido do México — foi rejeitado, mas polarizou o debate. O **Compromisso de 1850** e o **Kansas-Nebraska Act (1854)** foram tentativas cada vez mais instáveis de acomodar a contradição entre expansão territorial e escravidão, contradição que culminaria na Guerra Civil.
-
-### A Fronteira e a Tese de Turner
-
-Em 1893, o historiador **Frederick Jackson Turner** apresentou sua célebre **"tese da fronteira"** (*The Significance of the Frontier in American History*), argumentando que a experiência da fronteira — entendida como a linha de avanço da colonização sobre terras "livres" — fora o fator determinante na formação do caráter americano: individualismo, democracia, pragmatismo e igualitarismo. O **Censo de 1890** declarara que a fronteira contínua já não existia, o que Turner interpretou como o fim de uma era.
-
-A tese de Turner foi imensamente influente, mas é hoje objeto de **críticas substanciais**: (i) ignorava ou minimizava a presença indígena, tratando as terras como "livres"; (ii) desconsiderava o papel de mulheres, afro-americanos, mexicanos e imigrantes asiáticos na conquista do Oeste; (iii) naturalizava a violência da expansão como processo civilizatório; (iv) era teleológica, tratando a expansão como inevitável e benigna. A **New Western History** (Patricia Nelson Limerick, Richard White) reinterpretou o Oeste como espaço de conquista, conflito e diversidade, não como "fronteira" unidirecional.
+O contexto internacional favorecia a expansão. A Europa napoleônica estava consumida por conflitos internos que distraíam as potências coloniais de suas possessões americanas. A Espanha perdia progressivamente o controle sobre seus territórios coloniais, e a França pós-revolucionária oscilava entre ambições imperiais e crises domésticas. Essa janela geopolítica permitiu aos Estados Unidos avançar sobre territórios disputados com custos militares relativamente baixos, utilizando uma combinação de compra, negociação diplomática, pressão militar e ocupação de facto.
 
 ---
 
-## Interpretações Historiográficas e Perspectivas Analíticas
+## 2. Desenvolvimento: As Fases da Expansão Continental
 
-A historiografia da expansão territorial divide-se em **três grandes correntes**:
+### 2.1 A Compra da Louisiana (1803)
 
-1. **Narrativa triunfalista/excepcionalista**: Dominante até meados do século XX, apresenta a expansão como realização do destino americano, progresso da civilização e triunfo da democracia. Turner é seu expoente acadêmico; a cultura popular (westerns, mitologia da fronteira) é seu veículo de massa.
+A aquisição da Louisiana representa o evento fundador da expansão continental. Napoleão Bonaparte, necessitando de recursos para suas campanhas europeias e tendo fracassado em restabelecer o domínio francês no Haiti após a revolução de Toussaint Louverture, ofereceu a venda do vasto território da Louisiana — que se estendia do Mississippi às Montanhas Rochosas — por 15 milhões de dólares. Thomas Jefferson, apesar de suas convicções estritamente constitucionalistas (a Constituição não previa explicitamente a compra de territórios estrangeiros pelo presidente), aceitou a oferta, justificando-a pela doutrina dos poderes implícitos. A compra dobrou o tamanho do país de uma só vez, adicionando aproximadamente 2,1 milhões de quilômetros quadrados e abrindo o acesso ao interior do continente.
 
-2. **Revisionismo crítico**: A partir das décadas de 1960-70, historiadores como Howard Zinn, Reginald Horsman e Richard Slotkin reinterpretaram a expansão como imperialismo continental, fundamentado em racismo, expropriação e violência. A guerra com o México é lida como guerra de agressão; o Destino Manifesto, como ideologia de supremacia branca.
+A expedição de Lewis e Clark (1804-1806), comissionada por Jefferson, simbolizou o espírito exploratório da era: mapear, catalogar e reivindicar o território recém-adquirido. A expedição também revelou a complexidade da questão indígena, estabelecendo os primeiros contatos oficiais com nações nativas que seriam progressivamente deslocadas nas décadas seguintes.
 
-3. **Nova História do Oeste (New Western History)**: Desde os anos 1980, autores como Patricia Nelson Limerick (*The Legacy of Conquest*) e Richard White propõem uma leitura multicultural que incorpora as perspectivas indígenas, mexicanas, chinesas e femininas, tratando o Oeste como região com história complexa e não como "fronteira" teleológica.
+### 2.2 A Expansão para a Flórida e o Sudeste
 
-Para o CACD, é essencial articular essas perspectivas, reconhecendo tanto as dinâmicas geopolíticas que impulsionaram a expansão quanto as violências que a sustentaram e as contestações que a acompanharam.
+A aquisição da Flórida (1819), formalizada pelo Tratado Adams-Onís com a Espanha, consolidou o controle estadunidense sobre o Golfo do México e eliminou uma potencial base de operações para potências rivais no sudeste do continente. Andrew Jackson, que comandara incursões militares não autorizadas no território espanhol durante a Primeira Guerra Seminole (1817-1818), utilizou a pressão militar como instrumento diplomático, forçando a Espanha a negociar a cessão. O Tratado Adams-Onís também definiu a fronteira com as possessões espanholas no oeste, traçando uma linha que ia do rio Sabine até o Pacífico — a primeira vez que os EUA formalizavam reivindicações transcontinentais.
+
+### 2.3 O Destino Manifesto e a Ideologia Expansionista
+
+A expressão "Destino Manifesto" (Manifest Destiny), cunhada pelo jornalista John L. O'Sullivan em 1845, condensou em uma fórmula retórica poderosa um conjunto de convicções que já permeavam o pensamento político estadunidense: a crença de que a expansão continental era não apenas desejável, mas divinamente ordenada; de que o modelo republicano anglo-saxão representava a forma superior de civilização; e de que os Estados Unidos tinham a missão providencial de estender as bênçãos da liberdade e do autogoverno por todo o continente.
+
+O Destino Manifesto não era, contudo, um consenso monolítico. Whigs e abolicionistas criticavam a expansão como pretexto para a extensão da escravidão; intelectuais como Henry David Thoreau praticaram a desobediência civil contra a Guerra Mexicana. Ainda assim, a força mobilizadora da ideologia era inegável: ela fornecia justificativa moral para a conquista territorial, naturalizava a remoção de povos indígenas e legitimava a guerra contra o México.
+
+### 2.4 A Anexação do Texas e a Guerra Mexicano-Americana (1846-1848)
+
+O Texas, independente do México desde 1836 sob a liderança de colonos anglo-americanos como Stephen Austin e Sam Houston, foi anexado aos EUA em 1845. A anexação precipitou a Guerra Mexicano-Americana (1846-1848), conflito que revelou tanto a superioridade militar estadunidense quanto as profundas divisões internas sobre a escravidão. O presidente James K. Polk, democrata expansionista, provocou deliberadamente o conflito ao enviar tropas à região disputada entre os rios Nueces e Rio Grande, forçando um incidente militar que serviu de casus belli.
+
+O Tratado de Guadalupe Hidalgo (1848) impôs ao México a cessão de aproximadamente metade de seu território — incluindo a Califórnia, Nevada, Utah, Arizona, Novo México e partes do Colorado e Wyoming — em troca de 15 milhões de dólares. A Cessão Mexicana representou a maior aquisição territorial desde a Louisiana e transformou os EUA em potência do Pacífico. A Compra Gadsden (1853) adicionou uma faixa adicional no sul do Arizona e Novo México, completando a fronteira continental.
+
+A Guerra Mexicana teve consequências domésticas profundas. A Wilmot Proviso (1846), proposta que buscava proibir a escravidão em qualquer território adquirido do México, foi rejeitada pelo Senado, mas cristalizou a polarização entre Norte e Sul que levaria à Guerra de Secessão. A questão de quem controlaria os novos territórios — se forças escravistas ou livres — tornou-se o eixo central da política estadunidense nas duas décadas seguintes.
+
+### 2.5 O Oregon e a Costa Pacífica
+
+Paralelamente à questão texana, os EUA resolveram a disputa pelo Território de Oregon com a Grã-Bretanha. O Tratado de Oregon (1846) estabeleceu o paralelo 49°N como fronteira entre os EUA e o Canadá britânico, do Lago dos Bosques ao Pacífico. Polk, que fizera campanha com o slogan "Fifty-four Forty or Fight!" (reivindicando a fronteira até o Alasca), aceitou o compromisso pragmático do paralelo 49° para evitar um conflito simultâneo com a Grã-Bretanha enquanto travava guerra com o México.
+
+### 2.6 A Corrida do Ouro e a Integração Continental
+
+A descoberta de ouro na Califórnia em 1848, apenas dias antes da assinatura do Tratado de Guadalupe Hidalgo, desencadeou uma migração massiva que acelerou a integração do oeste ao corpo nacional. A Corrida do Ouro de 1849 trouxe centenas de milhares de colonos, transformou São Francisco de um vilarejo em uma metrópole e pressionou pela admissão acelerada da Califórnia como estado (1850). A construção da ferrovia transcontinental, completada em 1869 (Central Pacific e Union Pacific unidas em Promontory Summit, Utah), representou a materialização infraestrutural da unidade continental, reduzindo a travessia leste-oeste de meses para dias.
+
+### 2.7 A Remoção Indígena e o Custo Humano
+
+A expansão continental teve como contrapartida direta o deslocamento forçado e o extermínio sistemático dos povos indígenas. A Lei de Remoção Indígena de 1830 (Indian Removal Act), assinada por Andrew Jackson, formalizou a política de deportação das nações indígenas do sudeste para territórios a oeste do Mississippi. A "Trilha de Lágrimas" (Trail of Tears, 1838) — a marcha forçada dos Cherokee — tornou-se símbolo da violência do processo. Nas décadas seguintes, as Guerras Indígenas no oeste (Guerras Sioux, Guerras Apache, Massacre de Wounded Knee em 1890) completaram a subjugação militar dos povos nativos, confinados em reservas que representavam fração mínima de seus territórios ancestrais.
 
 ---
 
-## Conexões com Outros Temas
+## 3. Interpretações Historiográficas
 
-- **Doutrina Monroe (5.4)**: A expansão territorial é simultânea à formulação da Doutrina Monroe (1823). Ambas refletem o projeto de hegemonia hemisférica dos EUA — a Monroe protege o hemisfério de potências europeias; a expansão territorial consolida o domínio continental.
-- **Guerra de Secessão (5.2)**: A expansão territorial exacerbou a crise da escravidão, pois cada novo território forçava o debate sobre a extensão do sistema escravista. A guerra com o México acelerou diretamente o caminho para a Guerra Civil.
-- **Identidades Nacionais na América Latina (5.3)**: A guerra com o México e a perda de metade do território mexicano são eventos constitutivos da identidade nacional mexicana e do anti-americanismo latino-americano.
-- **Imperialismo do século XIX**: A expansão continental americana é paralela à expansão colonial europeia na África e Ásia. Embora difiram em forma (incorporação vs. colonização ultramarina), compartilham bases ideológicas (racismo, civilizacionismo) e motivações econômicas.
-- **Política contemporânea**: O legado da expansão territorial se manifesta em questões como imigração na fronteira México-EUA, direitos de povos indígenas, e a relação entre identidade nacional americana e mito da fronteira.
+### A Tese da Fronteira de Frederick Jackson Turner
 
----
+Em 1893, o historiador Frederick Jackson Turner apresentou sua célebre tese na reunião da American Historical Association em Chicago: a fronteira — entendida como a linha de avanço da colonização sobre terras "livres" — era o fator determinante na formação do caráter nacional americano. Para Turner, a experiência da fronteira moldou a democracia, o individualismo, a inventividade prática e o espírito igualitário que distinguiam os EUA da Europa. O "fechamento da fronteira", anunciado pelo censo de 1890, representava o fim de uma era e levantava a questão crucial: como preservar as virtudes democráticas associadas à fronteira em uma sociedade que se tornava urbana e industrial?
 
-## 🎯 Top 5 – Pontos Mais Cobrados em Provas
+A tese turneriana, apesar de enormemente influente, recebeu críticas substanciais. Historiadores revisionistas apontaram que Turner invisibilizava os povos indígenas (tratando suas terras como "livres"), ignorava o papel das mulheres e das minorias, subestimava a importância do capital e da intervenção estatal na expansão, e romantizava um processo violento de conquista e desapropriação. A "Nova História do Oeste" (New Western History), liderada por Patricia Nelson Limerick, Richard White e outros a partir dos anos 1980, reinterpretou a expansão como processo de conquista, colonização e subordinação — não como narrativa triunfal de progresso democrático.
 
-1. **Manifest Destiny**: Conceito, componentes ideológicos (excepcionalismo, racismo, republicanismo agrário), período de maior vigência (1840s), limitações como categoria analítica.
+### Debates sobre Imperialismo Continental
 
-2. **Guerra Mexicano-Americana (1846-1848)**: Causas (anexação do Texas, disputa fronteiriça, ambição sobre Califórnia), Tratado de Guadalupe Hidalgo, consequências territoriais e impacto na crise da escravidão.
-
-3. **Compra da Louisiana (1803)**: Circunstâncias (fracasso haitiano de Napoleão, necessidade de financiamento), dilema constitucional de Jefferson, impacto geográfico e geopolítico.
-
-4. **Remoção indígena e violência**: Indian Removal Act (1830), Trilha das Lágrimas, padrão de expropriação, conexão com a tese da fronteira e suas críticas.
-
-5. **Tese da Fronteira (Turner, 1893)**: Argumento central, influência historiográfica, críticas da New Western History, significado do fechamento da fronteira para a política externa americana (transição do expansionismo continental para o imperialismo ultramarino).
+Historiadores como William Appleman Williams argumentaram que a expansão territorial do século XIX representou uma forma de imperialismo continental que prefigurou o imperialismo ultramarino do final do século. A lógica expansionista — a necessidade de novos mercados, de terras para absorver populações crescentes e de segurança estratégica — permaneceu constante, apenas mudando sua escala geográfica. Essa interpretação conecta diretamente a Marcha para o Oeste à Doutrina Monroe, ao Corolário Roosevelt e à projeção hemisférica dos EUA no século XX.
 
 ---
 
-> *Resumo elaborado para preparação CACD 2026 – História Mundial. Baseado em fontes acadêmicas e manuais especializados.*
+## 4. Conexões Temáticas e Transversais
+
+**Com a seção 5.2 (Guerra de Secessão):** A expansão territorial agravou fatalmente a questão escravista. Cada novo território incorporado reabria o debate sobre a extensão ou contenção da escravidão, produzindo compromissos cada vez mais frágeis (Compromisso de Missouri de 1820, Compromisso de 1850, Lei Kansas-Nebraska de 1854) que culminaram na ruptura da União em 1861.
+
+**Com a seção 5.3 (Identidades Nacionais na América Latina):** A expansão dos EUA sobre o México teve impacto direto na formação das identidades nacionais latino-americanas, alimentando o sentimento anti-ianque e a desconfiança em relação ao vizinho do norte que permeia até hoje as relações interamericanas. A perda de metade do território mexicano na guerra de 1846-1848 constituiu trauma fundador do nacionalismo mexicano.
+
+**Com a seção 5.4 (Doutrina Monroe):** O expansionismo continental e a Doutrina Monroe são faces da mesma moeda: a afirmação da supremacia estadunidense no hemisfério ocidental. A expansão territorial forneceu a base material (território, recursos, população) para a projeção de poder que a Doutrina Monroe articulava diplomaticamente.
+
+**Com temas de Política Internacional (CACD):** A expansão territorial dos EUA no século XIX é caso paradigmático para discussões sobre formação de potências, relação entre território e poder, e as tensões entre discurso liberal e práticas imperialistas — temas recorrentes na prova de História Mundial do CACD.
+
+---
+
+## 🎯 Top 5 — O Que Mais Cai no CACD
+
+1. **Destino Manifesto** — conceito, origens, implicações ideológicas e conexão com o excepcionalismo americano. Cobrado tanto em História quanto em Política Internacional.
+2. **Guerra Mexicano-Americana (1846-1848)** — causas, Tratado de Guadalupe Hidalgo, impacto na questão escravista e nas relações EUA-América Latina.
+3. **Tese da Fronteira (Turner)** — formulação, críticas revisionistas, conexão com a identidade nacional e o fim da expansão continental.
+4. **Compra da Louisiana (1803)** — contexto napoleônico, implicações constitucionais, duplicação territorial.
+5. **Remoção Indígena e Marcha para o Oeste** — Indian Removal Act, Trail of Tears, Guerras Indígenas, Wounded Knee — como contraponto crítico à narrativa expansionista.
+
+---
+
+> **Navegação:** ← [Cap. 4](../04-idade-contemporanea/) · **5.1 Expansão Territorial EUA** · [5.2 Guerra de Secessão →](05-02-guerra-de-secessao.md)

@@ -1,149 +1,103 @@
 ---
-title: "Liberalismo e Nacionalismo no Século XIX"
-date: 2025-07-11
+title: "6.1 – Liberalismo e Nacionalismo no Século XIX"
 tags:
   - historia-mundial
-  - cacd-2026
   - liberalismo
   - nacionalismo
   - seculo-xix
   - ideologias-politicas
+  - CACD-2026
 category: "História Mundial"
-chapter: "06 - Ideias e Regimes Políticos"
-ref: "6.1"
+created: 2025-01-28
+modified: 2025-01-28
 status: completo
 ---
 
-# 6.1 — Liberalismo e Nacionalismo no Século XIX
+# 6.1 – Liberalismo e Nacionalismo no Século XIX
 
-> **Capítulo:** 06 — Ideias e Regimes Políticos
-> **Referência:** 6.1
+> **Referência do Edital CACD 2026:** Item 6.1 — Liberalismo e Nacionalismo no Século XIX
+> **Capítulo:** 6. Ideias e Regimes Políticos
 > **Status:** ✅ Completo
-> **Última atualização:** 2025-07-11
 
-> [!info] Seções do Capítulo 06
-> - **6.1 Liberalismo e Nacionalismo no Século XIX** *(atual)*
-> - [[06-02-construcao-estados-nacionais-alemanha-italia|6.2 Construção dos Estados Nacionais: Alemanha e Itália]]
-> - [[06-03-democracia-fascismo-comunismo|6.3 Democracia, Fascismo e Comunismo]]
-> - [[06-04-ditaduras-e-regimes-fascistas|6.4 Ditaduras e Regimes Fascistas]]
-> - [[06-05-novo-nacionalismo-e-fundamentalismo|6.5 Novo Nacionalismo e Fundamentalismo]]
-> - [[06-06-liberalismo-no-seculo-xx|6.6 Liberalismo no Século XX]]
-
----
-
-## Contexto Histórico
-
-O liberalismo e o nacionalismo emergiram como as duas grandes forças ideológicas transformadoras do século XIX europeu, ambos gestados no crisol da Revolução Francesa (1789) e do período napoleônico (1799-1815). Essas correntes, inicialmente convergentes em sua oposição ao Antigo Regime absolutista e à ordem restaurada pelo Congresso de Viena (1814-1815), redefiniram profundamente a organização política, social e territorial do continente europeu e, por extensão, do mundo.
-
-O **Congresso de Viena**, orquestrado por Metternich, Castlereagh, Talleyrand e Alexandre I, buscou restaurar o princípio da legitimidade dinástica e o equilíbrio de poder (*balance of power*) na Europa pós-napoleônica. O Sistema de Concerto Europeu (ou Sistema Metternich) estabeleceu mecanismos de consulta entre as grandes potências — Santa Aliança (Rússia, Áustria, Prússia) e Quádrupla Aliança (incluindo a Grã-Bretanha) — para suprimir movimentos revolucionários e manter o *status quo* territorial. Paradoxalmente, esse sistema de contenção tornou-se o principal catalisador das revoluções liberais e nacionais que pontilharam o século.
-
-O contexto econômico é indissociável: a **Revolução Industrial**, iniciada na Grã-Bretanha no final do século XVIII e propagada ao continente europeu ao longo do XIX, criou uma nova classe burguesa industrial e comercial que demandava liberdades econômicas (livre-comércio, direito de propriedade, desregulamentação) e representação política proporcional à sua crescente importância econômica. Simultaneamente, a urbanização acelerada e a formação de um proletariado industrial introduziram novas tensões sociais que complexificariam o panorama ideológico.
-
-No plano intelectual, o Iluminismo setecentista forneceu as bases filosóficas para ambas as correntes: a ênfase na razão, nos direitos naturais, no contrato social (Locke, Rousseau, Montesquieu) e na autodeterminação dos povos. Contudo, liberalismo e nacionalismo articularam esses princípios de maneiras distintas e, eventualmente, contraditórias.
+> [!info] **Navegação do Capítulo 6 — Ideias e Regimes Políticos**
+> - **6.1 – Liberalismo e Nacionalismo no Século XIX** *(você está aqui)*
+> - 6.2 – Construção dos Estados Nacionais: Alemanha e Itália
+> - 6.3 – Democracia, Fascismo e Comunismo no Século XX
+> - 6.4 – A Guerra Fria e os Modelos Ideológicos Rivais
+> - 6.5 – Descolonização e Ideologias do Terceiro Mundo
+> - 6.6 – Ordem Liberal Internacional e Seus Desafios Contemporâneos
 
 ---
 
-## Desenvolvimento
+## 1. Contexto Histórico e Intelectual
 
-### O Liberalismo: Fundamentos e Vertentes
+O liberalismo e o nacionalismo constituem as duas grandes forças ideológicas que remodelaram a ordem política europeia e mundial ao longo do século XIX, operando ora como aliados, ora como antagonistas. Ambos emergem do colapso do Antigo Regime e da crise de legitimidade que se seguiu às Revoluções Americana (1776) e Francesa (1789), mas suas raízes intelectuais remontam ao Iluminismo setecentista e à tradição jusnaturalista dos séculos XVII e XVIII. O Congresso de Viena (1814-1815), ao restaurar monarquias e redesenhar fronteiras com base no princípio da legitimidade dinástica, criou paradoxalmente as condições para a radicalização de ambos os movimentos ao longo das décadas subsequentes.
 
-O liberalismo do século XIX constituiu uma doutrina multifacetada cujo núcleo comum residia na defesa das **liberdades individuais** contra o poder arbitrário do Estado. Seus fundamentos filosóficos remontam a **John Locke** (1632-1704), cuja teoria dos direitos naturais — vida, liberdade e propriedade — e do governo por consentimento informou as revoluções inglesa (1688), americana (1776) e francesa (1789).
+O liberalismo político consolidou-se como doutrina articulada a partir das obras de John Locke, cujo *Segundo Tratado sobre o Governo* (1689) estabeleceu os fundamentos do governo por consentimento, direitos naturais inalienáveis e limitação do poder soberano. A tradição foi aprofundada por Montesquieu, com a teoria da separação dos poderes em *O Espírito das Leis* (1748), e por Adam Smith, que em *A Riqueza das Nações* (1776) formulou a defesa do livre mercado e da mínima intervenção estatal na economia. No século XIX, John Stuart Mill expandiu o cânone liberal com *Sobre a Liberdade* (1859), articulando a defesa das liberdades individuais — expressão, associação, consciência — contra a tirania da maioria, conceito que tomou emprestado de Alexis de Tocqueville, cujo *A Democracia na América* (1835-1840) analisara tanto as virtudes quanto os perigos do regime democrático americano.
 
-**Adam Smith** (1723-1790), em *A Riqueza das Nações* (1776), articulou o liberalismo econômico: a defesa do livre mercado, da divisão do trabalho e da "mão invisível" como mecanismo regulador superior à intervenção estatal mercantilista. **David Ricardo** (1772-1823) desenvolveu a teoria das vantagens comparativas, fundamentando o livre-comércio como benefício mútuo entre nações.
+O nacionalismo, por sua vez, alimentou-se de fontes intelectuais distintas. Johann Gottfried Herder, no final do século XVIII, formulou o conceito de *Volksgeist* (espírito do povo), argumentando que cada nação possuía uma essência cultural única expressa na língua, nos costumes e nas tradições populares. Essa concepção organicista e cultural da nação contrastava com a visão cívica e contratualista que emergira da Revolução Francesa, na qual a nação era definida pela vontade política de um corpo de cidadãos — a célebre formulação de Ernest Renan em *Qu'est-ce qu'une nation?* (1882) como "um plebiscito diário". Johann Gottlieb Fichte, nos *Discursos à Nação Alemã* (1807-1808), radicalizou a perspectiva herderiana ao transformar a identidade linguística e cultural em imperativo político, lançando as bases do nacionalismo étnico que marcaria profundamente a história alemã.
 
-**Benjamin Constant** (1767-1830) formulou a célebre distinção entre a "liberdade dos antigos" (participação direta na coisa pública) e a "liberdade dos modernos" (proteção da esfera privada individual contra a interferência do Estado), estabelecendo o paradigma liberal de que a liberdade reside primariamente na garantia de direitos civis — liberdade de expressão, de imprensa, de culto, de associação e de propriedade — e não necessariamente na participação política universal.
+O contexto material não pode ser dissociado do ideológico. A Revolução Industrial, iniciada na Grã-Bretanha no final do século XVIII e expandida para o continente europeu ao longo do XIX, criou novas classes sociais — a burguesia industrial e o proletariado urbano — cujas demandas políticas alimentaram tanto o liberalismo quanto o nacionalismo. A burguesia ascendente buscava representação política, segurança jurídica para seus contratos e propriedades, e liberdade comercial — demandas essencialmente liberais. Simultaneamente, a industrialização criou mercados nacionais que demandavam unificação política e alfandegária, como demonstrou a experiência do *Zollverein* (União Aduaneira Alemã, 1834), que precedeu e pavimentou o caminho para a unificação política.
 
-**Alexis de Tocqueville** (1805-1859), em *A Democracia na América* (1835-1840), analisou a tensão entre liberdade e igualdade nas sociedades democráticas, alertando para a "tirania da maioria" e para o risco de um "despotismo brando" em que os cidadãos, absorvidos em suas vidas privadas, delegassem progressivamente seus poderes a um Estado paternalista tutelar.
+## 2. Desenvolvimento Analítico
 
-**John Stuart Mill** (1806-1873), em *Sobre a Liberdade* (1859), articulou o "princípio do dano" (*harm principle*): a única justificativa legítima para restringir a liberdade individual é prevenir dano a terceiros. Mill expandiu o liberalismo clássico ao defender a liberdade de pensamento e discussão como condições essenciais para o progresso social, e avançou em direção a um liberalismo mais social ao reconhecer que desigualdades extremas de condição material podiam comprometer a liberdade efetiva.
+### 2.1 O Liberalismo: Vertentes e Tensões Internas
 
-O liberalismo do século XIX manifestou-se em vertentes distintas conforme o contexto nacional:
+O liberalismo oitocentista não constituiu um bloco monolítico. É fundamental distinguir ao menos três vertentes que coexistiram e competiram ao longo do século. O **liberalismo clássico** (ou doutrinário), predominante na primeira metade do século, defendia o governo constitucional, a separação dos poderes e a proteção dos direitos civis, mas restringia a participação política a proprietários e contribuintes — o chamado sufrágio censitário. Benjamin Constant, em seu célebre discurso *De la liberté des anciens comparée à celle des modernes* (1819), articulou a distinção entre a liberdade dos antigos (participação direta no governo) e a liberdade dos modernos (proteção da esfera privada contra a ingerência estatal), privilegiando a segunda. François Guizot, primeiro-ministro francês sob Luís Filipe, encarnou essa vertente ao defender que a ampliação do sufrágio viria naturalmente com o progresso econômico — "Enrichissez-vous!" (Enriquecei-vos!).
 
-- **Liberalismo britânico**: modelo de referência, com a evolução gradual do parlamentarismo (Reform Acts de 1832, 1867 e 1884), a abolição das Corn Laws (1846) como triunfo do livre-comércio, e o desenvolvimento do Estado de Direito (*rule of law*).
-- **Liberalismo francês**: mais radical e revolucionário, oscilando entre monarquia constitucional (1814-1830), "monarquia burguesa" de Luís Filipe (1830-1848) e experiências republicanas, com tensão permanente entre tradições jacobinas e liberais moderadas.
-- **Liberalismo germânico**: marcado pela frustração, especialmente após o fracasso do Parlamento de Frankfurt (1848-1849), que tentou conciliar unificação nacional e constitucionalismo liberal, resultando na posterior subordinação do liberalismo ao nacionalismo bismarckiano.
+O **liberalismo democrático-radical**, que ganhou força a partir de 1830 e especialmente em 1848, rompeu com o elitismo do liberalismo doutrinário ao defender o sufrágio universal masculino, a soberania popular irrestrita e, em alguns casos, reformas sociais. Giuseppe Mazzini exemplifica essa vertente ao fundir liberalismo radical com nacionalismo republicano em sua visão de uma "Jovem Europa" de nações livres e democráticas. Na Inglaterra, o movimento cartista (1838-1857) articulou demandas democráticas — sufrágio universal masculino, voto secreto, parlamentos anuais — que só seriam plenamente atendidas décadas depois.
 
-### O Nacionalismo: Origens e Tipologias
+O **liberalismo social** ou **novo liberalismo** emergiu no final do século, reconhecendo que a liberdade formal era insuficiente sem condições materiais mínimas. T.H. Green, Leonard Hobhouse e, na Alemanha, os liberais do *Kathedersozialismus* (socialismo de cátedra) argumentaram que o Estado tinha o dever positivo de criar condições para o exercício efetivo da liberdade — educação pública, regulação trabalhista, seguridade social. Essa vertente influenciou diretamente as reformas sociais da era Gladstone-Disraeli na Grã-Bretanha e a legislação social bismarckiana na Alemanha (1883-1889), esta última paradoxalmente implementada por um conservador para esvaziar a agenda socialista.
 
-O nacionalismo do século XIX postulava que a **nação** — comunidade definida por vínculos de língua, cultura, história, etnia ou vontade política compartilhada — constituía a unidade legítima de organização política, devendo cada nação corresponder a um Estado soberano (princípio das nacionalidades).
+### 2.2 O Nacionalismo: Da Emancipação à Exclusão
 
-A historiografia distingue duas concepções fundamentais de nação:
+O nacionalismo oitocentista também atravessou transformações profundas. Na primeira metade do século, predominou o **nacionalismo liberal-emancipatório**, que via na autodeterminação nacional a extensão lógica dos princípios liberais de liberdade e autogoverno. As revoluções gregas (1821-1829), belgas (1830), polonesas (1830-1831, 1863) e húngaras (1848) foram movimentos que combinaram demandas nacionais com programas constitucionais liberais. O filellenismo europeu — o apoio entusiástico à causa grega, simbolizado pelo sacrifício de Lord Byron em Missolonghi (1824) — demonstra como o nacionalismo de libertação capturou a imaginação liberal europeia.
 
-1. **Concepção cívico-voluntarista (francesa)**: derivada de **Ernest Renan** (1823-1892) e sua célebre conferência *Qu'est-ce qu'une nation?* (1882), em que a nação é definida como um "plebiscito cotidiano" — uma comunidade de vontade política baseada em memórias compartilhadas e no desejo de viver junto, independentemente de critérios étnicos ou linguísticos.
+A **Primavera dos Povos** (1848) constitui o ponto de inflexão decisivo. As revoluções simultâneas que eclodiram em Paris, Viena, Berlim, Budapeste, Milão, Praga e dezenas de outras cidades europeias representaram a convergência máxima entre liberalismo e nacionalismo: exigiam-se simultaneamente constituições, parlamentos eleitos, liberdades civis e autodeterminação nacional. O fracasso generalizado dessas revoluções — esmagadas pela reação conservadora austro-russa e pela incapacidade dos liberais de incorporar as demandas das classes trabalhadoras — produziu consequências duradouras. A experiência de 1848 demonstrou que o liberalismo constitucional não conseguia, por si só, realizar a unificação nacional, abrindo espaço para o nacionalismo *Realpolitik* de Bismarck e Cavour, que realizariam as unificações alemã e italiana "de cima para baixo", por meios diplomáticos e militares, não revolucionários.
 
-2. **Concepção étnico-cultural (germânica)**: articulada por **Johann Gottfried Herder** (1744-1803) e pelo conceito de *Volksgeist* (espírito do povo), que via a nação como entidade orgânica definida por língua, cultura, tradições e laços de sangue — uma essência pré-política que antecedia e transcendia o Estado.
+Na segunda metade do século, o nacionalismo progressivamente divorciou-se do liberalismo e adquiriu tonalidades cada vez mais **conservadoras, étnicas e imperialistas**. O darwinismo social, as teorias raciais pseudocientíficas (Gobineau, Chamberlain), o antissemitismo político (o caso Dreyfus na França, os pogroms na Rússia, o surgimento do sionismo como resposta) e o imperialismo colonial transformaram o nacionalismo de movimento de libertação em ideologia de dominação. O pangermanismo e o pan-eslavismo, que postulavam a unidade de todos os povos germânicos ou eslavos sob um único Estado, alimentaram as rivalidades que culminariam na Primeira Guerra Mundial.
 
-**Johann Gottlieb Fichte** (1762-1814), nos *Discursos à Nação Alemã* (1807-1808), radicalizou a vertente herderiana ao vincular a regeneração nacional à superioridade cultural e linguística alemã, em contexto de resistência à ocupação napoleônica.
+### 2.3 A Dialética Liberal-Nacional e o Sistema Internacional
 
-O nacionalismo manifestou-se em três tipos fundamentais durante o século XIX:
+A tensão entre liberalismo e nacionalismo produziu efeitos profundos no sistema internacional. O princípio das nacionalidades — segundo o qual cada nação tem direito a seu próprio Estado — era intrinsecamente desestabilizador para a ordem de Viena, baseada na legitimidade dinástica e no equilíbrio de poder entre impérios multiétnicos (Habsburgo, Otomano, Romanov). Metternich, o arquiteto da ordem de Viena, compreendia perfeitamente essa ameaça: "Quando a França espirra, toda a Europa se resfria."
 
-- **Nacionalismo de unificação**: povos culturalmente afins divididos em múltiplos Estados buscando consolidação em um Estado-nação (Alemanha, Itália).
-- **Nacionalismo de independência/secessão**: nações submetidas a impérios multiétnicos buscando emancipação (Grécia do Império Otomano, 1821-1829; povos eslavos do Império Habsburgo; Bélgica dos Países Baixos, 1830; Polônia do Império Russo).
-- **Nacionalismo de consolidação**: Estados já existentes buscando homogeneização interna e fortalecimento identitário (França pós-revolucionária, Grã-Bretanha).
+O Concerto Europeu (1815-1914) funcionou como mecanismo de contenção dessas forças, mas foi progressivamente erodido. A independência da Grécia (1829) e da Bélgica (1830) demonstrou que o princípio das nacionalidades podia prevalecer quando alinhado com os interesses das grandes potências. A Questão Oriental — a lenta desintegração do Império Otomano e a disputa por seus despojos — tornou-se o laboratório onde nacionalismo, imperialismo e rivalidade entre potências se combinaram de forma explosiva.
 
-### As Ondas Revolucionárias
+## 3. Interpretações Historiográficas e Teóricas
 
-O século XIX foi pontuado por três grandes ondas revolucionárias que expressaram a convergência e as tensões entre liberalismo e nacionalismo:
+A historiografia sobre liberalismo e nacionalismo no século XIX é vasta e profundamente debatida. **Eric Hobsbawm**, em sua trilogia (*A Era das Revoluções*, *A Era do Capital*, *A Era dos Impérios*), oferece uma interpretação materialista que vincula a ascensão do liberalismo à hegemonia da burguesia industrial e o nacionalismo à necessidade de mercados unificados e homogeneização cultural. Para Hobsbawm, o nacionalismo é uma "invenção" das elites modernizadoras, não uma expressão orgânica de comunidades preexistentes.
 
-**1820-1825**: Revoluções na Espanha (Rafael de Riego), Portugal, Nápoles, Piemonte e Grécia. Inspiradas no constitucionalismo liberal e, no caso grego, também no nacionalismo anti-otomano. A maioria foi suprimida pelo Sistema Metternich (intervenção francesa na Espanha, austríaca na Itália), mas a independência grega (1829) consolidou-se como precedente de autodeterminação nacional apoiado por potências europeias (Grã-Bretanha, França, Rússia).
+**Benedict Anderson**, em *Comunidades Imaginadas* (1983), propôs que a nação é uma "comunidade política imaginada" — não no sentido de fictícia, mas no sentido de que seus membros jamais conhecerão a maioria de seus compatriotas, mas compartilham a imagem de comunhão. Anderson atribui papel central ao "capitalismo tipográfico" (imprensa e jornais em línguas vernáculas) na criação dessas comunidades.
 
-**1830**: A Revolução de Julho na França derrubou Carlos X e instaurou a "monarquia burguesa" de Luís Filipe de Orléans, consolidando o constitucionalismo liberal. Efeitos em cadeia: independência da Bélgica (1830), insurreição polonesa contra o Império Russo (esmagada em 1831), revoltas na Itália e estados alemães (igualmente suprimidas).
+**Ernest Gellner**, em *Nações e Nacionalismo* (1983), argumentou que o nacionalismo é produto funcional da modernização industrial: a economia industrial exige uma cultura padronizada (língua, educação) que só o Estado-nação pode fornecer. O nacionalismo, portanto, não "desperta" nações dormentes — ele as cria.
 
-**1848 — "Primavera dos Povos"**: A mais ampla onda revolucionária do século, estendendo-se da França (proclamação da Segunda República) à Alemanha (Parlamento de Frankfurt), ao Império Habsburgo (revoltas em Viena, Budapeste, Praga, Milão), e à Itália (guerras de independência contra a Áustria). Esta onda expressou a convergência máxima entre liberalismo (demandas por constituições, sufrágio, liberdades civis), nacionalismo (unificação alemã e italiana, emancipação húngara e tcheca) e questões sociais (primeiras demandas operárias). Seu fracasso generalizado revelou as tensões internas: conflitos entre nacionalidades rivais (alemães vs. tchecos na Boêmia, húngaros vs. croatas e romenos no Império Habsburgo), entre liberais moderados e radicais, e entre burguesia e proletariado.
+Em contraste, **Anthony Smith** defendeu a perspectiva **etno-simbolista**, argumentando que as nações modernas se constroem sobre *ethnies* (comunidades étnicas) preexistentes com mitos, memórias e símbolos compartilhados. Nações não são inventadas *ex nihilo*; elas reelaboram materiais culturais pré-modernos.
 
-### Convergências e Divergências
+Para o CACD, é relevante também a contribuição de **Liah Greenfeld** (*Nationalism: Five Roads to Modernity*, 1992), que distingue entre nacionalismos individualistas-cívicos (Inglaterra, França, EUA) e nacionalismos coletivistas-étnicos (Alemanha, Rússia), argumentando que a forma do nacionalismo depende das condições sociais de sua emergência.
 
-Inicialmente aliados contra o absolutismo, liberalismo e nacionalismo revelaram tensões crescentes ao longo do século:
+## 4. Conexões com Outros Temas do Edital
 
-A **convergência** residia na oposição comum ao Antigo Regime: ambos rejeitavam a legitimidade dinástica como princípio ordenador, ambos invocavam a soberania popular (embora com concepções distintas de "povo"), e ambos demandavam constituições escritas como limitação do poder arbitrário.
-
-A **divergência** manifestou-se quando o nacionalismo passou a subordinar os direitos individuais à comunidade nacional orgânica. O liberalismo clássico era universalista e cosmopolita em seus fundamentos — os direitos naturais pertenciam a todos os seres humanos. O nacionalismo, especialmente em sua vertente étnico-cultural, era particularista e potencialmente excludente — os direitos derivavam da pertença à nação.
-
-Essa divergência tornou-se aguda na segunda metade do século XIX, quando o nacionalismo de libertação progressivamente cedeu espaço ao **nacionalismo de potência** (*Machtpolitik*), associado ao imperialismo, ao militarismo e, eventualmente, ao chauvinismo. A unificação alemã por Bismarck (1864-1871) exemplificou essa transformação: um projeto nacional realizado "de cima para baixo", por "ferro e sangue", sem o constitucionalismo liberal que o Parlamento de Frankfurt tentara implementar.
-
-**Giuseppe Mazzini** (1805-1872) representou a síntese ideal entre liberalismo e nacionalismo — sua "Jovem Itália" e "Jovem Europa" articulavam autodeterminação nacional com republicanismo democrático e fraternidade entre os povos — mas esse ideal foi progressivamente marginalizado pela *Realpolitik*.
+- **6.2 (Unificações):** O liberalismo e o nacionalismo são as forças ideológicas que impulsionam e moldam as unificações alemã e italiana, mas o fracasso de 1848 demonstra que a via liberal-revolucionária foi substituída pela *Realpolitik* conservadora.
+- **6.3 (Democracia, Fascismo, Comunismo):** O fascismo do século XX pode ser interpretado como a radicalização do nacionalismo étnico-excludente que emergiu no final do XIX, combinado com a crise do liberalismo após 1918.
+- **6.5 (Descolonização):** O princípio da autodeterminação nacional, formulado no contexto europeu, será reapropriado pelos movimentos de libertação do Terceiro Mundo no século XX — com tensões entre nacionalismo cívico e étnico reproduzidas na África e na Ásia.
+- **6.6 (Ordem Liberal Internacional):** A ordem liberal internacional contemporânea tem raízes diretas no liberalismo oitocentista, especialmente na ideia kantiana de "paz perpétua" entre repúblicas liberais e no livre-comércio como promotor de interdependência pacífica.
+- **Política Internacional / Congresso de Viena:** A restauração de 1815 é o antagonista contra o qual liberalismo e nacionalismo se definem; o colapso da ordem de Viena é, em grande medida, obra dessas duas forças.
+- **Direito Internacional Público:** O princípio da autodeterminação dos povos, consagrado nos 14 Pontos de Wilson (1918) e na Carta da ONU, é herdeiro direto do nacionalismo liberal oitocentista.
 
 ---
 
-## Interpretações Historiográficas
+## 🎯 Top 5 — Pontos Mais Cobrados em Provas do CACD
 
-**Eric Hobsbawm** (1917-2012), em *A Era das Revoluções* (1962), *A Era do Capital* (1975) e *Nações e Nacionalismo desde 1780* (1990), interpreta o liberalismo e o nacionalismo como expressões ideológicas da "dupla revolução" — industrial (britânica) e política (francesa) — que transformou o mundo moderno. Para Hobsbawm, o nacionalismo é uma construção política moderna, não a expressão de identidades primordiais, e foi instrumentalizado pelas elites burguesas para legitimar novos arranjos de poder.
+1. **Distinção entre liberalismo e democracia:** O liberalismo oitocentista era frequentemente antidemocrático (sufrágio censitário, medo da "tirania da maioria"). A democratização foi uma conquista *contra* o liberalismo clássico, não sua extensão natural.
 
-**Benedict Anderson** (1936-2015), em *Comunidades Imaginadas* (1983), propôs que as nações são "comunidades imaginadas" — não porque sejam fictícias, mas porque seus membros jamais conhecerão pessoalmente a maioria de seus compatriotas, dependendo de mecanismos de representação (imprensa, literatura, censos, mapas, museus) para conceber a comunidade nacional. O "capitalismo de imprensa" (*print-capitalism*) foi central nesse processo, ao criar comunidades de leitores em línguas vernáculas.
+2. **1848 como ponto de inflexão:** A Primavera dos Povos marca a convergência máxima e o subsequente divórcio entre liberalismo e nacionalismo. Após 1848, o nacionalismo pode ser conservador, autoritário e imperial.
 
-**Ernest Gellner** (1925-1995), em *Nações e Nacionalismo* (1983), vinculou o nacionalismo à modernização industrial: sociedades agrárias toleravam diversidade cultural interna, mas a industrialização exigia homogeneidade cultural (educação padronizada, língua comum, mobilidade social) que apenas o Estado-nação podia fornecer. O nacionalismo, portanto, não é o despertar de nações adormecidas, mas a invenção de nações onde antes não existiam.
+3. **Nacionalismo cívico vs. étnico:** A distinção entre o modelo francês (nação como vontade política, *jus soli*) e o modelo alemão (nação como comunidade étnico-linguística, *jus sanguinis*) é fundamental e tem implicações que atravessam todo o edital.
 
-**Anthony Smith** (1939-2016), em contrapartida, defendeu o "etno-simbolismo": embora as nações modernas sejam construções, elas se baseiam em *ethnies* (comunidades étnicas pré-modernas) com mitos, símbolos e memórias de longa duração. O nacionalismo não inventa do nada — ele reelabora materiais culturais preexistentes.
+4. **Papel da industrialização:** A Revolução Industrial é condição material para ambos os movimentos — cria a burguesia liberal e os mercados nacionais. O *Zollverein* como exemplo paradigmático da convergência entre interesses econômicos e projeto nacional.
 
-Na perspectiva da prova do CACD, é fundamental articular o liberalismo e o nacionalismo do século XIX como antecedentes das dinâmicas políticas contemporâneas: o liberalismo como fundamento dos regimes democráticos e do direito internacional dos direitos humanos; o nacionalismo como força que tanto emancipou povos quanto alimentou imperialismos e conflitos étnicos.
-
----
-
-## Conexões com Outros Temas
-
-- **Congresso de Viena e Sistema de Concerto Europeu** (Cap. 3): O sistema que liberalismo e nacionalismo buscaram subverter.
-- **Revoluções Industriais** (Cap. 5): Base material da ascensão burguesa e das demandas liberais por representação política.
-- **Unificação Alemã e Italiana** (6.2): Concretização — e transformação — do nacionalismo do século XIX.
-- **Imperialismo** (Cap. 4/7.2): O nacionalismo de potência como motor da expansão colonial.
-- **Democratização e Ideologias do Século XX** (6.3): O destino do liberalismo e do nacionalismo no pós-1918.
-- **Romantismo** (7.1): Expressão cultural do nacionalismo e da subjetividade contra o racionalismo iluminista.
-- **Autodeterminação dos Povos** (Cap. 3/9): O princípio wilsoniano como herdeiro da tradição nacionalista.
-- **Novo Nacionalismo e Fundamentalismo** (6.5): Ressurgência contemporânea de formas de nacionalismo excludente.
+5. **Autodeterminação e sistema internacional:** O princípio das nacionalidades é intrinsecamente desestabilizador para impérios multiétnicos e para a ordem de equilíbrio de poder. Compreender essa tensão é essencial para entender desde o colapso da ordem de Viena até a fragmentação da Iugoslávia.
 
 ---
 
-## 🎯 Top 5 — O que Não Pode Faltar na Prova
-
-1. **Dualidade liberalismo-nacionalismo**: Inicialmente aliados contra o Antigo Regime, divergem quando o nacionalismo subordina direitos individuais à comunidade nacional orgânica. A convergência foi máxima em 1848; a divergência, na *Realpolitik* bismarckiana.
-
-2. **Concepções de nação**: Distinguir a vertente cívico-voluntarista (Renan — "plebiscito cotidiano") da étnico-cultural (Herder — *Volksgeist*). Anderson ("comunidades imaginadas"), Gellner (nacionalismo como produto da modernização) e Hobsbawm (construção política) são referências obrigatórias.
-
-3. **Ondas revolucionárias (1820/1830/1848)**: A Primavera dos Povos (1848) é o evento-chave — seu fracasso revelou as contradições internas entre liberalismo, nacionalismo e questões sociais, e abriu caminho para a *Realpolitik* da segunda metade do século.
-
-4. **Pensadores liberais essenciais**: Locke (direitos naturais), Constant (liberdade dos modernos vs. antigos), Tocqueville (tirania da maioria), Mill (princípio do dano). Saber articulá-los cronológica e tematicamente.
-
-5. **Transformação do nacionalismo**: De força emancipatória e liberal (primeira metade do XIX) para nacionalismo de potência, imperialismo e chauvinismo (segunda metade do XIX) — essa metamorfose é central para compreender o imperialismo e as guerras mundiais.
-
----
-
-*Arquivo gerado para o ciclo CACD 2026 — História Mundial, Cap. 6.1*
+*Resumo elaborado para o CACD 2026 — Capítulo 6: Ideias e Regimes Políticos*
