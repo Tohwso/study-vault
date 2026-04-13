@@ -1,17 +1,29 @@
-/* Study Vault — Collapse navigation by default */
+/* Study Vault — Collapse navigation by default at discipline level */
 
-/* Hide all nested navigation lists initially */
-.md-nav__item--nested > .md-nav {
-  display: none;
+/* 
+ * MkDocs Material uses max-height transitions for nav collapse.
+ * We override the initial state to collapsed, letting the native
+ * toggle mechanism handle expand/collapse with proper reflow.
+ */
+
+/* Level 1: Discipline sections (História Mundial, Economia) — collapsed by default */
+.md-nav--primary > .md-nav__list > .md-nav__item--nested > .md-nav {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.3s ease, opacity 0.2s ease;
 }
 
-/* Show nested nav when the toggle checkbox is checked (user clicked to expand) */
-.md-nav__item--nested > .md-nav__toggle:checked ~ .md-nav {
-  display: block;
+/* Expand when user clicks the toggle */
+.md-nav--primary > .md-nav__list > .md-nav__item--nested > .md-nav__toggle:checked ~ .md-nav {
+  max-height: none;
+  overflow: visible;
+  opacity: 1;
 }
 
-/* Also show when the section contains the active page */
-.md-nav__item--nested .md-nav__item--active ~ .md-nav,
-.md-nav__item--nested:has(.md-nav__link--active) > .md-nav {
-  display: block;
+/* Also expand when the section contains the active page */
+.md-nav--primary > .md-nav__list > .md-nav__item--nested:has(.md-nav__link--active) > .md-nav {
+  max-height: none;
+  overflow: visible;
+  opacity: 1;
 }
