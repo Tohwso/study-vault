@@ -1,5 +1,5 @@
 ---
-título: O Pan-Americanismo
+título: O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo
 capítulo: 5 – A Evolução Política e Econômica nas Américas
 subcapítulo: 5.5
 disciplina: História Mundial
@@ -11,11 +11,15 @@ tags:
   - conferências-interamericanas
   - cooperação-hemisférica
   - relações-EUA-América-Latina
+  - Blaine
+  - Bolívar
+  - Boa-Vizinhança
+  - Chapultepec
 status: completo
 última_revisão: 2025-07-14
 ---
 
-# 5.5 – O Pan-Americanismo
+# 5.5 – O Pan-Americanismo; Conferências Pan-Americanas; O Bolivarianismo
 
 > **Referência**: CACD 2026 — História Mundial, Capítulo 5, item 5.5
 > **Status**: ✅ Completo
@@ -35,11 +39,11 @@ status: completo
 
 ## Contexto Histórico
 
-O pan-americanismo designa o conjunto de ideias, movimentos e instituições que buscam promover a cooperação, a solidariedade e a integração entre os Estados do continente americano. Longe de ser uma doutrina unitária, o pan-americanismo encerra uma tensão constitutiva entre duas visões radicalmente distintas: o **bolivarianismo** — ideal de solidariedade e unidade latino-americana, com raízes nas lutas de independência — e o **pan-americanismo monroísta** — projeto de cooperação hemisférica liderado e instrumentalizado pelos Estados Unidos.
+O pan-americanismo designa o conjunto de ideias, movimentos e instituições que buscam promover cooperação, solidariedade e integração entre os Estados do continente americano. Longe de ser uma doutrina unitária, o pan-americanismo encerra uma tensão constitutiva entre duas visões radicalmente distintas: o **bolivarianismo** — ideal de solidariedade e unidade latino-americana, com raízes nas lutas de independência do início do século XIX — e o **pan-americanismo monroísta** — projeto de cooperação hemisférica liderado e instrumentalizado pelos Estados Unidos a partir do final daquele século. Essa tensão é estruturante e atravessa toda a história do movimento: desde o **Congresso do Panamá (1826)** até a criação da OEA (1948) e os foros do século XXI, o pan-americanismo foi simultaneamente espaço de **cooperação genuína** e **instrumento de hegemonia**.
 
-Essa tensão é estruturante: desde o **Congresso do Panamá (1826)** até a criação da OEA (1948) e além, o pan-americanismo foi simultaneamente um espaço de **cooperação genuína** e um **instrumento de hegemonia**. Compreender essa dualidade é essencial para o CACD.
+As raízes do pan-americanismo remontam ao período das independências hispano-americanas (c. 1810-1825). **Simón Bolívar** — libertador da Venezuela, Colômbia, Equador, Peru e Bolívia — foi o primeiro articulador da ideia de unidade continental. Na célebre **Carta da Jamaica (1815)**, Bolívar propôs uma confederação de repúblicas hispano-americanas, com capital no istmo do Panamá, que coordenaria defesa mútua, resolução de conflitos e política externa comum. Seu projeto era explicitamente **latino-americano**, não hemisférico: excluía os Estados Unidos (república anglo-saxônica cujas ambições Bolívar desconfiava) e o Brasil (monarquia sob os Bragança), e visava a proteção coletiva contra a ameaça europeia de reconquista — particularmente da Santa Aliança — e, implicitamente, contra a ambição expansionista americana que já se insinuava.
 
-As raízes do pan-americanismo remontam ao período das independências latino-americanas. **Simón Bolívar** — libertador da Venezuela, Colômbia, Equador, Peru e Bolívia — foi o primeiro grande articulador da ideia de unidade continental. Bolívar concebia uma anfictionia americana — uma liga de repúblicas hispano-americanas que coordenaria defesa, resolução de conflitos e política externa. Seu projeto era explicitamente **latino-americano**, não pan-americano: excluía os Estados Unidos e o Brasil (monarquia) e visava a proteção coletiva contra a ameaça europeia e, implicitamente, contra a ambição americana.
+O contexto geopolítico era propício à solidariedade mas hostil à organização. As novas repúblicas hispano-americanas, fragmentadas pela geografia, por rivalidades regionais e por guerras civis, careciam de infraestrutura, comunicação e estabilidade para sustentar uma liga permanente. O modelo federativo bolivariano — uma anfictionia inspirada na Liga de Delos e no Congresso de Viena — era ambicioso demais para as condições materiais da América Latina pós-colonial. Ainda assim, o ideal bolivariano permaneceu como horizonte normativo, invocado periodicamente ao longo de dois séculos por movimentos que buscam articular a autonomia latino-americana frente às potências hegemônicas.
 
 ---
 
@@ -47,113 +51,105 @@ As raízes do pan-americanismo remontam ao período das independências latino-a
 
 ### O Congresso do Panamá (1826) e os Congressos Hispano-Americanos
 
-O **Congresso do Panamá (1826)**, convocado por Bolívar, foi a primeira tentativa concreta de cooperação continental. Participaram delegados da Grã-Colômbia, Peru, México e América Central. Os EUA foram convidados (contra a vontade de Bolívar), mas seus delegados não chegaram a tempo — um morreu em trânsito, o outro atrasou-se. O Brasil, monarquia, não participou ativamente.
+O **Congresso do Panamá (22 de junho a 15 de julho de 1826)**, convocado por Bolívar, foi a primeira tentativa concreta de cooperação continental. Participaram delegados da **Grã-Colômbia** (Venezuela, Colômbia e Equador), **Peru**, **México** e **América Central** (Províncias Unidas da América Central). Os EUA foram convidados — contra a vontade de Bolívar, por insistência de Santander, vice-presidente da Grã-Colômbia —, mas seus delegados não chegaram a tempo: um morreu em trânsito, o outro atrasou-se deliberadamente. O Brasil Imperial, monarquia luso-americana, não participou ativamente, embora tenha enviado observador. A Grã-Bretanha e os Países Baixos enviaram observadores.
 
-O Congresso produziu um **Tratado de União, Liga e Confederação Perpétua**, mas ele nunca foi ratificado (apenas a Grã-Colômbia o ratificou). Os princípios discutidos — defesa coletiva, mediação de conflitos, abolição do tráfico de escravos — eram progressistas para a época, mas as rivalidades entre os novos estados, a fragmentação da Grã-Colômbia e a incapacidade de materializar a cooperação condenaram o projeto.
+O Congresso produziu um **Tratado de União, Liga e Confederação Perpétua**, com dispositivos sobre defesa coletiva, contribuição proporcional de forças armadas, mediação obrigatória de conflitos entre membros e reuniões bienais da assembleia. Contudo, o tratado **nunca entrou em vigor** — apenas a Grã-Colômbia o ratificou. Os princípios discutidos — abolição do tráfico de escravos, proteção dos direitos dos beligerantes, arbitragem — eram avançados para a época, mas as rivalidades entre os novos estados, a fragmentação da Grã-Colômbia (1830), a instabilidade crônica e a incapacidade de materializar compromissos condenaram o projeto à inefetividade prática.
 
-Congressos subsequentes — **Lima (1847-48)**, **Santiago (1856)**, **Lima (1864-65)** — foram convocados em resposta a ameaças europeias específicas (intervenção espanhola nas Ilhas Chincha, aventura de William Walker na Nicarágua). Esses congressos reafirmaram princípios de solidariedade, mas não produziram mecanismos institucionais efetivos. Permaneciam exclusivamente **hispano-americanos**, sem participação dos EUA ou do Brasil.
+Congressos subsequentes mantiveram o caráter exclusivamente **hispano-americano**: **Lima (1847-48)**, convocado em resposta a ameaças europeias e ao intervencionismo de Juan José Flores no Equador; **Santiago (1856)**, motivado pela aventura filibusteira de **William Walker** na Nicarágua e pela ameaça expansionista americana; **Lima (1864-65)**, em reação à reocupação espanhola das **Ilhas Chincha** no Peru e ao bombardeio de Valparaíso. Esses congressos reafirmaram princípios de solidariedade e defesa mútua, mas não produziram mecanismos institucionais efetivos. Permaneciam **sem participação dos EUA e do Brasil**, e revelavam a dificuldade estrutural da América Hispânica em traduzir solidariedade retórica em cooperação operacional.
 
 ### A Virada: O Pan-Americanismo Liderado pelos EUA
 
-A transformação do pan-americanismo — de projeto latino-americano para instrumento hemisférico sob liderança americana — ocorreu nas últimas décadas do século XIX. O secretário de Estado **James G. Blaine** foi o articulador dessa reorientação.
+A transformação do pan-americanismo — de projeto latino-americano para instrumento hemisférico sob liderança americana — ocorreu nas últimas décadas do século XIX. O secretário de Estado **James G. Blaine**, sob as administrações Garfield (1881) e Harrison (1889-93), foi o articulador dessa reorientação.
 
-Os EUA, em fase de rápida industrialização após a Guerra Civil, buscavam mercados para seus produtos manufaturados e acesso privilegiado a matérias-primas latino-americanas. O pan-americanismo tornava-se funcional para os interesses econômicos americanos: criar uma esfera de influência comercial que rivalizasse com a presença europeia (especialmente britânica) na região.
+Os EUA, em fase de rápida industrialização após a Guerra Civil (1861-65), buscavam mercados para seus produtos manufaturados e acesso privilegiado a matérias-primas latino-americanas. A revolução industrial americana gerou excedentes produtivos que o mercado doméstico não absorvia. O pan-americanismo tornava-se funcional para os interesses econômicos americanos: criar uma esfera de influência comercial que rivalizasse com a predominância europeia — especialmente britânica — na região. Blaine concebia o pan-americanismo como política de portas abertas hemisférica, espelhando a Open Door Policy que os EUA promoveriam na China.
+
+A primeira tentativa de Blaine (1881-82) fracassou pela instabilidade política americana (assassinato de Garfield) e pela **Guerra do Pacífico** (1879-83) entre Chile, Peru e Bolívia, que tornava a mediação americana inaplicável. Mas Blaine retomou o projeto em 1888-89, com respaldo do Congresso americano.
 
 ### A Primeira Conferência Pan-Americana (Washington, 1889-1890)
 
-A **Primeira Conferência Internacional Americana** reuniu 18 países (todos os estados independentes das Américas) em Washington, sob a presidência de Blaine. A agenda era explicitamente comercial: Blaine propôs a criação de uma **união aduaneira pan-americana** e de um sistema de arbitragem obrigatória para conflitos comerciais.
+A **Primeira Conferência Internacional Americana** reuniu **18 países** — todos os estados independentes das Américas — em Washington, de outubro de 1889 a abril de 1890, sob a presidência de Blaine. A conferência foi precedida por uma excursão de seis semanas dos delegados por cidades industriais americanas — vitrine deliberada do poderio econômico dos EUA.
 
-A proposta de união aduaneira foi **rechaçada** pela maioria dos países latino-americanos — particularmente pela Argentina, representada pelo delegado **Roque Sáenz Peña**, que se opôs ao projeto com a célebre frase: *"América para a humanidade"* (contrapondo-se ao "América para os americanos" de Monroe). Os latino-americanos temiam que uma união aduaneira significasse subordinação econômica aos EUA e ruptura dos laços comerciais com a Europa.
+A agenda era explicitamente comercial: Blaine propôs a criação de uma **união aduaneira pan-americana**, um sistema de arbitragem obrigatória para conflitos comerciais e a adoção de pesos, medidas e moedas comuns. A proposta de união aduaneira foi **rechaçada** pela maioria dos países latino-americanos — particularmente pela **Argentina**, representada pelo delegado **Roque Sáenz Peña**, que se opôs ao projeto com a célebre frase: *"América para a humanidade"* — contraponto ao "América para os americanos" da Doutrina Monroe. A Argentina, cujo principal parceiro comercial era a Grã-Bretanha, temia que uma união aduaneira significasse subordinação econômica aos EUA e ruptura dos laços comerciais transatlânticos. Chile, Brasil e outros países compartilhavam a preocupação.
 
-A conferência produziu resultados limitados, mas significativos: a criação da **União Internacional das Repúblicas Americanas** (precursora da União Pan-Americana e, depois, da OEA), com sede em Washington, e um escritório comercial que compilaria dados sobre comércio hemisférico. O **Bureau Comercial das Repúblicas Americanas** — mais tarde renomeado **União Pan-Americana (1910)** — tornou-se o embrião institucional do sistema interamericano.
+A conferência produziu resultados limitados mas institucionalmente significativos: a criação da **União Internacional das Repúblicas Americanas**, com um Bureau Comercial sediado em Washington, encarregado de compilar e disseminar informações sobre comércio hemisférico. Esse Bureau — renomeado **União Pan-Americana** em 1910, com sede em edifício doado por **Andrew Carnegie** — tornou-se o embrião institucional do sistema interamericano e, eventualmente, o secretariado da OEA.
 
 ### As Conferências Pan-Americanas Subsequentes (1901-1938)
 
-O sistema de conferências pan-americanas regulares tornou-se a espinha dorsal da cooperação hemisférica. As principais:
+O ciclo de conferências regulares tornou-se a espinha dorsal da cooperação hemisférica, com periodicidade aproximadamente quinquenal. As conferências evoluíram de foros predominantemente comerciais para arenas de debate jurídico e político:
 
-- **Segunda Conferência (Cidade do México, 1901-02)**: Discussão sobre arbitragem e adesão à Convenção de Haia.
+**Segunda Conferência (Cidade do México, 1901-02)**: discussão sobre arbitragem internacional, adesão às Convenções de Haia (1899), criação do Tribunal de Arbitragem Pan-Americano. A sombra da Guerra Hispano-Americana (1898) e da Emenda Platt sobre Cuba pesava.
 
-- **Terceira Conferência (Rio de Janeiro, 1906)**: Presidida pelo **Barão do Rio Branco**, marcou a aproximação brasileira com os EUA (a "aliança não-escrita"). O Brasil, maior país da América Latina e com interesses econômicos complementares aos americanos, buscava uma posição privilegiada no sistema interamericano.
+**Terceira Conferência (Rio de Janeiro, 1906)**: presidida pelo **Barão do Rio Branco**, marcou a aproximação formal do Brasil com o sistema pan-americano e com os EUA — a "aliança não-escrita". Rio Branco via na relação privilegiada com Washington um instrumento para consolidar as fronteiras brasileiras e projetar liderança regional. O secretário de Estado Elihu Root visitou o Rio de Janeiro, gesto sem precedentes.
 
-- **Quarta Conferência (Buenos Aires, 1910)**: Reorganização do Bureau como **União Pan-Americana**, com sede no edifício projetado por Andrew Carnegie em Washington. A localização da sede nos EUA era símbolo da liderança americana no sistema.
+**Quarta Conferência (Buenos Aires, 1910)**: reorganização institucional — o Bureau tornou-se a **União Pan-Americana**, com secretário-geral permanente. A localização fixa da sede nos EUA era símbolo e instrumento da liderança americana.
 
-- **Quinta Conferência (Santiago, 1923)**: Discussão sobre desarmamento e direitos das mulheres. Tensões sobre intervencionismo americano (ocupações no Haiti, República Dominicana, Nicarágua).
+**Quinta Conferência (Santiago, 1923)**: debates sobre desarmamento e codificação do direito internacional americano. Crescentes tensões sobre o intervencionismo americano — marines no Haiti (desde 1915), República Dominicana (1916-24) e Nicarágua (desde 1912).
 
-- **Sexta Conferência (Havana, 1928)**: Momento de confronto direto. Os delegados latino-americanos tentaram aprovar uma resolução contra a **intervenção** — os EUA bloquearam. A tensão era máxima: os marines americanos estavam na Nicarágua, e o sentimento anti-americano era forte. O delegado americano Charles Evans Hughes argumentou que "intervenção" era diferente de "interposição" — uma distinção risível para os latino-americanos.
+**Sexta Conferência (Havana, 1928)**: momento de confronto direto. Os delegados latino-americanos, liderados por **Guerrero** (El Salvador) e **Honorio Pueyrredón** (Argentina), tentaram aprovar resolução condenando a **intervenção**. Os EUA, representados por **Charles Evans Hughes**, bloquearam, argumentando que "interposição" para proteger vidas e propriedades não constituía "intervenção" — distinção considerada sofística pela maioria. Os marines americanos estavam na Nicarágua combatendo Sandino; o sentimento anti-americano era intenso.
 
-- **Conferência de Montevidéu (1933)**: Sob a Política da Boa Vizinhança de Franklin D. Roosevelt, os EUA finalmente subscreveram a **Convenção sobre Direitos e Deveres dos Estados**, que incluía o artigo: *"Nenhum Estado tem o direito de intervir nos assuntos internos ou externos de outro"*. O secretário de Estado Cordell Hull aceitou a fórmula (com reservas), marcando a inflexão da Boa Vizinhança. Essa conferência é fundamental para o CACD.
+**Conferência de Montevidéu (1933)**: inflexão histórica. Sob a **Política da Boa Vizinhança** de Franklin D. Roosevelt, os EUA finalmente subscreveram a **Convenção sobre Direitos e Deveres dos Estados**, cujo artigo 8 estabelecia: *"Nenhum Estado tem o direito de intervir nos assuntos internos ou externos de outro."* O secretário de Estado **Cordell Hull** aceitou a fórmula com reservas iniciais, depois abandonadas. Essa conferência é **fundamental para o CACD** — marca a transição do intervencionismo para a não-intervenção como norma hemisférica.
 
-- **Conferência de Buenos Aires (1936)**: Consolidação da Boa Vizinhança. Assinatura de protocolo adicional de não-intervenção, desta vez sem reservas americanas. Discussão sobre consulta coletiva diante de ameaças externas ao hemisfério.
+**Conferência de Buenos Aires (1936)**: consolidação da Boa Vizinhança. Assinatura de **Protocolo Adicional Relativo à Não-Intervenção**, desta vez sem reservas americanas. Aprovação do mecanismo de consulta coletiva diante de ameaças externas ao hemisfério, antecipando a coordenação da Segunda Guerra.
 
-- **Conferência de Lima (1938)**: Adoção da **Declaração de Lima**, que reafirmou a solidariedade continental e estabeleceu o mecanismo de **Reuniões de Consulta dos Ministros de Relações Exteriores** — instrumento que seria crucial durante a Segunda Guerra Mundial.
+**Conferência de Lima (1938)**: diante da ascensão do fascismo na Europa, adoção da **Declaração de Lima**, que reafirmou a solidariedade continental e institucionalizou as **Reuniões de Consulta dos Ministros de Relações Exteriores** — instrumento ativável por qualquer Estado americano quando a paz do hemisfério estivesse ameaçada. Esse mecanismo seria crucial durante a Segunda Guerra Mundial.
 
 ### O Pan-Americanismo na Segunda Guerra Mundial
 
-A guerra testou o sistema interamericano. As **Reuniões de Consulta** — Panamá (1939), Havana (1940), Rio de Janeiro (1942) — coordenaram respostas hemisféricas: declaração de neutralidade, zona de segurança marítima, ruptura de relações com o Eixo (a Argentina resistiu até 1944), cooperação econômica e militar. O sistema funcionou razoavelmente bem, embora sob forte pressão americana. O Brasil enviou a **Força Expedicionária Brasileira (FEB)** à Itália e obteve benefícios econômicos (financiamento da CSN).
+A guerra testou o sistema interamericano de forma decisiva. As **Reuniões de Consulta** coordenaram respostas hemisféricas: **Panamá (1939)** — declaração de neutralidade e criação de uma zona de segurança marítima de 300 milhas em torno das Américas; **Havana (1940)** — princípio da "transferência de soberania" (impedindo que colônias europeias no Caribe passassem para mãos do Eixo, como as Antilhas Holandesas após a ocupação nazista dos Países Baixos); **Rio de Janeiro (1942)** — recomendação de ruptura de relações com o Eixo (a Argentina resistiu até janeiro de 1944, gerando tensão com os EUA).
 
-A **Conferência de Chapultepec (México, 1945)** — Conferência Interamericana sobre Problemas de Guerra e Paz — produziu a **Ata de Chapultepec**, que estabeleceu o princípio de defesa coletiva: uma agressão contra um Estado americano seria considerada agressão contra todos. Este princípio seria formalizado no **TIAR (1947)**.
+A cooperação funcionou razoavelmente bem, embora sob forte pressão americana. O Brasil tornou-se o principal aliado hemisférico: enviou a **Força Expedicionária Brasileira (FEB)** à Itália, cedeu bases no Nordeste para operações aéreas aliadas no Atlântico Sul e obteve em contrapartida financiamento para a siderúrgica de **Volta Redonda (CSN)** e equipamento militar.
 
-### Duas Vertentes do Pan-Americanismo
+A **Conferência de Chapultepec** (Cidade do México, fevereiro-março de 1945) — oficialmente Conferência Interamericana sobre Problemas de Guerra e Paz — produziu a **Ata de Chapultepec**, que estabeleceu o princípio de que uma agressão contra qualquer Estado americano seria considerada **agressão contra todos**, com resposta coletiva proporcional. Esse princípio de defesa coletiva seria formalizado no **TIAR (1947)** e na **Carta da OEA (1948)**. A Ata de Chapultepec é, portanto, o **antecedente imediato** do sistema interamericano do pós-guerra.
 
-É fundamental distinguir analiticamente as duas correntes:
+### Duas Vertentes do Pan-Americanismo: Síntese Analítica
 
-**Pan-americanismo monroísta/estadunidense:**
-- Liderado pelos EUA
-- Hemisférico (inclui EUA e Canadá)
-- Funcional para interesses econômicos e de segurança americanos
-- Institucionalizado na União Pan-Americana → OEA
-- Enfatiza comércio, arbitragem, segurança coletiva
-- A América Latina como esfera de influência
+É fundamental para o CACD distinguir analiticamente as duas correntes:
 
-**Pan-americanismo bolivariano/latino-americano:**
-- Sem liderança dos EUA (frequentemente contra os EUA)
-- Exclusivamente latino-americano
-- Visa solidariedade, defesa mútua contra potências externas
-- Menos institucionalizado, mais ideológico
-- Enfatiza soberania, não-intervenção, identidade cultural
-- Raízes em Bolívar, resgatado por movimentos nacionalistas e, no século XXI, pela ALBA e iniciativas venezuelanas
+**Pan-americanismo monroísta/estadunidense**: liderado pelos EUA; hemisférico (inclui EUA e Canadá); funcional para interesses econômicos e de segurança americanos; institucionalizado na cadeia Bureau → União Pan-Americana → OEA; enfatiza comércio, arbitragem, segurança coletiva; concebe a América Latina como esfera de influência natural; opera pela lógica da hegemonia consensual.
 
-Essa dualidade explica por que o pan-americanismo é simultaneamente elogiado como espaço de cooperação e criticado como instrumento de dominação — porque ele é ambas as coisas.
+**Pan-americanismo bolivariano/latino-americano**: sem liderança dos EUA (frequentemente contra os EUA); exclusivamente latino-americano; visa solidariedade, defesa mútua contra potências externas (inicialmente europeias, depois os próprios EUA); menos institucionalizado, mais ideológico e mobilizador; enfatiza soberania, não-intervenção, autodeterminação e identidade cultural compartilhada; raízes em Bolívar, resgatado periodicamente — por **José Martí** (Nuestra América, 1891), pelos movimentos nacionalistas do século XX, e no século XXI pela **ALBA** (Alternativa Bolivariana para as Américas, 2004) e iniciativas venezuelanas de Hugo Chávez.
+
+Essa dualidade explica por que o pan-americanismo é simultaneamente elogiado como espaço de cooperação e criticado como instrumento de dominação — porque ele é, historicamente, ambas as coisas, dependendo da perspectiva e do período.
 
 ---
 
 ## Interpretações Historiográficas e Perspectivas Analíticas
 
-1. **Perspectiva institucionalista-liberal**: O pan-americanismo representa a construção progressiva de normas e instituições de cooperação hemisférica. Apesar das assimetrias de poder, o sistema interamericano produziu conquistas reais: codificação do direito internacional, princípios de não-intervenção, resolução pacífica de controvérsias, proteção de direitos humanos. Autores: Gordon Connell-Smith, Tom Farer.
+1. **Perspectiva institucionalista-liberal**: O pan-americanismo representa a construção progressiva de normas e instituições de cooperação hemisférica. Apesar das assimetrias de poder, o sistema interamericano produziu conquistas reais: codificação do direito internacional americano, consagração dos princípios de não-intervenção e igualdade jurídica dos Estados, mecanismos de resolução pacífica de controvérsias, e, mais tarde, sistema interamericano de proteção dos direitos humanos. Autores: Gordon Connell-Smith (*The Inter-American System*), Tom Farer, Heraldo Muñoz.
 
-2. **Perspectiva crítica/dependentista**: O pan-americanismo é a expressão institucional da hegemonia dos EUA sobre a América Latina — uma forma de "imperialismo consensual" que legitima a dominação. A assimetria de poder torna a "cooperação" ilusória. Autores: Atilio Borón, Samuel Pinheiro Guimarães.
+2. **Perspectiva crítica/dependentista**: O pan-americanismo é a expressão institucional da hegemonia dos EUA sobre a América Latina — forma de "imperialismo consensual" que legitima a dominação ao conferir roupagem multilateral a decisões unilaterais. A assimetria de poder torna a "cooperação" ilusória: o Bureau/União Pan-Americana foi historicamente dirigido por americanos, sediado em Washington e financiado majoritariamente pelos EUA. Autores: Atilio Borón, Samuel Pinheiro Guimarães (*Quinhentos anos de periferia*), Juan Carlos Puig.
 
-3. **Perspectiva realista**: O pan-americanismo reflete o equilíbrio de poder hemisférico. Os EUA o instrumentalizam quando é funcional; os latino-americanos o utilizam para limitar o unilateralismo americano quando possível. É um jogo de poder, não de ideais. Autores: Robert Pastor, Abraham Lowenthal.
+3. **Perspectiva realista**: O pan-americanismo reflete o equilíbrio de poder hemisférico. Os EUA o instrumentalizam quando funcional; os latino-americanos o utilizam para limitar o unilateralismo americano quando possível — como em Montevidéu (1933) e na codificação do princípio de não-intervenção. É um jogo de poder revestido de instituições, não de ideais puros. Autores: Robert Pastor, Abraham Lowenthal, Gaddis Smith.
 
-4. **Perspectiva brasileira**: O Brasil historicamente ocupou uma posição ambígua no pan-americanismo — nem totalmente alinhado com os EUA, nem integrado à solidariedade hispano-americana. Rio Branco buscou usar a relação privilegiada com Washington para consolidar fronteiras e projetar liderança regional. O Brasil transitou entre pan-americanismo e latino-americanismo conforme seus interesses. A criação da UNASUL e a participação na CELAC refletem tentativas de articular uma agenda própria.
+4. **Perspectiva brasileira**: O Brasil ocupou historicamente posição ambígua no pan-americanismo — nem totalmente alinhado com os EUA, nem integrado à solidariedade hispano-americana (barreira linguística, herança monárquica, dimensão continental). Rio Branco instrumentalizou a relação privilegiada com Washington para consolidar fronteiras e projetar liderança regional. Ao longo do século XX, o Brasil oscilou entre pan-americanismo e latino-americanismo conforme seus interesses: aliança com EUA no pós-guerra, Política Externa Independente (Quadros/Goulart, 1961-64), pragmatismo responsável (Geisel, 1974-79), e articulação de foros exclusivamente sul-americanos (UNASUL, CELAC) no século XXI.
 
 ---
 
 ## Conexões com Outros Temas
 
-- **Doutrina Monroe (5.4)**: O pan-americanismo monroísta é a face multilateral da Doutrina Monroe. Onde a Monroe é unilateral e impositiva, o pan-americanismo busca legitimidade coletiva para a liderança americana — ou, na perspectiva latino-americana, busca multilateralizar (e limitar) o unilateralismo.
+- **Doutrina Monroe (5.4)**: O pan-americanismo monroísta é a face multilateral da Doutrina Monroe. Onde a Monroe é unilateral e impositiva, o pan-americanismo busca legitimidade coletiva para a liderança americana — ou, na perspectiva latino-americana, busca multilateralizar e, portanto, limitar o unilateralismo. A evolução da Monroe ao pan-americanismo institucional é uma linha contínua.
 
-- **OEA e TIAR (5.6)**: A OEA é a institucionalização do sistema pan-americano. Os debates das conferências pan-americanas (não-intervenção, defesa coletiva, arbitragem) foram codificados na Carta da OEA e no TIAR.
+- **OEA e TIAR (5.6)**: A OEA é a institucionalização definitiva do sistema pan-americano. Os debates das conferências (não-intervenção, defesa coletiva, arbitragem, igualdade jurídica) foram codificados na Carta da OEA e no TIAR. A OEA herda as contradições do pan-americanismo: instrumento de cooperação e de hegemonia.
 
-- **Experiências de integração (5.7)**: O pan-americanismo é o antecedente ideológico e institucional dos processos de integração regional. Mas a integração latino-americana (MERCOSUL, CAN, UNASUL) frequentemente se define em contraposição ao pan-americanismo liderado pelos EUA.
+- **Experiências de integração (5.7)**: O pan-americanismo é o antecedente ideológico e institucional dos processos de integração regional. Mas a integração latino-americana (ALALC, MERCOSUL, CAN, UNASUL) frequentemente se define em contraposição ao pan-americanismo liderado pelos EUA, retomando a lógica bolivariana de autonomia regional.
 
-- **Identidades nacionais (5.3)**: O pan-americanismo coexiste tensamente com os nacionalismos latino-americanos. A tensão entre cooperação hemisférica e soberania nacional é constitutiva do sistema interamericano.
+- **Identidades nacionais na América Latina (5.3)**: O pan-americanismo coexiste tensamente com os nacionalismos latino-americanos. A tensão entre cooperação hemisférica e soberania nacional é constitutiva do sistema interamericano e se manifesta em cada conferência.
 
-- **Política externa brasileira**: A posição do Brasil no sistema pan-americano — entre aliança com os EUA e liderança regional — é tema recorrente no CACD.
+- **Política externa brasileira**: A posição do Brasil no sistema pan-americano — entre aliança privilegiada com os EUA (Rio Branco, Dutra) e liderança regional autônoma (Geisel, Lula) — é tema recorrente no CACD e atravessa a história diplomática brasileira.
 
 ---
 
 ## 🎯 Top 5 – Pontos Mais Cobrados em Provas
 
-1. **Congresso do Panamá (1826)**: Convocado por Bolívar, caráter hispano-americano (exclusão dos EUA na intenção original), resultados limitados mas simbolicamente fundacionais, projeto de anfictionia americana.
+1. **Congresso do Panamá (1826)**: Convocado por Bolívar, caráter hispano-americano (exclusão intencional dos EUA por Bolívar), Tratado de União nunca ratificado, resultados limitados mas simbolicamente fundacionais, projeto de anfictionia americana como antecedente do multilateralismo regional.
 
-2. **Primeira Conferência Pan-Americana (1889-90)**: Liderança de Blaine, proposta de união aduaneira rechaçada, oposição argentina (Sáenz Peña — "América para a humanidade"), criação do Bureau/União Internacional.
+2. **Primeira Conferência Pan-Americana (Washington, 1889-90)**: Liderança de Blaine, agenda comercial (proposta de união aduaneira rechaçada), oposição argentina de Sáenz Peña — *"América para a humanidade"* —, criação do Bureau/União Internacional, virada do pan-americanismo de latino-americano para hemisférico sob liderança dos EUA.
 
-3. **Dualidade bolivarianismo vs. monroísmo**: Duas vertentes do pan-americanismo (latino-americano vs. hemisférico/liderado pelos EUA), tensões constitutivas, manifestações em conferências e instituições.
+3. **Dualidade bolivarianismo vs. monroísmo**: Duas vertentes constitutivas do pan-americanismo — projeto de autonomia latino-americana (Bolívar, Martí) versus projeto de hegemonia hemisférica (Blaine, Monroe) —, tensões manifestas em cada conferência, reverberações no século XXI (ALBA vs. OEA).
 
-4. **Conferência de Montevidéu (1933)**: Boa Vizinhança, Convenção sobre Direitos e Deveres dos Estados, princípio de não-intervenção aceito pelos EUA, significado histórico da inflexão.
+4. **Conferência de Montevidéu (1933)**: Boa Vizinhança de FDR, Convenção sobre Direitos e Deveres dos Estados, princípio de não-intervenção aceito pelos EUA (art. 8), significado histórico da inflexão — de intervencionismo a não-intervenção como norma hemisférica.
 
-5. **Ata de Chapultepec (1945)**: Princípio de defesa coletiva hemisférica, antecedente direto do TIAR (1947), transição do sistema pan-americano para o sistema interamericano do pós-guerra.
+5. **Ata de Chapultepec (1945)**: Princípio de defesa coletiva hemisférica (agressão contra um = agressão contra todos), antecedente direto do TIAR (1947) e da Carta da OEA (1948), transição do sistema pan-americano para o sistema interamericano institucionalizado do pós-guerra.
 
 ---
 

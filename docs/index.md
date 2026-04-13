@@ -31,4 +31,4 @@ Estes resumos são **material de apoio**, não substituem a leitura das obras de
 
 ---
 
-*Gerado com auxílio de IA. Última atualização: Julho 2026.*
+*Gerado com auxílio de IA. Última atualização: Abril 2026.*

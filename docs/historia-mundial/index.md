@@ -126,4 +126,4 @@
 
 ---
 
-*Última atualização: Julho 2026*
+*Última atualização: Abril 2026*
