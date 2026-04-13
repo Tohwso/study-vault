@@ -123,7 +123,7 @@ Análise dos efeitos de **choques exógenos** sobre o equilíbrio:
 
 ### 3.1 Taxonomia de Paul Samuelson e Richard Musgrave
 
-A economista **Paul Samuelson** (1954) e **Richard Musgrave** classificaram bens segundo dois critérios:
+O economista **Paul Samuelson** (1954) e **Richard Musgrave** classificaram bens segundo dois critérios:
 
 | Critério | Definição |
 |---|---|

@@ -33,7 +33,7 @@ status: completo
 
 **Adam Smith:** divisão do trabalho → especialização → aumento de produtividade → crescimento. O mercado ampliado (divisão do trabalho é limitada pela extensão do mercado) é motor do crescimento via comércio.
 
-**Thomas Malthus:** crescimento econômico tende a ser anulado pelo crescimento populacional — qualquer elevação de renda acima do nível de subsistência estimula aumento populacional que reconduzie renda ao mínimo (armadilha malthusiana). Suposto antes da Revolução Industrial ter elevado a produtividade suficientemente.
+**Thomas Malthus:** crescimento econômico tende a ser anulado pelo crescimento populacional — qualquer elevação de renda acima do nível de subsistência estimula aumento populacional que reconduz a renda ao mínimo (armadilha malthusiana). Hipótese válida antes de a Revolução Industrial ter elevado a produtividade o suficiente para romper essa armadilha.
 
 **David Ricardo:** rendimentos decrescentes na agricultura → lucros tendem a zero com o tempo → estagnação econômica (estado estacionário).
 

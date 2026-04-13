@@ -89,7 +89,7 @@ Inclui **pagamento de juros** sobre a dívida. É o conceito mais frequentemente
 
 ### 3.2 Déficit Primário
 
-$$\text{Resultado Primário} = \text{Receitas Totais} - \text{Gastos Totais \textbf{excluindo juros}}$$
+$$\text{Resultado Primário} = \text{Receitas Totais} - \text{Gastos Totais (excluindo juros)}$$
 
 Mede a capacidade do governo de gerar recursos para cobrir o custo da dívida. **Superávit primário** → governo não necessita de novos empréstimos para cobrir gastos correntes.
 
