@@ -257,6 +257,19 @@ nav:
       - historia-do-brasil/10-09-brasil-na-onu.md
     - 11. Impactos Tecnológicos e Digitais:
       - historia-do-brasil/11-01-impactos-tecnologicos-e-digitais.md
+  - Língua Portuguesa:
+    - Visão Geral: lingua-portuguesa/index.md
+    - 1. Modalidade Culta:
+      - lingua-portuguesa/01-01-sistema-grafico.md
+      - lingua-portuguesa/01-02-morfossintaxe.md
+      - lingua-portuguesa/01-03-semantica.md
+      - lingua-portuguesa/01-04-vocabulario.md
+    - 2. Leitura e Produção de Textos:
+      - lingua-portuguesa/02-01-compreensao-e-interpretacao.md
+      - lingua-portuguesa/02-02-linguistica-e-estilistica.md
+      - lingua-portuguesa/02-03-redacao-dissertativa.md
+      - lingua-portuguesa/02-04-defeitos-de-conteudo.md
+      - lingua-portuguesa/02-05-vicios-de-linguagem.md
   - Direito:
     - Visão Geral: direito/index.md
     - 1. Teoria Geral do Direito e Direito Constitucional:

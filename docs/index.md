@@ -17,6 +17,7 @@ Transformar a bibliografia obrigatória do edital em **resumos densos, estrutura
 | [Geografia](geografia/index.md) | 7 | 22 | ✅ Completo |
 | [Direito](direito/index.md) | 9 | 35 | ✅ Completo |
 | [História do Brasil](historia-do-brasil/index.md) | 11 | 52 | ✅ Completo |
+| [Língua Portuguesa](lingua-portuguesa/index.md) | 2 | 9 | ✅ Completo |
 
 ## 🧠 Como usar
 
