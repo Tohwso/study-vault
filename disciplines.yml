@@ -1,0 +1,28 @@
+# Configuração de disciplinas do Study Vault
+# status: ativo | inativo
+# Disciplinas inativas não aparecem no site (nav, index, build)
+
+disciplinas:
+  - dir: historia-mundial
+    titulo: História Mundial
+    status: ativo
+
+  - dir: economia
+    titulo: Economia
+    status: ativo
+
+  - dir: geografia
+    titulo: Geografia
+    status: ativo
+
+  - dir: historia-do-brasil
+    titulo: História do Brasil
+    status: ativo
+
+  - dir: lingua-portuguesa
+    titulo: Língua Portuguesa
+    status: inativo
+
+  - dir: direito
+    titulo: Direito
+    status: ativo

@@ -61,6 +61,9 @@ extra_javascript:
 extra_css:
   - stylesheets/nav-collapse.css
 
+hooks:
+  - hooks/filter_nav.py
+
 nav:
   - Home: index.md
   - História Mundial:
