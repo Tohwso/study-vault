@@ -21,6 +21,11 @@
   opacity: 1;
 }
 
+/* Spacing between top-level discipline items when collapsed */
+.md-nav--primary > .md-nav__list > .md-nav__item--nested {
+  margin-top: 5px;
+}
+
 /* Also expand when the section contains the active page */
 .md-nav--primary > .md-nav__list > .md-nav__item--nested:has(.md-nav__link--active) > .md-nav {
   max-height: none;
