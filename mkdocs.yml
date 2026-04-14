@@ -192,6 +192,71 @@ nav:
       - geografia/07-01-meio-ambiente-nas-relacoes-internacionais.md
       - geografia/07-02-biomas-dominios-e-ecossistemas-brasileiros.md
       - geografia/07-03-politica-e-gestao-ambiental-no-brasil.md
+  - História do Brasil:
+    - Visão Geral: historia-do-brasil/index.md
+    - 1. O Período Colonial:
+      - historia-do-brasil/01-01-configuracao-territorial.md
+      - historia-do-brasil/01-02-dimensoes-economicas-e-sociais.md
+    - 2. O Processo de Independência:
+      - historia-do-brasil/02-01-movimentos-emancipacionistas.md
+      - historia-do-brasil/02-02-situacao-politica-e-economica-europeia.md
+      - historia-do-brasil/02-03-brasil-sede-do-estado-monarquico.md
+      - historia-do-brasil/02-04-constitucionalismo-e-independencia.md
+      - historia-do-brasil/02-05-influencia-das-ideias-liberais.md
+    - 3. O Primeiro Reinado (1822-1831):
+      - historia-do-brasil/03-01-constituicao-de-1824.md
+      - historia-do-brasil/03-02-quadro-politico-interno.md
+      - historia-do-brasil/03-03-politica-exterior-primeiro-reinado.md
+    - 4. A Regência (1831-1840):
+      - historia-do-brasil/04-01-centralizacao-versus-descentralizacao.md
+      - historia-do-brasil/04-02-ato-adicional-e-revoltas.md
+      - historia-do-brasil/04-03-dimensao-externa-regencia.md
+    - 5. O Segundo Reinado (1840-1889):
+      - historia-do-brasil/05-01-estado-centralizado.md
+      - historia-do-brasil/05-02-politica-externa-segundo-reinado.md
+      - historia-do-brasil/05-03-questao-da-escravidao.md
+      - historia-do-brasil/05-04-crise-do-estado-monarquico.md
+      - historia-do-brasil/05-05-sociedade-e-cultura-segundo-reinado.md
+      - historia-do-brasil/05-06-economia-segundo-reinado.md
+    - 6. A Primeira República (1889-1930):
+      - historia-do-brasil/06-01-proclamacao-e-governos-militares.md
+      - historia-do-brasil/06-02-constituicao-de-1891.md
+      - historia-do-brasil/06-03-regime-oligarquico.md
+      - historia-do-brasil/06-04-economia-agroexportadora.md
+      - historia-do-brasil/06-05-politica-externa-rio-branco.md
+      - historia-do-brasil/06-06-sociedade-e-cultura-primeira-republica.md
+      - historia-do-brasil/06-07-crise-dos-anos-20.md
+      - historia-do-brasil/06-08-revolucao-de-1930.md
+    - 7. A Era Vargas (1930-1945):
+      - historia-do-brasil/07-01-processo-politico-e-economia.md
+      - historia-do-brasil/07-02-constituicao-de-1934.md
+      - historia-do-brasil/07-03-estado-novo.md
+      - historia-do-brasil/07-04-contexto-internacional-e-guerra.md
+      - historia-do-brasil/07-05-industrializacao-e-trabalhismo.md
+      - historia-do-brasil/07-06-sociedade-e-cultura-era-vargas.md
+    - 8. A República Liberal (1945-1964):
+      - historia-do-brasil/08-01-nova-ordem-politica.md
+      - historia-do-brasil/08-02-industrializacao-e-urbanizacao.md
+      - historia-do-brasil/08-03-politica-externa-1945-1964.md
+      - historia-do-brasil/08-04-sociedade-e-cultura-1945-1964.md
+    - 9. O Regime Militar (1964-1985):
+      - historia-do-brasil/09-01-constituicao-1967-1969.md
+      - historia-do-brasil/09-02-economia-regime-militar.md
+      - historia-do-brasil/09-03-politica-externa-regime-militar.md
+      - historia-do-brasil/09-04-sociedade-e-cultura-regime-militar.md
+      - historia-do-brasil/09-05-transicao-politica.md
+    - 10. O Processo Democrático a partir de 1985:
+      - historia-do-brasil/10-01-constituicao-de-1988.md
+      - historia-do-brasil/10-02-partidos-e-eleicoes.md
+      - historia-do-brasil/10-03-economia-plano-real.md
+      - historia-do-brasil/10-04-globalizacao-e-integracao.md
+      - historia-do-brasil/10-05-mudancas-sociais.md
+      - historia-do-brasil/10-06-cultura-contemporanea.md
+      - historia-do-brasil/10-07-politica-externa-pos-1985.md
+      - historia-do-brasil/10-08-mercosul.md
+      - historia-do-brasil/10-09-brasil-na-onu.md
+    - 11. Impactos Tecnológicos e Digitais:
+      - historia-do-brasil/11-01-impactos-tecnologicos-e-digitais.md
   - Direito:
     - Visão Geral: direito/index.md
     - 1. Teoria Geral do Direito e Direito Constitucional:
