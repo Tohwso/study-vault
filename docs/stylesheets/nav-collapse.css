@@ -23,7 +23,7 @@
 
 /* Spacing between top-level discipline items when collapsed */
 .md-nav--primary > .md-nav__list > .md-nav__item--nested {
-  margin-top: 5px;
+  margin-top: 8px;
 }
 
 /* Also expand when the section contains the active page */
