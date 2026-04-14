@@ -192,3 +192,49 @@ nav:
       - geografia/07-01-meio-ambiente-nas-relacoes-internacionais.md
       - geografia/07-02-biomas-dominios-e-ecossistemas-brasileiros.md
       - geografia/07-03-politica-e-gestao-ambiental-no-brasil.md
+  - Direito:
+    - Visão Geral: direito/index.md
+    - 1. Teoria Geral do Direito e Direito Constitucional:
+      - direito/01-normas-juridicas.md
+      - direito/02-personalidade-juridica.md
+      - direito/03-constituicao.md
+      - direito/04-estado.md
+    - 2. Organização do Estado Brasileiro:
+      - direito/05-estado-democratico-de-direito.md
+      - direito/06-organizacao-e-competencias-dos-poderes.md
+      - direito/07-processo-legislativo-brasileiro.md
+      - direito/08-direitos-e-garantias-fundamentais.md
+    - 3. Direito Administrativo:
+      - direito/09-administracao-publica.md
+      - direito/10-licitacoes-e-contratos.md
+      - direito/11-responsabilidade-civil-do-estado.md
+      - direito/12-servidor-publico.md
+      - direito/13-regime-juridico-seb.md
+      - direito/14-financas-publicas.md
+    - 4. DIP — Fundamentos:
+      - direito/15-dip-e-direito-interno.md
+      - direito/16-principios-relacoes-internacionais.md
+      - direito/17-dip-e-direito-internacional-privado.md
+      - direito/18-estado-no-dip.md
+    - 5. Sujeitos e Jurisdição Internacional:
+      - direito/19-territorio.md
+      - direito/20-povo-e-nacionalidade.md
+      - direito/21-jurisdicao-e-relacoes-diplomaticas.md
+      - direito/22-sujeitos-especiais-do-dip.md
+    - 6. Fontes e Mecanismos do DIP:
+      - direito/23-fontes-do-dip.md
+      - direito/24-solucao-pacifica-de-controversias.md
+      - direito/25-organizacoes-internacionais.md
+      - direito/26-direito-da-integracao-e-mercosul.md
+    - 7. Uso da Força e Direitos Humanos:
+      - direito/27-uso-da-forca.md
+      - direito/28-direitos-humanos.md
+      - direito/29-conflitos-armados-e-dih.md
+    - 8. Ramos Especializados do DIP:
+      - direito/30-direito-penal-internacional.md
+      - direito/31-direito-do-comercio-internacional.md
+      - direito/32-direito-do-meio-ambiente-e-do-mar.md
+    - 9. Cooperação e Espaços Internacionais:
+      - direito/33-direito-internacional-do-trabalho.md
+      - direito/34-areas-alem-da-jurisdicao-exclusiva.md
+      - direito/35-cooperacao-juridica-internacional.md

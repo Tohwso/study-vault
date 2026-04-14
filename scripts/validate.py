@@ -35,7 +35,7 @@ VALID_STATUSES = {"completo", "em_revisao", "pendente"}
 # title format: "<ano> - <concurso> - <matéria> - <tema>"
 TITLE_PATTERN = re.compile(r"^\d{4}\s*-\s*.+\s*-\s*.+\s*-\s*.+$")
 
-FILENAME_PATTERN = re.compile(r"^\d{2}-\d{2}-.+\.md$")
+FILENAME_PATTERN = re.compile(r"^\d{2}(-\d{2})?-.+\.md$")
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---", re.DOTALL)
 
@@ -221,13 +221,13 @@ def check_footer(filepath: str, text: str) -> list:
 
 
 def check_filename(filepath: str) -> list:
-    """Check filename follows CC-TT-slug.md convention."""
+    """Check filename follows CC-TT-slug.md or NN-slug.md convention."""
     findings = []
     name = Path(filepath).name
 
     if not FILENAME_PATTERN.match(name):
         findings.append(Finding(filepath, Severity.ERROR,
-            f"Nome de arquivo não segue formato CC-TT-slug.md: '{name}'"))
+            f"Nome de arquivo não segue formato CC-TT-slug.md ou NN-slug.md: '{name}'"))
 
     return findings
 
